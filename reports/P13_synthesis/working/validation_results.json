@@ -1,0 +1,25 @@
+{
+  "required_files": 9,
+  "csv_rows": {
+    "proposal_comparison.csv": 11,
+    "reconciliation_log.csv": 31,
+    "id_crosswalk.csv": 2086,
+    "sources.csv": 54,
+    "input_inventory.csv": 12
+  },
+  "local_links_checked": 441,
+  "original_files_manifested": 297,
+  "original_metadata_unchanged": true,
+  "edition_identity_collisions": 0,
+  "portfolio_hours": [
+    37.0,
+    52,
+    52.5
+  ],
+  "max_weekly_hours": 5,
+  "brief_page_word_counts": [
+    446,
+    343
+  ],
+  "status": "passed"
+}
