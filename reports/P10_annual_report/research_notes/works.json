@@ -1,0 +1,172 @@
+[
+  {
+    "id": "P10-W001",
+    "title": "Sous les verrous. Une histoire sociale de la prison (France, premier XXe siècle)",
+    "author": "Elsa Génard",
+    "date": "2025-09-12",
+    "date_precision": "in-period author announcement dated 2025-09-12; exact first release date not confirmed",
+    "url": "https://www.asso-h2c.fr/2025/09/12/parution-elsa-genard-sous-les-verrous-une-histoire-sociale-de-la-prison/",
+    "relationship": "member achievement: former CHEP fellow 2021–2022; also on undated associates list; CHEP funding not verified",
+    "period_status": "in_period_publication_announcement; exact_release_boundary_unverified",
+    "evidence_status": "inferred",
+    "source_ids": [
+      "P10-S101",
+      "P10-S104",
+      "P10-S105",
+      "P10-S106",
+      "P10-S108"
+    ],
+    "description_basis": "author-supplied publisher blurb and contents; not full book",
+    "type": "book",
+    "doi": "10.4000/14x0b",
+    "isbn": "9782713234347",
+    "count_unique_work": false,
+    "editorial_note": "Book existence and former fellowship verified; selected as an in-period announcement, not included in strict publication-date count until release date confirmed."
+  },
+  {
+    "id": "P10-W002",
+    "title": "Épreuves d’autorité",
+    "author": "Corentin Durand; Elsa Génard; Mathilde Rossigneux-Méheust",
+    "date": "2025-11-20",
+    "date_precision": "publisher print issue date; indexed journal online date 2025-10-01 not directly retrievable",
+    "url": "https://doi.org/10.4000/151vz",
+    "relationship": "member achievement: coauthored contribution by former CHEP fellow; no support acknowledgement verified",
+    "period_status": "in_period",
+    "evidence_status": "verified",
+    "source_ids": [
+      "P10-S104",
+      "P10-S108",
+      "P10-S109",
+      "P10-S112"
+    ],
+    "description_basis": "HAL metadata; publisher issue abstract and contents; indexed journal text not relied on for unqualified full-text reading",
+    "type": "journal_editorial",
+    "journal": "Tracés. Revue de Sciences humaines",
+    "issue": "47",
+    "pages": "9–26",
+    "doi": "10.4000/151vz",
+    "count_unique_work": true
+  },
+  {
+    "id": "P10-W003",
+    "title": "Expériences d’autorité. Entretien avec Emmanuel Saint-Fuscien",
+    "author": "Emmanuel Saint-Fuscien; Elsa Génard; Mathilde Rossigneux-Méheust",
+    "date": "2025-11-20",
+    "date_precision": "publisher print issue date",
+    "url": "https://doi.org/10.4000/151w8",
+    "relationship": "member achievement: interview conducted by former CHEP fellow and co-interviewer; no support acknowledgement verified",
+    "period_status": "in_period",
+    "evidence_status": "verified",
+    "source_ids": [
+      "P10-S104",
+      "P10-S108",
+      "P10-S112"
+    ],
+    "description_basis": "bibliographic metadata and publisher contents only; do not summarize interview argument",
+    "type": "published_research_interview",
+    "journal": "Tracés. Revue de Sciences humaines",
+    "issue": "47",
+    "pages": "161–175",
+    "doi": "10.4000/151w8",
+    "count_unique_work": true
+  },
+  {
+    "id": "P10-W004",
+    "title": "Tracés, n°47/2025 : Épreuves d’autorité",
+    "author": "Corentin Durand; Elsa Génard; Mathilde Rossigneux-Méheust (eds.)",
+    "date": "2025-11-20",
+    "date_precision": "publisher print issue date",
+    "url": "https://catalogue-editions.ens-lyon.fr/fr/livre/?GCOI=29021100400380",
+    "relationship": "member achievement: editorial contribution of former fellow",
+    "period_status": "in_period_container_excluded_from_unique_work_total",
+    "evidence_status": "verified",
+    "source_ids": [
+      "P10-S104",
+      "P10-S111",
+      "P10-S112"
+    ],
+    "description_basis": "publisher description and contents",
+    "type": "edited_journal_issue_container",
+    "isbn": "9791036208836",
+    "count_unique_work": false
+  },
+  {
+    "id": "P10-W005",
+    "title": "The Real Economy: History and Theory",
+    "author": "Jonathan Levy",
+    "date": "2025-02-25",
+    "date_precision": "US release; UK release 2025-04-22",
+    "url": "https://press.princeton.edu/books/hardcover/9780691252551/the-real-economy",
+    "relationship": "CHEP participant publication highlighted by centre; no funding attribution",
+    "period_status": "before_period",
+    "evidence_status": "verified",
+    "source_ids": [
+      "P10-S101",
+      "P10-S113"
+    ],
+    "description_basis": "publisher overview read; background reading only, not annual output",
+    "type": "book",
+    "isbn": "9780691252551",
+    "count_unique_work": false
+  },
+  {
+    "id": "P10-W006",
+    "title": "De proche en proche. Une famille ordinaire dans l’histoire de France",
+    "author": "Emma Rothschild",
+    "date": "date_unknown",
+    "date_precision": "publisher inaccessible; pre-period publication lead not primary-verified",
+    "url": "https://www.seuil.com/ouvrage/de-proche-en-proche-emma-rothschild/9782021516791",
+    "relationship": "CHEP participant publication highlighted by centre; translation timing not established",
+    "period_status": "unverified_excluded",
+    "evidence_status": "unverified",
+    "source_ids": [
+      "P10-S101",
+      "P10-S114"
+    ],
+    "description_basis": "metadata only from CHEP; do not summarize argument",
+    "type": "translated_book_edition",
+    "isbn": "9782021516791 (publisher URL identifier)",
+    "count_unique_work": false
+  },
+  {
+    "id": "P10-W007",
+    "title": "Aliénés. Une histoire sociale de la folie au XIXe siècle",
+    "author": "Anatole Le Bras",
+    "date": "2024-01-04",
+    "date_precision": "publisher day/month/year",
+    "url": "https://www.cnrseditions.fr/catalogue/histoire/alienes/",
+    "relationship": "former CHEP fellow 2021–2023; participant publication highlighted",
+    "period_status": "before_period",
+    "evidence_status": "verified",
+    "source_ids": [
+      "P10-S101",
+      "P10-S104",
+      "P10-S115"
+    ],
+    "description_basis": "publisher description read; not annual output",
+    "type": "book",
+    "isbn": "9782271144676",
+    "count_unique_work": false
+  },
+  {
+    "id": "P10-W008",
+    "title": "La mise au travail des fleuves et des rivières",
+    "author": "Giacomo Parrinello",
+    "date": "2025-03-06",
+    "date_precision": "publisher container publication date",
+    "url": "https://www.tallandier.com/livre/la-terre-perdue/",
+    "relationship": "CHEP associate in undated current directory; wider-network bibliography; no centre support verified",
+    "period_status": "before_period",
+    "evidence_status": "verified",
+    "source_ids": [
+      "P10-S103",
+      "P10-S117",
+      "P10-S118"
+    ],
+    "description_basis": "chapter metadata only; publisher summary is for whole volume, not chapter",
+    "type": "book_chapter",
+    "container": "La Terre perdue. Une histoire de l’Occident et de la nature XVIIIe–XXIe siècle",
+    "container_editors": "Charles-François Mathis; Steve Hagimont",
+    "count_unique_work": false
+  }
+]

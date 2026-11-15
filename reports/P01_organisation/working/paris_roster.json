@@ -1,0 +1,1322 @@
+{
+  "as_of_date": "2026-11-15",
+  "sources": [
+    {
+      "source_id": "P01-SA01",
+      "url": "https://histecon.fr/en/research_associates.html",
+      "title": "Research Associates — CHEP",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "20 named associates and institutions; undated roster",
+      "retrieval_status": "retrieved via web tool; indexed copy labelled crawled today"
+    },
+    {
+      "source_id": "P01-SA02",
+      "url": "https://histecon.fr/fr/chercheurs_associes.html",
+      "title": "Chercheurs associés — CHEP",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "Same 20 names and affiliations as English associates; French category",
+      "retrieval_status": "retrieved via web tool; copy labelled crawled 5 months ago"
+    },
+    {
+      "source_id": "P01-SA03",
+      "url": "https://histecon.fr/en/research_fellows.html",
+      "title": "Research Fellows — CHEP",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "Jessica Balguy sole listed fellow; slavery compensation and colonial land research",
+      "retrieval_status": "retrieved via web tool; copy labelled crawled 6 months ago"
+    },
+    {
+      "source_id": "P01-SA04",
+      "url": "https://histecon.fr/en/research_fellows_past.html",
+      "title": "Past Research Fellows — CHEP",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "Liane Hewitt 2024–2025; Anatole Le Bras 2021–2023; Elsa Génard 2021–2022",
+      "retrieval_status": "retrieved via web tool; indexed copy labelled crawled today"
+    },
+    {
+      "source_id": "P01-SA05",
+      "url": "https://histecon.fr/en/research_students.html",
+      "title": "Research Students 2026 — CHEP",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "Four named students CHSP; prior-cohort link discovered",
+      "retrieval_status": "retrieved via web tool; indexed copy labelled crawled today"
+    },
+    {
+      "source_id": "P01-SA06",
+      "url": "https://histecon.fr/en/research_visitors.html",
+      "title": "Research Visitors — CHEP",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "Chiara Cordelli 2025–2027; body role Senior Research Fellow; Chicago professor; state/capitalism research",
+      "retrieval_status": "retrieved via web tool; copy labelled crawled 3 months ago"
+    },
+    {
+      "source_id": "P01-SA07",
+      "url": "https://histecon.fr/en/visiting_graduate_students.html",
+      "title": "Visiting Graduate Students — CHEP",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "Dev Patel and Emma Prevignano under 2021–2022 heading",
+      "retrieval_status": "retrieved via web tool; indexed copy labelled crawled today"
+    },
+    {
+      "source_id": "P01-SA08",
+      "url": "https://www.sciencespo.fr/histoire/fr/recherche/centre-for-history-and-economics-paris-chep/",
+      "title": "Centre for History and Economics à Paris (CHEP)",
+      "publisher_or_owner": "Sciences Po",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "Community includes Jessica Balguy and Joan Chaker post-doctorantes; four CHEP scholarship holders 2026; selected students 2020; Lola Zappi 2021–2022",
+      "retrieval_status": "retrieved via web tool; copy labelled crawled last month"
+    },
+    {
+      "source_id": "P01-SA09",
+      "url": "https://histecon.fr/en/Francesco_Giosue.html",
+      "title": "Francesco Giosuè — CHEP",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "CHSP doctorate on Euro-Atlantic liberal networks 1788–1827, supervised David Todd",
+      "retrieval_status": "retrieved via web tool; copy labelled crawled 2 months ago"
+    },
+    {
+      "source_id": "P01-SA10",
+      "url": "https://histecon.fr/en/Cheyenne_Olivier.html",
+      "title": "Cheyenne Olivier — CHEP",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "PhD student Tours; textile art illustration social economic historical themes",
+      "retrieval_status": "retrieved via web tool; copy labelled crawled last month"
+    },
+    {
+      "source_id": "P01-SA11",
+      "url": "https://histecon.fas.harvard.edu/ehppf/Elsa_Genard.html",
+      "title": "Elsa Génard — EHP",
+      "publisher_or_owner": "Harvard EHP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "French prison punishment social legal state history and quantitative methods; undated page calls her Harvard fellow, current host affiliation requires correction",
+      "retrieval_status": "retrieved via web tool; copy labelled crawled 4 days ago"
+    },
+    {
+      "source_id": "P01-SA12",
+      "url": "https://histecon.fr/en/research_students_previous.html",
+      "title": "Previous Research Students — CHEP",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "Discovered from students link; content inaccessible",
+      "retrieval_status": "failed cache miss / inaccessible; www alias also fails"
+    },
+    {
+      "source_id": "P01-SA13",
+      "url": "https://histecon.fr/fr/doctorantes.html",
+      "title": "Doctorant·e·s — CHEP",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "French roster route discovered from English; content inaccessible",
+      "retrieval_status": "failed HTTP406"
+    },
+    {
+      "source_id": "P01-SA14",
+      "url": "https://histecon.fr/en/Rebecca_Mathiot%20.html",
+      "title": "Rébecca Mathiot — linked profile",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "Linked from 2026 students; encoded whitespace in path; content inaccessible",
+      "retrieval_status": "failed cache miss / inaccessible"
+    },
+    {
+      "source_id": "P01-SA15",
+      "url": "https://histecon.fr/en/Giulio_Piumelli.html",
+      "title": "Giulio Piumelli — linked profile",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "Linked from 2026 students; content inaccessible",
+      "retrieval_status": "failed cache miss / inaccessible"
+    },
+    {
+      "source_id": "P01-SA16",
+      "url": "https://histecon.fr/en/Aesa_Virely.html",
+      "title": "Aesa Virely — linked profile",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "Linked from 2026 students; content inaccessible",
+      "retrieval_status": "failed HTTP406"
+    },
+    {
+      "source_id": "P01-SA17",
+      "url": "https://histecon.fr/fr/research_visitors.html",
+      "title": "Chercheurs invités — CHEP",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official roster or profile",
+      "supports": "Same Cordelli content in English body; French visitors heading",
+      "retrieval_status": "retrieved via web tool; copy labelled crawled last month"
+    },
+    {
+      "source_id": "P01-SA18",
+      "url": "https://www.sciencespo.fr/histoire/fr/annuaire/mathiot-rebecca/",
+      "title": "Rébecca Mathiot",
+      "publisher_or_owner": "Sciences Po",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or institutional announcement",
+      "supports": "Maritime occupational risks; labour; social protection; CHSP doctorate since September2025; thesis supervisor Nicolas Delalande",
+      "retrieval_status": "retrieved via web tool; indexed copy; not independent live verification"
+    },
+    {
+      "source_id": "P01-SA19",
+      "url": "https://www.sciencespo.fr/histoire/fr/annuaire/piumelli-giulio/",
+      "title": "Giulio Piumelli",
+      "publisher_or_owner": "Sciences Po",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or institutional announcement",
+      "supports": "CHSP/Scuola Superiore Meridionale cotutelle since2024; Washington Consensus1979–1995; international history",
+      "retrieval_status": "retrieved via web tool; indexed copy; not independent live verification"
+    },
+    {
+      "source_id": "P01-SA20",
+      "url": "https://www.sciencespo.fr/histoire/fr/annuaire/virely-aesa/",
+      "title": "Aesa Virely",
+      "publisher_or_owner": "Sciences Po",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or institutional announcement",
+      "supports": "CHSP doctorate since2025; age-related vulnerabilities and welfare in socialist Yugoslavia1945–1991",
+      "retrieval_status": "retrieved via web tool; indexed copy; not independent live verification"
+    },
+    {
+      "source_id": "P01-SA21",
+      "url": "https://www.sciencespo.fr/ecole-recherche/fr/actualites/quatre-jeunes-chercheurs-histoire-laureats-bourse-chep-2026/",
+      "title": "Quatre jeunes chercheurs en histoire lauréats d’une bourse de recherche CHEP2026",
+      "publisher_or_owner": "Sciences Po",
+      "source_date": "2026-01-28",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or institutional announcement",
+      "supports": "28January2026 announcement confirms Francesco Giosuè Rébecca Mathiot Giulio Piumelli Aesa Virely actual2026 awardees;2019 collaboration2022 establishment",
+      "retrieval_status": "retrieved via web tool; indexed copy; not independent live verification"
+    },
+    {
+      "source_id": "P01-SA22",
+      "url": "https://www.orient-institut.org/news-detail/congratulation-to-our-doctoral-fellow-joan-chaker-2025-2026-who-received-her-phd-thesis-from-the-history-department-at-harvard-university.html",
+      "title": "Congratulation to our doctoral fellow Joan Chaker (2025/2026)",
+      "publisher_or_owner": "Orient-Institut Beirut",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or institutional announcement",
+      "supports": "PhD received; about to start three-year CHEP postdoctoral fellowship; economic/environmental joint programme; no exact appointment dates",
+      "retrieval_status": "retrieved via web tool; indexed copy; not independent live verification"
+    },
+    {
+      "source_id": "P01-SA23",
+      "url": "https://histecon.fr/fr/Anatole_LeBras.html",
+      "title": "Anatole Le Bras",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or institutional announcement",
+      "supports": "Psychiatry social/cultural history; climate and mental health; Strasbourg postdoc2021–2023, supporting date discrepancy caution",
+      "retrieval_status": "retrieved via web tool; indexed copy; not independent live verification"
+    },
+    {
+      "source_id": "P01-SA24",
+      "url": "https://histecon.fr/en/Liane_Hewitt.html",
+      "title": "Liane Hewitt",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or institutional announcement",
+      "supports": "Historical CHEP profile themes; undated present-tense postdoctoral wording superseded for current classification by former-fellows roster",
+      "retrieval_status": "retrieved via web tool; indexed copy; not independent live verification"
+    },
+    {
+      "source_id": "P01-SA25",
+      "url": "https://www.sciencespo.fr/histoire/fr/chercheur/Marion%20Fontaine/86113.html",
+      "title": "Marion Fontaine",
+      "publisher_or_owner": "Sciences Po",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional profile",
+      "supports": "labour movements; socialism; mining; deindustrialization; leisure and sport",
+      "retrieval_status": "old indexed profile used for themes only; crawled1.5years ago"
+    },
+    {
+      "source_id": "P01-SA26",
+      "url": "https://www.ericmonnet.eu/",
+      "title": "Eric Monnet",
+      "publisher_or_owner": "Eric Monnet professional website linked by CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "author professional profile linked by CHEP",
+      "supports": "central banking; credit; international monetary system; banking crises; European economic history",
+      "retrieval_status": "retrieved author-maintained profile; crawled yesterday"
+    },
+    {
+      "source_id": "P01-SA27",
+      "url": "https://www.ias.edu/scholars/trivellato",
+      "title": "Francesca Trivellato",
+      "publisher_or_owner": "Institute for Advanced Study",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional profile",
+      "supports": "early modern Italy and Europe; preindustrial markets; archival methods; history of scholarship",
+      "retrieval_status": "retrieved; crawled2days ago; explicitly home institution IAS; ORCID0000-0001-6864-1451"
+    },
+    {
+      "source_id": "P01-SA28",
+      "url": "https://research.manchester.ac.uk/en/persons/alexia.yates",
+      "title": "Alexia Yates",
+      "publisher_or_owner": "University of Manchester",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional profile",
+      "supports": "urban political economy; real estate; capitalism; financial markets; France",
+      "retrieval_status": "rewritten tool summary of official profile; indexed1.1years ago; ORCID0000-0002-0743-0658; themes only"
+    }
+  ],
+  "people": [
+    {
+      "name": "Anatole Le Bras",
+      "category": "Paris research associate; Paris former research fellow",
+      "institution": "Université Versailles",
+      "research_themes": "psychiatry; mental health; climate; nineteenth/twentieth-century Europe and United States",
+      "profile_url": "https://www.chcsc.uvsq.fr/m-anatole-le-bras",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02",
+        "P01-SA04",
+        "P01-SA23"
+      ]
+    },
+    {
+      "name": "Nicolas Delalande",
+      "category": "Paris research associate",
+      "institution": "Sciences Po",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://www.sciencespo.fr/histoire/fr/chercheur/Nicolas%20Delalande/76369.html",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ]
+    },
+    {
+      "name": "Guillaume Daudin",
+      "category": "Paris research associate",
+      "institution": "Paris Dauphine",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://gdaudin.github.io/",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ]
+    },
+    {
+      "name": "Marion Fontaine",
+      "category": "Paris research associate",
+      "institution": "Sciences Po",
+      "research_themes": "labour movements; socialism; mining; deindustrialization; leisure and sport",
+      "profile_url": "https://www.sciencespo.fr/histoire/fr/chercheur/Marion%20Fontaine/86113.html",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02",
+        "P01-SA25"
+      ]
+    },
+    {
+      "name": "Roberto Galbiati",
+      "category": "Paris research associate",
+      "institution": "Sciences Po",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://www.sciencespo.fr/department-economics/researcher/roberto-galbiati.html",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ]
+    },
+    {
+      "name": "Elsa Génard",
+      "category": "Paris research associate; Paris former research fellow",
+      "institution": "Harvard (as listed; stale affiliation suspected)",
+      "research_themes": "prisons; punishment; social history; law; state; quantitative methods",
+      "profile_url": "https://histecon.fas.harvard.edu/ehppf/Elsa_Genard.html",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02",
+        "P01-SA04",
+        "P01-SA11"
+      ]
+    },
+    {
+      "name": "Joseph la Hausse de Lalouvière",
+      "category": "Paris research associate",
+      "institution": "Edinburgh",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://www.ed.ac.uk/profile/dr-joseph-la-hausse-de-lalouviere",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ]
+    },
+    {
+      "name": "Claire Lemercier",
+      "category": "Paris research associate",
+      "institution": "Sciences Po",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://www.sciencespo.fr/cso/en/researcher/Claire%20Lemercier/1022.html",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ]
+    },
+    {
+      "name": "Mélanie Lamotte",
+      "category": "Paris research associate",
+      "institution": "Duke",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://scholars.duke.edu/person/melanie.lamotte",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ]
+    },
+    {
+      "name": "Thomas Lauvaux",
+      "category": "Paris research associate",
+      "institution": "Reims",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://www.cefe.cnrs.fr/fr/recherche/ef/forecast/832-v/3657-lauvaux-thomas",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ]
+    },
+    {
+      "name": "Jonathan Levy",
+      "category": "Paris research associate",
+      "institution": "Sciences Po",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://www.sciencespo.fr/histoire/en/directory/levy-jonathan/",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ]
+    },
+    {
+      "name": "Mary Lewis",
+      "category": "Paris research associate",
+      "institution": "Harvard",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://history.fas.harvard.edu/people/mary-lewis",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ]
+    },
+    {
+      "name": "Eric Monnet",
+      "category": "Paris research associate",
+      "institution": "EHESS / PSE",
+      "research_themes": "central banking; credit; international monetary system; banking crises; European economic history",
+      "profile_url": "https://www.ericmonnet.eu/",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02",
+        "P01-SA26"
+      ]
+    },
+    {
+      "name": "Cheyenne Olivier",
+      "category": "Paris research associate",
+      "institution": "Tours",
+      "research_themes": "illustration; textile art; social and economic history",
+      "profile_url": "https://histecon.fr/en/Cheyenne_Olivier.html",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02",
+        "P01-SA10"
+      ]
+    },
+    {
+      "name": "Kevin O'Rourke",
+      "category": "Paris research associate",
+      "institution": "Sciences Po",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://kevinhorourke.com/",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ]
+    },
+    {
+      "name": "M’Hamed Oualdi",
+      "category": "Paris research associate",
+      "institution": "Sciences Po",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://www.sciencespo.fr/histoire/en/researcher/M%27hamed%20Oualdi/76196-2.html",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ]
+    },
+    {
+      "name": "Giacomo Parrinello",
+      "category": "Paris research associate",
+      "institution": "Sciences Po",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://www.sciencespo.fr/histoire/en/researcher/Giacomo%20Parrinello/76291.html",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ]
+    },
+    {
+      "name": "Gareth Stedman Jones",
+      "category": "Paris research associate",
+      "institution": "Queen Mary University of London",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://www.qmul.ac.uk/history/people/emeritus-academic-staff/profiles/stedmanjonesgareth.html",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ]
+    },
+    {
+      "name": "Francesca Trivellato",
+      "category": "Paris research associate",
+      "institution": "Institute for Advanced Study, Princeton (CHEP roster short label Princeton; not Princeton University)",
+      "research_themes": "early modern Italy and Europe; preindustrial markets; archival methods; history of scholarship",
+      "profile_url": "https://www.ias.edu/scholars/trivellato",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02",
+        "P01-SA27"
+      ]
+    },
+    {
+      "name": "Alexia Yates",
+      "category": "Paris research associate",
+      "institution": "Manchester",
+      "research_themes": "urban political economy; real estate; capitalism; financial markets; France",
+      "profile_url": "https://research.manchester.ac.uk/en/persons/alexia.yates",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02",
+        "P01-SA28"
+      ]
+    },
+    {
+      "name": "Liane Hewitt",
+      "category": "Paris former research fellow",
+      "institution": "not_found_publicly",
+      "research_themes": "monopoly; democracy; cartels; European political economy; corporate governance; energy; labour",
+      "profile_url": "https://www.history.upenn.edu/people/liane-hewitt",
+      "current_status": "former fellow; 2024–2025",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA04",
+        "P01-SA24"
+      ]
+    },
+    {
+      "name": "Jessica Balguy",
+      "category": "Paris research fellow; post-doctorante",
+      "institution": "CHEP; Sciences Po",
+      "research_themes": "slavery; compensation; French colonial lands; French West Indies",
+      "profile_url": "https://histecon.fr/en/research_fellows.html",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA03",
+        "P01-SA08"
+      ]
+    },
+    {
+      "name": "Joan Chaker",
+      "category": "Paris post-doctorante",
+      "institution": "CHEP; Sciences Po",
+      "research_themes": "Ottoman Lebanon; capitalism; ecology; mobility; muleteers; rural political economy",
+      "profile_url": "https://www.sciencespo.fr/histoire/fr/recherche/centre-for-history-and-economics-paris-chep/",
+      "current_status": "listed in current public roster; effective appointment dates unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA08",
+        "P01-SA22"
+      ]
+    },
+    {
+      "name": "Chiara Cordelli",
+      "category": "Paris research visitor; Senior Research Fellow",
+      "institution": "University of Chicago",
+      "research_themes": "privatization; political philosophy; capitalism; investment democracy",
+      "profile_url": "https://histecon.fr/en/research_visitors.html",
+      "current_status": "2025–2027 stated visiting fellowship spans as-of date",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA06",
+        "P01-SA17"
+      ]
+    },
+    {
+      "name": "Francesco Giosuè",
+      "category": "Paris research student; CHEP scholarship holder 2026",
+      "institution": "CHSP",
+      "research_themes": "liberalism; Euro-Atlantic networks; political economy; banking; 1788–1827",
+      "profile_url": "https://histecon.fr/en/Francesco_Giosue.html",
+      "current_status": "2026 CHEP scholarship holder confirmed by dated28January2026 award announcement; exact award duration unspecified",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA05",
+        "P01-SA08",
+        "P01-SA09",
+        "P01-SA21"
+      ]
+    },
+    {
+      "name": "Rébecca Mathiot",
+      "category": "Paris research student; CHEP scholarship holder 2026",
+      "institution": "CHSP",
+      "research_themes": "maritime history; occupational risks; welfare state; labour history; early twentieth-century France",
+      "profile_url": "https://www.sciencespo.fr/histoire/fr/annuaire/mathiot-rebecca/",
+      "current_status": "2026 CHEP scholarship holder confirmed by dated28January2026 award announcement; exact award duration unspecified",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA05",
+        "P01-SA08",
+        "P01-SA18",
+        "P01-SA21"
+      ]
+    },
+    {
+      "name": "Giulio Piumelli",
+      "category": "Paris research student; CHEP scholarship holder 2026",
+      "institution": "CHSP",
+      "research_themes": "Washington Consensus; economic globalization; international financial institutions; United States; debt",
+      "profile_url": "https://www.sciencespo.fr/histoire/fr/annuaire/piumelli-giulio/",
+      "current_status": "2026 CHEP scholarship holder confirmed by dated28January2026 award announcement; exact award duration unspecified",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA05",
+        "P01-SA08",
+        "P01-SA19",
+        "P01-SA21"
+      ]
+    },
+    {
+      "name": "Aesa Virely",
+      "category": "Paris research student; CHEP scholarship holder 2026",
+      "institution": "CHSP",
+      "research_themes": "social welfare; childhood; ageing; socialist Yugoslavia; Balkans;1945–1991",
+      "profile_url": "https://www.sciencespo.fr/histoire/fr/annuaire/virely-aesa/",
+      "current_status": "2026 CHEP scholarship holder confirmed by dated28January2026 award announcement; exact award duration unspecified",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA05",
+        "P01-SA08",
+        "P01-SA20",
+        "P01-SA21"
+      ]
+    },
+    {
+      "name": "Dev Patel",
+      "category": "Paris former visiting graduate student",
+      "institution": "Harvard",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://histecon.fr/en/visiting_graduate_students.html",
+      "current_status": "2021–2022 visiting cohort; selected in 2020; current CHEP status unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA07",
+        "P01-SA08"
+      ]
+    },
+    {
+      "name": "Emma Prevignano",
+      "category": "Paris former visiting graduate student",
+      "institution": "Cambridge",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://histecon.fr/en/visiting_graduate_students.html",
+      "current_status": "2021–2022 visiting cohort; selected in 2020; current CHEP status unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA07",
+        "P01-SA08"
+      ]
+    },
+    {
+      "name": "Megan Ma",
+      "category": "Paris historical selected doctoral exchange participant",
+      "institution": "Sciences Po",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://www.sciencespo.fr/histoire/fr/recherche/centre-for-history-and-economics-paris-chep/",
+      "current_status": "selected in 2020; current CHEP status unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA08"
+      ]
+    },
+    {
+      "name": "Sarah Glaser",
+      "category": "Paris historical selected doctoral exchange participant",
+      "institution": "Sciences Po",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://www.sciencespo.fr/histoire/fr/recherche/centre-for-history-and-economics-paris-chep/",
+      "current_status": "selected in 2020; current CHEP status unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA08"
+      ]
+    },
+    {
+      "name": "Lola Zappi",
+      "category": "CHEP-facilitated historical visiting scholar",
+      "institution": "CHSP (doctorate); Harvard (2021–2022 stay)",
+      "research_themes": "not_found_publicly",
+      "profile_url": "https://www.sciencespo.fr/histoire/fr/recherche/centre-for-history-and-economics-paris-chep/",
+      "current_status": "2021–2022 Harvard stay; current CHEP membership not established",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA08"
+      ]
+    }
+  ],
+  "roles": [
+    {
+      "name": "Anatole Le Bras",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Nicolas Delalande",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Guillaume Daudin",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Marion Fontaine",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Roberto Galbiati",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Elsa Génard",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Joseph la Hausse de Lalouvière",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Claire Lemercier",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Mélanie Lamotte",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Thomas Lauvaux",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Jonathan Levy",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Mary Lewis",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Eric Monnet",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Cheyenne Olivier",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Kevin O'Rourke",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "M’Hamed Oualdi",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Giacomo Parrinello",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Gareth Stedman Jones",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Francesca Trivellato",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Alexia Yates",
+      "role_exact": "Research Associates",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA01",
+        "P01-SA02"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Liane Hewitt",
+      "role_exact": "Research Fellows",
+      "organisation": "paris_che",
+      "start_date": "2024",
+      "end_date": "2025",
+      "date_precision": "year range; former-fellows page",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA04"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Anatole Le Bras",
+      "role_exact": "Research Fellows",
+      "organisation": "paris_che",
+      "start_date": "2021",
+      "end_date": "2023",
+      "date_precision": "year range; former-fellows page",
+      "evidence_status": "conflicting",
+      "source_ids": [
+        "P01-SA04"
+      ],
+      "evidence_note": "Homepage says fellow since 2023; range unresolved"
+    },
+    {
+      "name": "Elsa Génard",
+      "role_exact": "Research Fellows",
+      "organisation": "paris_che",
+      "start_date": "2021",
+      "end_date": "2022",
+      "date_precision": "year range; former-fellows page",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA04"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Jessica Balguy",
+      "role_exact": "Research Fellows",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA03"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Jessica Balguy",
+      "role_exact": "post-doctorante",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA08"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Joan Chaker",
+      "role_exact": "post-doctorante",
+      "organisation": "paris_che",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated listing accessed 2026-11-15; effective start/end unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA08"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Chiara Cordelli",
+      "role_exact": "Senior Research Fellow",
+      "organisation": "paris_che",
+      "start_date": "2025",
+      "end_date": "2027",
+      "date_precision": "year range; stated term",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA06"
+      ],
+      "evidence_note": "Listed under Research Visitors; not a permanent membership claim"
+    },
+    {
+      "name": "Francesco Giosuè",
+      "role_exact": "research students 2026",
+      "organisation": "paris_che",
+      "start_date": "2026",
+      "end_date": "2026",
+      "date_precision": "cohort year; not appointment boundaries",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA05"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Francesco Giosuè",
+      "role_exact": "Doctorantes et doctorants boursiers CHEP 2026",
+      "organisation": "paris_che",
+      "start_date": "2026",
+      "end_date": "2026",
+      "date_precision": "cohort year; award duration unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA08",
+        "P01-SA21"
+      ],
+      "evidence_note": "Actual awardee announcement published2026-01-28; this date is not assumed to be award commencement"
+    },
+    {
+      "name": "Rébecca Mathiot",
+      "role_exact": "research students 2026",
+      "organisation": "paris_che",
+      "start_date": "2026",
+      "end_date": "2026",
+      "date_precision": "cohort year; not appointment boundaries",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA05"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Rébecca Mathiot",
+      "role_exact": "Doctorantes et doctorants boursiers CHEP 2026",
+      "organisation": "paris_che",
+      "start_date": "2026",
+      "end_date": "2026",
+      "date_precision": "cohort year; award duration unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA08",
+        "P01-SA21"
+      ],
+      "evidence_note": "Actual awardee announcement published2026-01-28; this date is not assumed to be award commencement"
+    },
+    {
+      "name": "Giulio Piumelli",
+      "role_exact": "research students 2026",
+      "organisation": "paris_che",
+      "start_date": "2026",
+      "end_date": "2026",
+      "date_precision": "cohort year; not appointment boundaries",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA05"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Giulio Piumelli",
+      "role_exact": "Doctorantes et doctorants boursiers CHEP 2026",
+      "organisation": "paris_che",
+      "start_date": "2026",
+      "end_date": "2026",
+      "date_precision": "cohort year; award duration unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA08",
+        "P01-SA21"
+      ],
+      "evidence_note": "Actual awardee announcement published2026-01-28; this date is not assumed to be award commencement"
+    },
+    {
+      "name": "Aesa Virely",
+      "role_exact": "research students 2026",
+      "organisation": "paris_che",
+      "start_date": "2026",
+      "end_date": "2026",
+      "date_precision": "cohort year; not appointment boundaries",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA05"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Aesa Virely",
+      "role_exact": "Doctorantes et doctorants boursiers CHEP 2026",
+      "organisation": "paris_che",
+      "start_date": "2026",
+      "end_date": "2026",
+      "date_precision": "cohort year; award duration unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA08",
+        "P01-SA21"
+      ],
+      "evidence_note": "Actual awardee announcement published2026-01-28; this date is not assumed to be award commencement"
+    },
+    {
+      "name": "Dev Patel",
+      "role_exact": "visiting graduate students",
+      "organisation": "paris_che",
+      "start_date": "2021",
+      "end_date": "2022",
+      "date_precision": "year range; historical cohort",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA07"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Emma Prevignano",
+      "role_exact": "visiting graduate students",
+      "organisation": "paris_che",
+      "start_date": "2021",
+      "end_date": "2022",
+      "date_precision": "year range; historical cohort",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA07"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Megan Ma",
+      "role_exact": "doctorant·es sélectionné·es en 2020",
+      "organisation": "paris_che",
+      "start_date": "2020",
+      "end_date": "date_unknown",
+      "date_precision": "selection year; no inferred end date",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA08"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Sarah Glaser",
+      "role_exact": "doctorant·es sélectionné·es en 2020",
+      "organisation": "paris_che",
+      "start_date": "2020",
+      "end_date": "date_unknown",
+      "date_precision": "selection year; no inferred end date",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA08"
+      ],
+      "evidence_note": ""
+    },
+    {
+      "name": "Lola Zappi",
+      "role_exact": "accueil de chercheurs et chercheuses à l’étranger",
+      "organisation": "paris_che",
+      "start_date": "2021",
+      "end_date": "2022",
+      "date_precision": "year range; host overview",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-SA08"
+      ],
+      "evidence_note": "CHEP facilitates Harvard visit; descriptive phrase not a formal job title"
+    }
+  ],
+  "coverage": {
+    "associates": 20,
+    "past_fellows": 3,
+    "fellows_branch": 1,
+    "host_additional_postdoc": 1,
+    "students_2026": 4,
+    "research_visitors": 1,
+    "visiting_graduate_students_2021_2022": 2,
+    "previous_students": "inaccessible; no previous cohort census claimed",
+    "notes": [
+      "Initial 406 errors later resolved on four core branches; indexed copies still not independent live verification",
+      "French associates matches English names and listed institutions; French visitors same English body",
+      "Prior student branch remains inaccessible after non-www/www and targeted searches",
+      "Profile themes are evidence-based where available; gaps explicit",
+      "All four2026 student themes obtained from CHEP or Sciences Po profiles; broken CHEP links replaced by inspected host profiles. Joan profile at OIB corroborates three-year postdoc; exact dates unknown. Liane and Anatole legacy profiles inspected for themes without treating present tense as current appointment evidence.",
+      "Additional profiles inspected for Fontaine Monnet Trivellato Yates; old source copies used for stable research themes only. Oualdi linked Sciences Po profile and current-route guesses inaccessible; theme remains not_found_publicly."
+    ]
+  }
+}

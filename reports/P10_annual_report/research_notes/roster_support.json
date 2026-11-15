@@ -1,0 +1,631 @@
+{
+  "as_of_date": "2026-11-15",
+  "reporting_period": "2025-09-01/2026-08-31",
+  "scope": "Focused P10 roster/support inventory; role records are not unique persons; period membership is item-specific",
+  "people": [
+    {
+      "id": "P10-R001",
+      "name": "Francesco Giosuè",
+      "category": "2026 research-grant recipient / Research student",
+      "relationship": "CHEP 2026 research-grant recipient / Research student",
+      "affiliation_dates": "2026 (award cohort; exact affiliation start/end date_unknown)",
+      "period_status": "in_period_award",
+      "source_ids": [
+        "P10-S302",
+        "P10-S312",
+        "P10-S313",
+        "P10-S318"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "Transnational liberal networks between the Atlantic Revolutions and Restoration; Monarchiens and Doctrinaires.",
+      "editorial_query": "Confirm award terms, spending and within-year research milestones; profile describes ongoing project, not a completed 2025–2026 output."
+    },
+    {
+      "id": "P10-R002",
+      "name": "Rébecca Mathiot",
+      "category": "2026 research-grant recipient / Research student",
+      "relationship": "CHEP 2026 research-grant recipient / Research student",
+      "affiliation_dates": "2026 (award cohort; exact affiliation start/end date_unknown)",
+      "period_status": "in_period_award",
+      "source_ids": [
+        "P10-S302",
+        "P10-S312",
+        "P10-S313",
+        "P10-S315"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "Occupational risks, seafarers and social protection in France from the late nineteenth century to the 1950s.",
+      "editorial_query": "Confirm award terms, spending and within-year research milestones; profile describes ongoing project, not a completed 2025–2026 output."
+    },
+    {
+      "id": "P10-R003",
+      "name": "Giulio Piumelli",
+      "category": "2026 research-grant recipient / Research student",
+      "relationship": "CHEP 2026 research-grant recipient / Research student",
+      "affiliation_dates": "2026 (award cohort; exact affiliation start/end date_unknown)",
+      "period_status": "in_period_award",
+      "source_ids": [
+        "P10-S302",
+        "P10-S312",
+        "P10-S313",
+        "P10-S316"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "Creation and implementation of the Washington Consensus, 1979–1995; interactions among US officials, international financial institutions and debtor states.",
+      "editorial_query": "Confirm award terms, spending and within-year research milestones; profile describes ongoing project, not a completed 2025–2026 output."
+    },
+    {
+      "id": "P10-R004",
+      "name": "Aesa Virely",
+      "category": "2026 research-grant recipient / Research student",
+      "relationship": "CHEP 2026 research-grant recipient / Research student",
+      "affiliation_dates": "2026 (award cohort; exact affiliation start/end date_unknown)",
+      "period_status": "in_period_award",
+      "source_ids": [
+        "P10-S302",
+        "P10-S312",
+        "P10-S313",
+        "P10-S317"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "Children’s and older people’s homes and social protection in socialist Yugoslavia, 1945–1991.",
+      "editorial_query": "Confirm award terms, spending and within-year research milestones; profile describes ongoing project, not a completed 2025–2026 output."
+    },
+    {
+      "id": "P10-R005",
+      "name": "Jessica Balguy",
+      "category": "Research fellow",
+      "relationship": "CHEP Research fellow",
+      "affiliation_dates": "in-period affiliation documented 2025-09-16; exact appointment interval date_unknown",
+      "period_status": "in_period_affiliation",
+      "source_ids": [
+        "P10-S303",
+        "P10-S320"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "Colonial land, ownership and labour around the 1848 abolition and 1849 compensation.",
+      "editorial_query": "Confirm appointment dates and distinguish current project from older publication."
+    },
+    {
+      "id": "P10-R006",
+      "name": "Lina Skoglund",
+      "category": "invited postdoctoral researcher (host wording)",
+      "relationship": "CHEP invited postdoctoral researcher (host wording)",
+      "affiliation_dates": "2025-12-01/2027-08-31",
+      "period_status": "in_period_dated_visit",
+      "source_ids": [
+        "P10-S314",
+        "P10-S322",
+        "P10-S323"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "Environmental transformation of Landes de Gascogne; political economy and archival/quantitative approaches.",
+      "editorial_query": "Clarify career-stage chronology: host labels invited postdoc from December 2025, author now reports PhD May 2026. Do not assert degree held throughout visit."
+    },
+    {
+      "id": "P10-R007",
+      "name": "Chiara Cordelli",
+      "category": "Senior Research Fellow; listed under Research visitors",
+      "relationship": "CHEP Senior Research Fellow; listed under Research visitors",
+      "affiliation_dates": "2025–2027 (year precision)",
+      "period_status": "in_period_year_precision",
+      "source_ids": [
+        "P10-S305",
+        "P10-S327"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "History and the Economic Life of the State; investment, planning and capitalism.",
+      "editorial_query": "Confirm exact visit dates; page uses prospective wording and does not establish days physically present."
+    },
+    {
+      "id": "P10-R008",
+      "name": "Joan Chaker",
+      "category": "postdoctoral researcher (host roster)",
+      "relationship": "CHEP postdoctoral researcher (host roster)",
+      "affiliation_dates": "date_unknown",
+      "period_status": "period_unverified",
+      "source_ids": [
+        "P10-S319"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_found_publicly",
+      "editorial_query": "Current undated host listing differs from CHEP fellows page; obtain appointment dates before annual-year attribution."
+    },
+    {
+      "id": "P10-R009",
+      "name": "Liane Hewitt",
+      "category": "past research fellow",
+      "relationship": "CHEP past research fellow",
+      "affiliation_dates": "2024–2025",
+      "period_status": "historical_context",
+      "source_ids": [
+        "P10-S304"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_applicable",
+      "editorial_query": "Fellowship dates alone do not establish a fellowship during 2025-09-01–2026-08-31; current associate status, where listed, is separate."
+    },
+    {
+      "id": "P10-R010",
+      "name": "Anatole Le Bras",
+      "category": "past research fellow",
+      "relationship": "CHEP past research fellow",
+      "affiliation_dates": "2021–2023",
+      "period_status": "historical_context",
+      "source_ids": [
+        "P10-S304"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_applicable",
+      "editorial_query": "Fellowship dates alone do not establish a fellowship during 2025-09-01–2026-08-31; current associate status, where listed, is separate."
+    },
+    {
+      "id": "P10-R011",
+      "name": "Elsa Génard",
+      "category": "past research fellow",
+      "relationship": "CHEP past research fellow",
+      "affiliation_dates": "2021–2022",
+      "period_status": "historical_context",
+      "source_ids": [
+        "P10-S304"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_applicable",
+      "editorial_query": "Fellowship dates alone do not establish a fellowship during 2025-09-01–2026-08-31; current associate status, where listed, is separate."
+    },
+    {
+      "id": "P10-R021",
+      "name": "Anatole Le Bras",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R022",
+      "name": "Nicolas Delalande",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R023",
+      "name": "Guillaume Daudin",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R024",
+      "name": "Marion Fontaine",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R025",
+      "name": "Roberto Galbiati",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R026",
+      "name": "Elsa Génard",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R027",
+      "name": "Joseph la Hausse de Lalouvière",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R028",
+      "name": "Claire Lemercier",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R029",
+      "name": "Mélanie Lamotte",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R030",
+      "name": "Thomas Lauvaux",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R031",
+      "name": "Jonathan Levy",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R032",
+      "name": "Mary Lewis",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R033",
+      "name": "Eric Monnet",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R034",
+      "name": "Cheyenne Olivier",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R035",
+      "name": "Kevin O’Rourke",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R036",
+      "name": "M’Hamed Oualdi",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R037",
+      "name": "Giacomo Parrinello",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R038",
+      "name": "Gareth Stedman Jones",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R039",
+      "name": "Francesca Trivellato",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R040",
+      "name": "Alexia Yates",
+      "category": "research associate",
+      "relationship": "CHEP research associate",
+      "affiliation_dates": "date_unknown; listed on accessed pages 2026-11-15",
+      "period_status": "current_listing_period_unverified",
+      "source_ids": [
+        "P10-S306",
+        "P10-S328"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_extracted_for_this_subtask",
+      "editorial_query": "Undated roster supports listed association, not association for all twelve reporting months; verify item-specific timing."
+    },
+    {
+      "id": "P10-R041",
+      "name": "Dev Patel",
+      "category": "visiting graduate student",
+      "relationship": "CHEP visiting graduate student",
+      "affiliation_dates": "2021–2022",
+      "period_status": "outside_period",
+      "source_ids": [
+        "P10-S311"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_applicable",
+      "editorial_query": "Historical visiting cohort only; no current visiting-student count established."
+    },
+    {
+      "id": "P10-R042",
+      "name": "Emma Prevignano",
+      "category": "visiting graduate student",
+      "relationship": "CHEP visiting graduate student",
+      "affiliation_dates": "2021–2022",
+      "period_status": "outside_period",
+      "source_ids": [
+        "P10-S311"
+      ],
+      "evidence_status": "verified",
+      "research_summary": "not_applicable",
+      "editorial_query": "Historical visiting cohort only; no current visiting-student count established."
+    }
+  ],
+  "support": [
+    {
+      "id": "P10-F001",
+      "scheme": "CHEP research grants 2026",
+      "beneficiary": "Francesco Giosuè",
+      "relationship": "centre-supported",
+      "award_year": "2026",
+      "announcement_date": "2026-01-28",
+      "award_date": "date_unknown",
+      "period_status": "in_period_award_announcement",
+      "amount": "not_found_publicly",
+      "currency": "not_found_publicly",
+      "amount_basis": "not_found_publicly",
+      "expenditure": "not_found_publicly",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P10-S312",
+        "P10-S313"
+      ],
+      "counting_rule": "One unique named recipient; EN/FR articles describe the same cohort."
+    },
+    {
+      "id": "P10-F002",
+      "scheme": "CHEP research grants 2026",
+      "beneficiary": "Rébecca Mathiot",
+      "relationship": "centre-supported",
+      "award_year": "2026",
+      "announcement_date": "2026-01-28",
+      "award_date": "date_unknown",
+      "period_status": "in_period_award_announcement",
+      "amount": "not_found_publicly",
+      "currency": "not_found_publicly",
+      "amount_basis": "not_found_publicly",
+      "expenditure": "not_found_publicly",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P10-S312",
+        "P10-S313"
+      ],
+      "counting_rule": "One unique named recipient; EN/FR articles describe the same cohort."
+    },
+    {
+      "id": "P10-F003",
+      "scheme": "CHEP research grants 2026",
+      "beneficiary": "Giulio Piumelli",
+      "relationship": "centre-supported",
+      "award_year": "2026",
+      "announcement_date": "2026-01-28",
+      "award_date": "date_unknown",
+      "period_status": "in_period_award_announcement",
+      "amount": "not_found_publicly",
+      "currency": "not_found_publicly",
+      "amount_basis": "not_found_publicly",
+      "expenditure": "not_found_publicly",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P10-S312",
+        "P10-S313"
+      ],
+      "counting_rule": "One unique named recipient; EN/FR articles describe the same cohort."
+    },
+    {
+      "id": "P10-F004",
+      "scheme": "CHEP research grants 2026",
+      "beneficiary": "Aesa Virely",
+      "relationship": "centre-supported",
+      "award_year": "2026",
+      "announcement_date": "2026-01-28",
+      "award_date": "date_unknown",
+      "period_status": "in_period_award_announcement",
+      "amount": "not_found_publicly",
+      "currency": "not_found_publicly",
+      "amount_basis": "not_found_publicly",
+      "expenditure": "not_found_publicly",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P10-S312",
+        "P10-S313"
+      ],
+      "counting_rule": "One unique named recipient; EN/FR articles describe the same cohort."
+    },
+    {
+      "id": "P10-F005",
+      "scheme": "CHEP studentships 2027 call",
+      "beneficiary": "not_applicable",
+      "relationship": "centre-supported opportunity; no award established",
+      "award_year": "2027",
+      "announcement_date": "date_unknown",
+      "award_date": "not_applicable",
+      "period_status": "postscript_only",
+      "amount": "1000",
+      "currency": "EUR",
+      "amount_basis": "maximum access to research expenses per successful applicant in calendar 2027; not award/disbursement",
+      "expenditure": "not_found_publicly",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P10-S307"
+      ],
+      "counting_rule": "Call only, excluded from annual award/recipient indicators."
+    }
+  ],
+  "training_status": "No separate CHEP training-completion count established in this subcorpus; seminars covered by activities agent",
+  "exchange_status": "Lina Skoglund dated CHEP visit and Chiara Cordelli year-level affiliation; no 2025–2026 graduate exchange count established",
+  "indicators": [
+    {
+      "indicator": "2026 doctoral grant recipients publicly announced within reporting period",
+      "value": 4,
+      "denominator": "4 names in the 28 January 2026 cohort announcement, not all applicants or all CHEP beneficiaries",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P10-S312",
+        "P10-S313"
+      ]
+    },
+    {
+      "indicator": "Total CHEP support spending in reporting period",
+      "value": "not_found_publicly",
+      "denominator": "not_found_publicly",
+      "evidence_status": "unverified",
+      "source_ids": [
+        "P10-S307",
+        "P10-S308",
+        "P10-S312"
+      ]
+    }
+  ]
+}

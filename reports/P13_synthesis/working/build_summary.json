@@ -1,0 +1,9 @@
+{
+  "input_files": 297,
+  "input_source_records": 1254,
+  "distinct_input_url_chains": 718,
+  "crosswalk_rows": 2086,
+  "reconciliations": 31,
+  "synthesis_source_observations": 54,
+  "proposals": 11
+}

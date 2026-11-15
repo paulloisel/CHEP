@@ -1,0 +1,39 @@
+Browser tab: 1, Title: "Joint Centre for History and Economics:: Paris", URL: "https://histecon.fr/en/research_fellows.html".
+1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/en/research_fellows.html
+	2 container container
+		3 container mainContent
+			4 container
+				5 link Description: FR, Value: histecon.fr/fr/research_fellows.html
+				6 text  | 
+				7 link Description: EN, Value: histecon.fr/en/research_fellows.html#
+			8 container
+				9 link Description: CHE-Harvard, Value: histecon.fas.harvard.edu/
+				10 link Description: CHE-Cambridge, Value: histecon.magd.cam.ac.uk/
+			11 link Description: Centre for History and Economics, Value: histecon.fr/en/index.html, ID: logo
+			12 content list topNav
+				13 link Description: Home, Value: histecon.fr/en/index.html
+				14 link Description: People, Value: histecon.fr/en/people.html
+				15 link Description: Publications, Value: histecon.fr/en/publications.html
+				16 link Description: Projects, Value: histecon.fr/en/projects.html
+				17 link Description: CHEP Events, Value: histecon.fr/en/chep_events.html
+				18 link Description: Grants, Value: histecon.fr/en/research_grants.html
+				19 link Description: Announcements archive, Value: histecon.fr/en/announcements_archive.html
+				20 link Description: Contact Us, Value: histecon.fr/en/contacts.html
+		21 container mainpage
+			22 heading RESEARCH FELLOWS, Value: 4
+				23 text RESEARCH FELLOWS
+			24 container
+				25 text JESSICA BALGUY
+				26 container
+					27 image
+					28 text Jessica Balguy is a French historian specializing in slavery and the French West Indies. Her work focuses on the issue of compensation paid to former slave owners following the French abolition of slavery in 1848. She contributed to the online database 
+					29 link Description: Esclavage & indemnités, Value: esclavage-indemnites.fr/public/
+					30 text  (Slavery & Compensation), which lists all the beneficiaries of compensation from the French colonial empire in 1849. Jessica Balguy has published a book on the same topic:  Indemniser l'esclavage en 1848 ?  Débats dans l'Empire français du XIXe siècle (Compensating for slavery in 1848?  Debates in the French Empire in the 19th century), Ed. Karthala CIRESC,  in 2020 .  Her PhD thesis, defended in 2023 at the École des Hautes Études en Sciences Sociales (EHESS/MoAm/CIREC) under the supervision of historian Myriam Cottias, examines the colored slaveowners in Martinique who received this compensation. For her work in social history, she received the 2024 Jean-Pierre Sainton Thesis Prize from the Fondation pour la Mémoire de l'esclavage (Foundation for the Memory of Slavery), the 2024 Special Prize for the History of the Parliamentary Institution from the National Assembly, and the 2024 Prize from the CNRS Foundation - Ma Thèse en Manga Competition. She also received the "Femmes en tête 2024" award from the Collège des Sociétés Savantes Académiques de France. After a two-year postdoctoral fellowship partly devoted to assisting in the creation of the  Center for Black European Studies and the Atlantic  at Carnegie Mellon University in Pittsburgh, she is now conducting new research at CHEP on the fundamental issue of land in the French colonial empire at the turn of the 1848 abolition. From their (re)distribution after the 1849 compensation, to their use in the post-slavery era, Jessica Balguy traces the long history of the exploitation of colonial lands, their owners, and their workers, using economic data collected during her previous research.
+			31 link Description: Past Research Fellows », Value: histecon.fr/en/research_fellows_past.html
+	32 container copyright
+		33 container
+			34 text Centre for History and Economics
+			35 text Science Po, Paris
+		36 text © 2026 Centre for History and Economics
+
+The focused UI element is 1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/en/research_fellows.html

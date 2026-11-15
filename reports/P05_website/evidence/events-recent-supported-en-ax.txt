@@ -1,0 +1,73 @@
+Browser tab: 1, Title: "Joint Centre for History and Economics:: Paris", URL: "https://histecon.fr/en/events_recent_cs.html".
+1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/en/events_recent_cs.html
+	2 container container
+		3 container mainContent
+			4 container
+				5 link Description: FR, Value: histecon.fr/fr/evenements_soutenus_recents.html
+				6 text  | 
+				7 link Description: EN, Value: histecon.fr/en/events_recent_cs.html#
+			8 container
+				9 link Description: CHE-Harvard, Value: histecon.fas.harvard.edu/
+				10 link Description: CHE-Cambridge, Value: histecon.magd.cam.ac.uk/
+			11 link Description: Centre for History and Economics, Value: histecon.fr/en/index.html, ID: logo
+			12 content list topNav
+				13 container
+					14 link Description: Home, Value: histecon.fr/en/index.html
+				15 container
+					16 link Description: People, Value: histecon.fr/en/people.html
+				17 container
+					18 link Description: Publications, Value: histecon.fr/en/publications.html
+				19 container
+					20 link Description: Projects, Value: histecon.fr/en/projects.html
+				21 container
+					22 link Description: CHEP Events, Value: histecon.fr/en/chep_events.html
+				23 container
+					24 link Description: Grants, Value: histecon.fr/en/research_grants.html
+				25 container
+					26 link Description: Announcements archive, Value: histecon.fr/en/announcements_archive.html
+				27 container
+					28 link Description: Contact Us, Value: histecon.fr/en/contacts.html
+		29 container mainpage
+			30 heading RECENT CENTRE-SUPPORTED EVENTS, Value: 4
+				31 text RECENT CENTRE-SUPPORTED EVENTS
+			32 container
+				33 container
+					34 link Description: Les accaparements de l'eau au XIXe siècle, Value: sciencespo.fr/histoire/fr/evenements/journee-d-etude-les-accaparements-de-l-eau-au-xi-xe-siecle/
+					35 text 11 June 2025
+					36 text Workshop organised by 
+					37 link Description: Yaël Gagnepain, Value: ihmc.ens.psl.eu/-GAGNEPAIN-Yael-.html
+					38 text  (IHMC, CERES ENS-PSL) and 
+					39 link Description: Emilie Pasquier, Value: sciencespo.fr/histoire/en/directory/pasquier-emilie/
+					40 text  (Sciences Po)
+				41 container
+					42 text Imperial and Colonial Currencies. Monetary Supply, Policy and Circulation, Sixteenth to Twentieth Centuries
+					43 text 7 June 2024
+					44 text Workshop organised by 
+					45 link Description: Hugo Carlier, Value: histecon.fr/en/Hugo_Carlier.html
+					46 text  (Sciences Po) and 
+					47 link Description: Juliette Françoise, Value: unige.ch/sciences-societe/dehes/membres/juliette-francoise/
+					48 text  (Geneva/Paris 1)
+				49 container
+					50 text Material life of the Displaced: Categories, Belongings, Solidarities. Nineteenth and Twentieth centuries
+					51 text 5-6 December 2023
+					52 text Conference organised by 
+					53 link Description: Owen Coughlan, Value: history.ox.ac.uk/people/owen-coughlan
+					54 text  (Oxford), 
+					55 link Description: Sibylle Fourcaud, Value: histecon.fr/en/Sibylle_Fourcaud.html
+					56 text  (Sciences Po), 
+					57 link Description: Isabelle Linais, Value: histecon.fr/en/Isabelle_Linais.html
+					58 text  (Sciences Po) and 
+					59 link Description: Abel Solans, Value: histecon.fr/en/Abel_Solans.html
+					60 text  (Sciences Po)
+				61 container
+					62 text Mettre en valeur les empires : XIXe-XXe siècles
+					63 text 9-10 November 2022
+					64 text Centre d’Histoire de Sciences Po
+					65 text A graduate conference organized by Evan Bonney, Thomas Irace and Blaise Truong-Loï on what new histories of capitalism can bring to the economic history of modern colonial empires.
+	66 container copyright
+		67 container
+			68 text Centre for History and Economics
+			69 text Science Po, Paris
+		70 text © 2026 Centre for History and Economics
+
+The focused UI element is 1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/en/events_recent_cs.html

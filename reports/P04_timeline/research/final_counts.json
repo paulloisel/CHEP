@@ -1,0 +1,22 @@
+{
+  "event_rows": 151,
+  "census_records": 148,
+  "unverified_leads": 3,
+  "future": 12,
+  "statuses": {
+    "documented as held": 32,
+    "status unknown": 1,
+    "announced": 114,
+    "cancelled/postponed": 1
+  },
+  "groups": {
+    "paris_centre_programme": 25,
+    "joint_online_network": 32,
+    "linked_host_series": 52,
+    "paris_supported_series": 39
+  },
+  "milestones": 28,
+  "source_rows": 129,
+  "source_unique_urls": 114,
+  "year_table": "| Year | Records | Documented as held | Announced | Status unknown / postponed | Future subset |\n|---|---:|---:|---:|---:|---:|\n| 2019 | 1 | 1 | 0 | 0 | 0 |\n| 2020 | 8 | 1 | 6 | 1 | 0 |\n| 2021 | 14 | 7 | 7 | 0 | 0 |\n| 2022 | 16 | 5 | 11 | 0 | 0 |\n| 2023 | 28 | 7 | 21 | 0 | 0 |\n| 2024 | 26 | 4 | 22 | 0 | 0 |\n| 2025 | 23 | 4 | 19 | 0 | 0 |\n| 2026 | 22 | 3 | 19 | 0 | 3 |\n| 2027 | 9 | 0 | 9 | 0 | 9 |\n| unknown | 1 | 0 | 0 | 1 | 0 |"
+}

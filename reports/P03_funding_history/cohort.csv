@@ -1,0 +1,54 @@
+person_id,name,inclusion_category,Paris_connection,connection_dates,evidence_status,source_ids
+P03-P001,Anatole Le Bras,research_associate;past_fellow,CHEP Research Associate,fellow 2021–2023; associate start date_unknown,verified,P03-S203;P03-S204;P03-S206
+P03-P002,Nicolas Delalande,research_associate;historical_scientific_council_member,CHEP Research Associate; scientific council attested2020-03-10,date_unknown; displayed in accessed directory; scientific council2020-03-10; term boundaries unknown,verified,P03-S203;P03-S204;P03-S309
+P03-P003,Guillaume Daudin,research_associate;historical_scientific_council_member,CHEP Research Associate; scientific council attested2020-03-10,date_unknown; displayed in accessed directory; scientific council2020-03-10; term boundaries unknown,verified,P03-S203;P03-S204;P03-S309
+P03-P004,Marion Fontaine,research_associate,CHEP Research Associate,date_unknown; displayed in accessed directory,verified,P03-S203;P03-S204
+P03-P005,Roberto Galbiati,research_associate,CHEP Research Associate,date_unknown; displayed in accessed directory,verified,P03-S203;P03-S204
+P03-P006,Elsa Génard,research_associate;past_fellow,CHEP Research Associate,fellow 2021–2022; associate start date_unknown,verified,P03-S203;P03-S204;P03-S206
+P03-P007,Joseph la Hausse de Lalouvière,research_associate,CHEP Research Associate,date_unknown; displayed in accessed directory,verified,P03-S203;P03-S204
+P03-P008,Claire Lemercier,research_associate;historical_coordinator,CHEP Research Associate; coordinator attested2020-03-10,date_unknown; displayed in accessed directory; coordinator2020-03-10; term boundaries unknown,verified,P03-S203;P03-S204;P03-S309
+P03-P009,Mélanie Lamotte,research_associate,CHEP Research Associate,date_unknown; displayed in accessed directory,verified,P03-S203;P03-S204
+P03-P010,Thomas Lauvaux,research_associate,CHEP Research Associate,date_unknown; displayed in accessed directory,verified,P03-S203;P03-S204
+P03-P011,Jonathan Levy,research_associate;coordinator,CHEP Research Associate; Coordinator,date_unknown; displayed in accessed directory,verified,P03-S203;P03-S204;P03-S002
+P03-P012,Mary Lewis,research_associate,CHEP Research Associate,date_unknown; displayed in accessed directory,verified,P03-S203;P03-S204
+P03-P013,Eric Monnet,research_associate,CHEP Research Associate,date_unknown; displayed in accessed directory,verified,P03-S203;P03-S204
+P03-P014,Cheyenne Olivier,research_associate,CHEP Research Associate,date_unknown; displayed in accessed directory,verified,P03-S203;P03-S204
+P03-P015,Kevin O’Rourke,research_associate,CHEP Research Associate,date_unknown; displayed in accessed directory,verified,P03-S203;P03-S204
+P03-P016,M’Hamed Oualdi,research_associate,CHEP Research Associate,date_unknown; displayed in accessed directory,verified,P03-S203;P03-S204
+P03-P017,Giacomo Parrinello,research_associate;historical_scientific_council_member,CHEP Research Associate; scientific council attested2020-03-10,date_unknown; displayed in accessed directory; scientific council2020-03-10; term boundaries unknown,verified,P03-S203;P03-S204;P03-S309
+P03-P018,Gareth Stedman Jones,research_associate,CHEP Research Associate,date_unknown; displayed in accessed directory,verified,P03-S203;P03-S204
+P03-P019,Francesca Trivellato,research_associate;historical_scientific_council_member,CHEP Research Associate; scientific council attested2020-03-10,date_unknown; displayed in accessed directory; scientific council2020-03-10; term boundaries unknown,verified,P03-S203;P03-S204;P03-S309
+P03-P020,Alexia Yates,research_associate,CHEP Research Associate,date_unknown; displayed in accessed directory,verified,P03-S203;P03-S204
+P03-P021,Jessica Balguy,research_fellow,CHEP fellow; host lists postdoctoral researcher,date_unknown,verified,P03-S205;P03-S004
+P03-P022,Joan Chaker,postdoctoral_researcher,Listed in host CHEP research community,date_unknown,verified,P03-S004
+P03-P023,Liane Hewitt,past_fellow,CHEP past research fellow,2024–2025 (CHEP list),verified,P03-S206
+P03-P024,Francesco Giosuè,research_student;scholarship_holder,CHEP research student and scholarship holder,2026,verified,P03-S207;P03-S004
+P03-P025,Rébecca Mathiot,research_student;scholarship_holder,CHEP research student and scholarship holder,2026,verified,P03-S207;P03-S004
+P03-P026,Giulio Piumelli,research_student;scholarship_holder,CHEP research student and scholarship holder,2026,verified,P03-S207;P03-S004
+P03-P027,Aesa Virely,research_student;scholarship_holder,CHEP research student and scholarship holder,2026,verified,P03-S207;P03-S004
+P03-P028,Chiara Cordelli,research_visitor;senior_research_fellow,CHEP visiting senior fellow,2025–2027,verified,P03-S208;P03-S255
+P03-P029,Dev Patel,visiting_graduate_student,Selected exchange2020; visiting CHEP2021–22,2020;2021–2022,verified,P03-S209;P03-S211
+P03-P030,Emma Prevignano,visiting_graduate_student,Selected exchange2020; visiting CHEP2021–22,2020;2021–2022,verified,P03-S209;P03-S211
+P03-P031,Mary-Rose Cheadle,support_function,Coordination with CHE-Cambridge and CHE-Harvard,date_unknown,verified,P03-S002
+P03-P032,Amy Price,support_function,Web architect,date_unknown,verified,P03-S002
+P03-P033,Megan Ma,selected_exchange_student,Named selected CHEP exchange student,2020,verified,P03-S211
+P03-P034,Sarah Glaser,selected_exchange_student,Named selected CHEP exchange student,2020,verified,P03-S211
+P03-P035,Marie-Emmanuelle Chessel,governance_activity_contributor;historical_scientific_council_member,Named contributor to organisation of CHEP activities; scientific council attested2020-03-10,date_unknown; scientific council2020-03-10; term boundaries unknown,verified,P03-S211;P03-S309
+P03-P036,Thierry Mayer,governance_activity_contributor;historical_scientific_council_member,Named contributor to organisation of CHEP activities; scientific council attested2020-03-10,date_unknown; scientific council2020-03-10; term boundaries unknown,verified,P03-S211;P03-S309
+P03-P037,Paul-André Rosental,governance_activity_contributor;historical_scientific_council_member,Named contributor to organisation of CHEP activities; scientific council attested2020-03-10,date_unknown; scientific council2020-03-10; term boundaries unknown,verified,P03-S211;P03-S309
+P03-P038,Emma Rothschild,governance_activity_contributor,Named contributor to organisation of CHEP activities,date_unknown,verified,P03-S211
+P03-P039,Lola Zappi,CHEP_supported_exchange;EHP_fellow,Host describes CHEP-facilitated Harvard stay; EHP-CHEP list,2021–2022,verified,P03-S211;P03-S425
+P03-P040,Jingyi Huang,EHP_CHEP_fellow,Host CHEP cooperation visitor; EHP-CHEP list,2021–2022,verified,P03-S212;P03-S425
+P03-P041,Lina Skoglund,visiting_postdoctoral_researcher,Explicit CHEP visit,2025-12-01/2027-08-31,verified,P03-S212
+P03-P042,Ivanna Cherchovych,support_beneficiary,CHEP funded Lviv research fellowship,2022 autumn,verified,P03-S211
+P03-P043,Vincent Harmsen,scholarship_holder,CHEP research scholarship recipient,2025,verified,P03-S408
+P03-P044,Ebunoluwa Iyamu,scholarship_holder,CHEP research scholarship recipient,2025,verified,P03-S408
+P03-P045,Natalia Lanko,scholarship_holder,CHEP research scholarship recipient,2025,verified,P03-S408
+P03-P046,Lucile Truffy,scholarship_holder,CHEP research scholarship recipient,2025,verified,P03-S408
+P03-P047,Leonard le Roux,scholarship_holder,CHEP PhD research grant,2022–2023,verified,P03-S411
+P03-P048,Hugo Carlier,scholarship_holder,CHEP research grant,2022,verified,P03-S410
+P03-P049,Aditya Balasubramanian,EHP_CHEP_fellow,2021 CHEP-EHP fellows list,2021–2022,verified,P03-S425;P03-S432
+P03-P050,David Todd,historical_coordinator,Coordinator since2022 stated in July2025 interview; current host page names Levy,2022 start; still described2025-07-21; end date_unknown,verified,P03-S258;P03-S259;P03-S004
+P03-P051,Abhijit Banerjee,historical_scientific_council_member,CHEP scientific council member in March2020 institutional minutes; current status not established,attested 2020-03-10; start and end date_unknown,verified,P03-S309
+P03-P052,Esther Duflo,historical_scientific_council_member,CHEP scientific council member in March2020 minutes; source misspells Duflot; normalized using award authority; current status not established,attested 2020-03-10; start and end date_unknown,verified,P03-S309;P03-S261
+P03-P053,Jenny Andersson,historical_scientific_council_member,CHEP scientific council included her in March2020 institutional minutes; current status not established,attested 2020-03-10; start and end date_unknown,verified,P03-S309

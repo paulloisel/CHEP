@@ -1,0 +1,152 @@
+edge_id,from_id,to_id,relationship_type,valid_dates,evidence_status,source_ids
+P01-E001,P01-O001,P01-O002,hosted at,current public overview; established 2022,verified,P01-SR03;P01-SR04
+P01-E002,P01-O002,P01-O003,research centre of,observed 2026-11-15; effective dates unknown,verified,P01-SR03;P01-SR08
+P01-E003,P01-O004,P01-O003,research unit at,observed 2026-11-15,verified,P01-SR10
+P01-E004,P01-O005,P01-O003,department of,observed 2026-11-15,verified,P01-SR11
+P01-E005,P01-O006,P01-O001,listed People governance branch; membership unverified,observed 2026-11-15,verified,P01-SR02
+P01-E006,P01-O007,P01-O001,scientific council of,historical composition attested 2020-03-10; current individual profile corroboration,verified,P01-H003;P01-SR09
+P01-E007,P01-O001,P01-O004,historically_based_at,attested_2020-03-10,verified,P01-H003
+P01-E008,P01-O001,P01-O002,historically_based_at,attested_2020-03-10,verified,P01-H003
+P01-E009,P01-O001,P01-O018,funds_non_residential_fellowship_at,date_unknown,verified,P01-H013
+P01-E010,P01-O008,P01-O011,based at,observed 2026-11-15,verified,P01-PS04;P01-PS05
+P01-E011,P01-O008,P01-O012,established by / institutional host context,2007 historical; current guide also lists FAS,verified,P01-PS14;P01-PS21
+P01-E012,P01-O009,P01-O013,based at,from 2010 in 2012 source; current overview corroborates base,verified,P01-PS04;P01-PS17
+P01-E013,P01-O009,P01-O014,established at; continuing collaboration through centre,1991 establishment; collaboration current in checked publication scheme,verified,P01-PS14;P01-PS20
+P01-E014,P01-O014,P01-O015,college of,observed 2026-11-15,verified,P01-PS20
+P01-E015,P01-O013,P01-O015,college of,observed 2026-11-15,verified,P01-PS04;P01-PS17
+P01-E016,P01-O008,P01-O009,counterpart collaboration; shared projects and exchanges,joint centre established 2007; current overview,verified,P01-PS04;P01-PS14
+P01-E017,P01-O010,P01-O008,joint network site; not a reporting line,observed 2026-11-15,verified,P01-PS04
+P01-E018,P01-O010,P01-O009,joint network site; not a reporting line,observed 2026-11-15,verified,P01-PS04
+P01-E019,P01-O010,P01-O001,joint network site; not a reporting line,observed 2026-11-15,verified,P01-PS04
+P01-E020,P01-O016,P01-O008,initiative based at,observed 2026-11-15,verified,P01-PS22
+P01-E021,P01-O016,P01-O009,initiative based at,observed 2026-11-15,verified,P01-PS22
+P01-E022,P01-O016,P01-O001,initiative based at,observed 2026-11-15,verified,P01-PS22
+P01-E023,P01-O017,P01-O008,listed governance committee of,observed 2026-11-15; remit not specified on current page,verified,P01-PS03
+P01-E024,P01-P002,P01-O009,coordinates with (CHEP remit),listed current; exact dates unknown,verified,P01-SR01
+P01-E025,P01-P002,P01-O008,coordinates with (CHEP remit),listed current; exact dates unknown,verified,P01-SR01
+P01-E026,P01-P001,P01-O001,holds/listed role: COORDINATOR,listed current; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SR01;P01-SR03
+P01-E027,P01-P001,P01-O002,holds/listed role: Professor,listed current; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SR07
+P01-E028,P01-P002,P01-O001,holds/listed role: Coordination with CHE-Cambridge and CHE-Harvard,listed current; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SR01
+P01-E029,P01-P003,P01-O001,holds/listed role: Web architect,listed current; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SR01
+P01-E030,P01-P004,P01-O001,holds/listed role: avec le concours de,named on current host overview; exact tenure unknown; start=date_unknown; end=date_unknown,verified,P01-SR06
+P01-E031,P01-P005,P01-O001,holds/listed role: avec le concours de,named on current host overview; exact tenure unknown; start=date_unknown; end=date_unknown,verified,P01-SR06
+P01-E032,P01-P006,P01-O001,holds/listed role: avec le concours de,named on current host overview; exact tenure unknown; start=date_unknown; end=date_unknown,verified,P01-SR06
+P01-E033,P01-P007,P01-O001,holds/listed role: avec le concours de,named on current host overview; exact tenure unknown; start=date_unknown; end=date_unknown,verified,P01-SR06
+P01-E034,P01-P006,P01-O007,holds/listed role: Membre de Conseils scientifiques,listed on current profile; exact tenure unknown; start=date_unknown; end=date_unknown,verified,P01-SR09
+P01-E035,P01-P006,P01-O002,holds/listed role: directeur du Centre d’histoire de Sciences Po,year; start=2022; end=2025,verified,P01-SR09
+P01-E036,P01-P006,P01-O003,holds/listed role: Directeur scientifique de Sciences Po,listed current; exact tenure unknown; start=date_unknown; end=date_unknown,verified,P01-SR09
+P01-E037,P01-P058,P01-O002,holds/listed role: Director,listed current host-unit function; CHEP-specific remit not established; start=date_unknown; end=date_unknown,verified,P01-SR08
+P01-E038,P01-P025,P01-O002,holds/listed role: Assistant Director for Research,listed current host-unit function; CHEP-specific remit not established; start=date_unknown; end=date_unknown,verified,P01-SR08
+P01-E039,P01-P028,P01-O002,holds/listed role: Head of the Department of History,listed current host-unit function; CHEP-specific remit not established; start=date_unknown; end=date_unknown,verified,P01-SR08
+P01-E040,P01-P009,P01-O002,holds/listed role: Assistant Director for Doctoral Studies,listed current host-unit function; CHEP-specific remit not established; start=date_unknown; end=date_unknown,verified,P01-SR08
+P01-E041,P01-P059,P01-O002,holds/listed role: Centre administrator,listed current host-unit function; CHEP-specific remit not established; start=date_unknown; end=date_unknown,verified,P01-SR08
+P01-E042,P01-P060,P01-O002,holds/listed role: Accounting and Finance,listed current host-unit function; CHEP-specific remit not established; start=date_unknown; end=date_unknown,verified,P01-SR08
+P01-E043,P01-P061,P01-O002,holds/listed role: Communication Managers,listed current host-unit function; CHEP-specific remit not established; start=date_unknown; end=date_unknown,verified,P01-SR08
+P01-E044,P01-P062,P01-O002,holds/listed role: Communication Managers,listed current host-unit function; CHEP-specific remit not established; start=date_unknown; end=date_unknown,verified,P01-SR08
+P01-E045,P01-P063,P01-O002,holds/listed role: Histoire@Politique Editorial manager,listed current host-unit function; CHEP-specific remit not established; start=date_unknown; end=date_unknown,verified,P01-SR08
+P01-E046,P01-P064,P01-O002,holds/listed role: Events manager,listed current host-unit function; CHEP-specific remit not established; start=date_unknown; end=date_unknown,verified,P01-SR08
+P01-E047,P01-P065,P01-O002,holds/listed role: Ingénieure d’études,listed current host-unit function; CHEP-specific remit not established; start=date_unknown; end=date_unknown,verified,P01-SR08
+P01-E048,P01-P008,P01-O001,"holds/listed role: Coordinatrice, avec David Todd",year; start=2019; end=2021,verified,P01-H002
+P01-E049,P01-P009,P01-O001,holds/listed role: co-coordinator [normalized label from CV entry],"year; title wording quotes source, masculine role normalized analytically; start=2019; end=2021",inferred,P01-H002
+P01-E050,P01-P009,P01-O001,holds/listed role: je coordonne le Centre for History and Economics in Paris (CHEP),start_year; active_attested_2025-07-21; start=2022; end=date_unknown,verified,P01-H001
+P01-E051,P01-P004,P01-O007,holds/listed role: membre du conseil scientifique,attested_2020-03-10; tenure_unknown; start=date_unknown; end=date_unknown,verified,P01-H003
+P01-E052,P01-P025,P01-O007,holds/listed role: membre du conseil scientifique,attested_2020-03-10; tenure_unknown; start=date_unknown; end=date_unknown,verified,P01-H003
+P01-E053,P01-P026,P01-O007,holds/listed role: membre du conseil scientifique,attested_2020-03-10; tenure_unknown; start=date_unknown; end=date_unknown,verified,P01-H003
+P01-E054,P01-P006,P01-O007,holds/listed role: membre du conseil scientifique,attested_2020-03-10; tenure_unknown; start=date_unknown; end=date_unknown,verified,P01-H003
+P01-E055,P01-P014,P01-O007,holds/listed role: membre du conseil scientifique,attested_2020-03-10; tenure_unknown; start=date_unknown; end=date_unknown,verified,P01-H003
+P01-E056,P01-P022,P01-O007,holds/listed role: membre du conseil scientifique,attested_2020-03-10; tenure_unknown; start=date_unknown; end=date_unknown,verified,P01-H003
+P01-E057,P01-P017,P01-O007,holds/listed role: membre du conseil scientifique,attested_2020-03-10; tenure_unknown; start=date_unknown; end=date_unknown,verified,P01-H003
+P01-E058,P01-P023,P01-O007,holds/listed role: membre du conseil scientifique,attested_2020-03-10; tenure_unknown; start=date_unknown; end=date_unknown,verified,P01-H003
+P01-E059,P01-P005,P01-O007,holds/listed role: le conseil scientifique a également inclus,historical_membership_by_2020-03-10; tenure_unknown; start=date_unknown; end=date_unknown,verified,P01-H003
+P01-E060,P01-P024,P01-O007,holds/listed role: le conseil scientifique a également inclus,historical_membership_by_2020-03-10; tenure_unknown; start=date_unknown; end=date_unknown,verified,P01-H003
+P01-E061,P01-P010,P01-O001,holds/listed role: Responsable de « L’agenda »,undated_old_indexed_directory; current_remit_unconfirmed; start=date_unknown; end=date_unknown,verified,P01-SR05;P01-H008
+P01-E062,P01-P010,P01-O004,holds/listed role: Resources and document engineering,undated_current_directory; start=date_unknown; end=date_unknown,verified,P01-H009
+P01-E063,P01-P007,P01-O008,holds/listed role: Directors,listed current on 2026-11-15; group heading; 2007 founding director separately documented; start=date_unknown; end=date_unknown,verified,P01-PS02;P01-PS14
+P01-E064,P01-P011,P01-O008,holds/listed role: Directors,new Director by 2023-09-12; exact appointment date unknown; listed current 2026-11-15; start=date_unknown; end=date_unknown,verified,P01-PS02;P01-PS06
+P01-E065,P01-P012,P01-O008,holds/listed role: Manager of Administration and Finance,listed current; joined centre in 2009 but present-title start not stated; start=date_unknown; end=date_unknown,verified,P01-PS02;P01-PS07
+P01-E066,P01-P013,P01-O008,holds/listed role: Research and Fellowships Coordinator,listed current 2026-11-15; start=date_unknown; end=date_unknown,verified,P01-PS02
+P01-E067,P01-P003,P01-O008,holds/listed role: Websites,listed current 2026-11-15; start=date_unknown; end=date_unknown,verified,P01-PS02
+P01-E068,P01-P014,P01-O017,holds/listed role: Executive Committee,listed current 2026-11-15; start=date_unknown; end=date_unknown,verified,P01-PS03
+P01-E069,P01-P015,P01-O017,holds/listed role: Executive Committee,listed current 2026-11-15; start=date_unknown; end=date_unknown,verified,P01-PS03
+P01-E070,P01-P016,P01-O017,holds/listed role: Executive Committee,listed current 2026-11-15; start=date_unknown; end=date_unknown,verified,P01-PS03
+P01-E071,P01-P007,P01-O017,holds/listed role: Executive Committee,listed current 2026-11-15; start=date_unknown; end=date_unknown,verified,P01-PS03
+P01-E072,P01-P017,P01-O017,holds/listed role: Executive Committee,listed current 2026-11-15; start=date_unknown; end=date_unknown,verified,P01-PS03
+P01-E073,P01-P011,P01-O017,holds/listed role: Executive Committee,listed current 2026-11-15; start=date_unknown; end=date_unknown,verified,P01-PS03
+P01-E074,P01-P018,P01-O009,holds/listed role: Director,current official profile; corroborated 2025 publication; exact tenure dates unknown; start=date_unknown; end=date_unknown,verified,P01-PS15;P01-PS16
+P01-E075,P01-P018,P01-O009,holds/listed role: Associate Director,historical observation 2012-11; promotion date unknown; start=date_unknown; end=date_unknown,verified,P01-PS17
+P01-E076,P01-P019,P01-O009,holds/listed role: Director,historical observation report 2021-08-01/2022-07-31; not verified as current; start=date_unknown; end=date_unknown,verified,P01-PS18
+P01-E077,P01-P020,P01-O009,holds/listed role: Executive Officer,historical observation 2012-11; not verified as current; start=date_unknown; end=date_unknown,verified,P01-PS17
+P01-E078,P01-P003,P01-O009,holds/listed role: Webmistress,historical observation 2012-11; not verified as current Cambridge title; start=date_unknown; end=date_unknown,verified,P01-PS17
+P01-E079,P01-P021,P01-O009,holds/listed role: Assoc Director,historical observation academic year 2021/22; not verified as current; start=date_unknown; end=date_unknown,verified,P01-PS19
+P01-E080,P01-P027,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E081,P01-P025,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E082,P01-P023,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E083,P01-P028,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E084,P01-P029,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E085,P01-P030,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E086,P01-P031,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E087,P01-P008,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E088,P01-P032,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E089,P01-P033,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E090,P01-P001,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E091,P01-P034,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E092,P01-P035,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E093,P01-P036,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E094,P01-P037,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E095,P01-P038,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E096,P01-P026,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E097,P01-P039,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E098,P01-P017,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E099,P01-P040,P01-O001,holds/listed role: Research Associates,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA01;P01-SA02
+P01-E100,P01-P041,P01-O001,holds/listed role: Research Fellows,year range; former-fellows page; start=2024; end=2025,verified,P01-SA04
+P01-E101,P01-P027,P01-O001,holds/listed role: Research Fellows,year range; former-fellows page; start=2021; end=2023,conflicting,P01-SA04
+P01-E102,P01-P030,P01-O001,holds/listed role: Research Fellows,year range; former-fellows page; start=2021; end=2022,verified,P01-SA04
+P01-E103,P01-P042,P01-O001,holds/listed role: Research Fellows,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SA03
+P01-E104,P01-P042,P01-O001,holds/listed role: post-doctorante,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SR06
+P01-E105,P01-P043,P01-O001,holds/listed role: post-doctorante,undated listing accessed 2026-11-15; effective start/end unknown; start=date_unknown; end=date_unknown,verified,P01-SR06
+P01-E106,P01-P044,P01-O001,holds/listed role: Senior Research Fellow,year range; stated term; start=2025; end=2027,verified,P01-SA06
+P01-E107,P01-P045,P01-O001,holds/listed role: research students 2026,cohort year; not appointment boundaries; observed cohort/selection=2026; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-SA05
+P01-E108,P01-P045,P01-O001,holds/listed role: Doctorantes et doctorants boursiers CHEP 2026,cohort year; award duration unknown; observed cohort/selection=2026; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-SR06;P01-SA21
+P01-E109,P01-P046,P01-O001,holds/listed role: research students 2026,cohort year; not appointment boundaries; observed cohort/selection=2026; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-SA05
+P01-E110,P01-P046,P01-O001,holds/listed role: Doctorantes et doctorants boursiers CHEP 2026,cohort year; award duration unknown; observed cohort/selection=2026; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-SR06;P01-SA21
+P01-E111,P01-P047,P01-O001,holds/listed role: research students 2026,cohort year; not appointment boundaries; observed cohort/selection=2026; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-SA05
+P01-E112,P01-P047,P01-O001,holds/listed role: Doctorantes et doctorants boursiers CHEP 2026,cohort year; award duration unknown; observed cohort/selection=2026; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-SR06;P01-SA21
+P01-E113,P01-P048,P01-O001,holds/listed role: research students 2026,cohort year; not appointment boundaries; observed cohort/selection=2026; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-SA05
+P01-E114,P01-P048,P01-O001,holds/listed role: Doctorantes et doctorants boursiers CHEP 2026,cohort year; award duration unknown; observed cohort/selection=2026; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-SR06;P01-SA21
+P01-E115,P01-P049,P01-O001,holds/listed role: visiting graduate students,year range; historical cohort; start=2021; end=2022,verified,P01-SA07
+P01-E116,P01-P050,P01-O001,holds/listed role: visiting graduate students,year range; historical cohort; start=2021; end=2022,verified,P01-SA07
+P01-E117,P01-P051,P01-O001,holds/listed role: doctorant·es sélectionné·es en 2020,selection year; no inferred end date; observed cohort/selection=2020; effective appointment/award start and end unknown | selection_year; exchange_visit_not_assumed_held; observed cohort/selection=2020; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-SR06
+P01-E118,P01-P052,P01-O001,holds/listed role: doctorant·es sélectionné·es en 2020,selection year; no inferred end date; observed cohort/selection=2020; effective appointment/award start and end unknown | selection_year; exchange_visit_not_assumed_held; observed cohort/selection=2020; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-SR06
+P01-E119,P01-P053,P01-O001,holds/listed role: accueil de chercheurs et chercheuses à l’étranger,year range; host overview; start=2021; end=2022,verified,P01-SR06
+P01-E120,P01-P054,P01-O001,holds/listed role: winners of the scholarship of excellence,award_cohort_year; announcement2025-02-07; tenure_unknown; observed cohort/selection=2025; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-PS004
+P01-E121,P01-P055,P01-O001,holds/listed role: winners of the scholarship of excellence,award_cohort_year; announcement2025-02-07; tenure_unknown; observed cohort/selection=2025; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-PS004
+P01-E122,P01-P056,P01-O001,holds/listed role: winners of the scholarship of excellence,award_cohort_year; announcement2025-02-07; tenure_unknown; observed cohort/selection=2025; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-PS004
+P01-E123,P01-P057,P01-O001,holds/listed role: winners of the scholarship of excellence,award_cohort_year; announcement2025-02-07; tenure_unknown; observed cohort/selection=2025; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-PS004
+P01-E124,P01-P050,P01-O001,holds/listed role: doctorant·es sélectionné·es en 2020,selection_year; exchange_visit_not_assumed_held; observed cohort/selection=2020; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-SR06
+P01-E125,P01-P049,P01-O001,holds/listed role: doctorant·es sélectionné·es en 2020,selection_year; exchange_visit_not_assumed_held; observed cohort/selection=2020; effective appointment/award start and end unknown; start=date_unknown; end=date_unknown,verified,P01-SR06
+P01-E126,P01-P066,P01-O001,holds/listed role: EHP-CHEP fellow,undated archive attestation; effective tenure unknown; start=date_unknown; end=date_unknown,verified,P01-H013
+P01-E127,P01-P067,P01-O001,holds/listed role: recipient [non-residential fellowship for scholars at risk],undated archive attestation; effective tenure unknown; start=date_unknown; end=date_unknown,verified,P01-H013
+P01-E128,P01-P067,P01-O001,holds/listed role: propose une bourse,offer described as autumn 2022; individual award effective dates unknown; start=date_unknown; end=date_unknown,verified,P01-SR06
+P01-E129,P01-P030,P01-O001,holds/listed role: participants [publication-page heading],undated feature; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H012
+P01-E130,P01-P001,P01-O001,holds/listed role: participants [publication-page heading],undated feature; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H012
+P01-E131,P01-P007,P01-O001,holds/listed role: participants [publication-page heading],undated feature; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H012
+P01-E132,P01-P027,P01-O001,holds/listed role: participants [publication-page heading],undated feature; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H012
+P01-E133,P01-P017,P01-O001,holds/listed role: participants [publication-page heading],undated feature; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H012
+P01-E134,P01-P038,P01-O001,holds/listed role: participants [publication-page heading],undated feature; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H012
+P01-E135,P01-P025,P01-O001,holds/listed role: participants [publication-page heading],undated feature; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H012
+P01-E136,P01-P009,P01-O001,holds/listed role: participants [publication-page heading],undated feature; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H012
+P01-E137,P01-P040,P01-O001,holds/listed role: participants [publication-page heading],undated feature; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H012
+P01-E138,P01-P068,P01-O001,holds/listed role: participants [publication-page heading],undated feature; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H012
+P01-E139,P01-P008,P01-O001,holds/listed role: participants [publication-page heading],undated feature; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H012
+P01-E140,P01-P069,P01-O001,holds/listed role: participants [publication-page heading],undated feature; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H012
+P01-E141,P01-P070,P01-O001,holds/listed role: participants [publication-page heading],undated feature; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H012
+P01-E142,P01-P006,P01-O001,holds/listed role: participants [publication-page heading],undated feature; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H012
+P01-E143,P01-P071,P01-O001,holds/listed role: participants [publication-page heading],undated feature; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H012
+P01-E144,P01-P072,P01-O001,"holds/listed role: speaker [event participation, not appointment]",event date 2023-11-29; not a membership tenure; start=date_unknown; end=date_unknown,verified,P01-H007
+P01-E145,P01-P032,P01-O020,holds/listed role: Assistant Professor of History,year; profile says 2024–present; start=2024; end=date_unknown,verified,P01-AS04
+P01-E146,P01-P038,P01-O019,holds/listed role: Full-time Professor,month; joining notice and current institutional profile; start=2024-09; end=date_unknown,verified,P01-RS15;P01-RS16
+P01-E147,P01-P038,P01-O002,holds/listed role: Professeur des universités (en détachement),"day precision for start of secondment, not original professorial appointment; start=2024-09-01; end=date_unknown",verified,P01-RS14
+P01-E148,P01-P040,P01-O019,holds/listed role: Full-time Professor,month; joining notice and current institutional profile; start=2024-09; end=date_unknown,verified,P01-RS18;P01-RS16
+P01-E149,P01-P041,P01-O021,holds/listed role: Assistant Professor of History,day; Sciences Po specifies recruitment effective date; Penn confirms current title; start=2025-07-05; end=date_unknown,verified,P01-RS06;P01-RS20
+P01-E150,P01-P027,P01-O022,holds/listed role: maître de conférences en histoire contemporaine,attested under Automne 2024; exact appointment start/end unknown; start=date_unknown; end=date_unknown,verified,P01-RS06
+P01-E151,P01-P027,P01-O001,holds/listed role: chercheur post-doctorant,month; 2024-01-23 event biography says joined September 2023; start=2023-09; end=date_unknown,conflicting,P01-RS07;P01-SA04

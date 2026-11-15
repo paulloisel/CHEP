@@ -1,0 +1,45 @@
+Browser tab: 1, Title: "Joint Centre for History and Economics:: Paris", URL: "https://histecon.fr/fr/chep_activites.html".
+1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/fr/chep_activites.html
+	2 container container
+		3 container mainContent
+			4 container
+				5 link Description: FR, Value: histecon.fr/fr/chep_activites.html#
+				6 text  | 
+				7 link Description: EN, Value: histecon.fr/en/chep_events.html
+			8 container
+				9 link Description: CHE-Harvard, Value: histecon.fas.harvard.edu/
+				10 link Description: CHE-Cambridge, Value: histecon.magd.cam.ac.uk/
+			11 link Description: Centre for History and Economics, Value: histecon.fr/en/index.html, ID: logo
+			12 content list topNav
+				13 container
+					14 link Description: Accueil, Value: histecon.fr/fr/index.html
+				15 container
+					16 link Description: Participants, Value: histecon.fr/fr/participants.html
+				17 container
+					18 link Description: Publications, Value: histecon.fr/fr/publications.html
+				19 container
+					20 link Description: Projets, Value: histecon.fr/fr/projets.html
+				21 container
+					22 link Description: Activités du CHEP, Value: histecon.fr/fr/chep_activites.html
+				23 container
+					24 link Description: Bourses, Value: histecon.fr/fr/bourses.html
+				25 container
+					26 link Description: Archive des annonces, Value: histecon.fr/fr/archive_annonces.html
+				27 container
+					28 link Description: Contacts, Value: histecon.fr/fr/contacts.html
+		29 container mainpage
+			30 heading ACTIVITÉS DU CHEP, Value: 4
+				31 text ACTIVITÉS DU CHEP
+			32 container
+				33 text Le Centre for History and Economics-Paris organise des 
+				34 link Description: séminaires, Value: histecon.fr/fr/seminaires.html
+				35 text , ainsi que des 
+				36 link Description: colloques, des réunions et des ateliers, Value: histecon.fr/fr/activites_sub.html
+				37 text .
+	38 container copyright
+		39 container
+			40 text Centre for History and Economics
+			41 text Science Po, Paris
+		42 text © 2026 Centre for History and Economics
+
+The focused UI element is 1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/fr/chep_activites.html

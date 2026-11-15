@@ -1,0 +1,358 @@
+{
+  "as_of_date": "2026-11-15",
+  "sources": [
+    {
+      "source_id": "P01-PS001",
+      "url": "https://histecon.fr/en/research_students_previous.html",
+      "title": "Previous Research Students",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_webpage",
+      "supports": "Link observed current research students; contents unavailable",
+      "retrieval_status": "retrieval_failed_cache_miss_or_tool_inaccessible; www alias also failed"
+    },
+    {
+      "source_id": "P01-PS002",
+      "url": "https://histecon.fr/fr/doctorantes.html",
+      "title": "Doctorantes (French link from Research Students)",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_webpage",
+      "supports": "French-language student link observed",
+      "retrieval_status": "retrieval_failed_http406; www alias tool inaccessible"
+    },
+    {
+      "source_id": "P01-PS003",
+      "url": "https://www.histecon.fr/en/executive_committee.html",
+      "title": "Executive committee (www alias)",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_webpage",
+      "supports": "One targeted alternative to EN committee",
+      "retrieval_status": "retrieval_failed_tool_inaccessible"
+    },
+    {
+      "source_id": "P01-PS004",
+      "url": "https://www.sciencespo.fr/ecole-recherche/en/news/quatre-doctorants-du-centre-d-histoire-laureats-de-la-bourse-d-excellence-du-chep/",
+      "title": "Four doctoral students from the Centre for History win CHEP excellence scholarships",
+      "publisher_or_owner": "Sciences Po School of Research",
+      "source_date": "2025-02-07",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_webpage",
+      "supports": "Four2025 recipients and CHSP doctoral affiliation",
+      "retrieval_status": "retrieved_indexed_copy; crawl label last month"
+    },
+    {
+      "source_id": "P01-PS005",
+      "url": "https://histecon.fr/en/Lucile_Truffy.html",
+      "title": "Lucile Truffy",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_webpage",
+      "supports": "CHSP PhD; plastic/polyethylene; material, economic and environmental history",
+      "retrieval_status": "retrieved_indexed_copy; crawl label 4 days ago"
+    },
+    {
+      "source_id": "P01-PS006",
+      "url": "https://histecon.fr/en/Ebunoluwa_Iyamu.html",
+      "title": "Ebunoluwa Iyamu",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_webpage",
+      "supports": "CHSP PhD; colonial Nigerian prisons; West African social/legal/political history",
+      "retrieval_status": "retrieved_old_indexed_copy; crawl label1.5 years ago"
+    },
+    {
+      "source_id": "P01-PS007",
+      "url": "https://www.sciencespo.fr/histoire/fr/annuaire/lanko-natalia/",
+      "title": "Natalia Lanko",
+      "publisher_or_owner": "Sciences Po Centre d’histoire",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_webpage",
+      "supports": "CHSP PhD;2025 CHEP scholarship; British Levant Company and political economy",
+      "retrieval_status": "retrieved_indexed_copy; crawl label last month"
+    },
+    {
+      "source_id": "P01-PS008",
+      "url": "https://www.sciencespo.fr/histoire/fr/recherche/centre-for-history-and-economics-paris-chep/",
+      "title": "Centre for History and Economics à Paris (CHEP)",
+      "publisher_or_owner": "Sciences Po Centre d’histoire",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_webpage",
+      "supports": "2020 student selection; Lola2021–22; Ivanna autumn2022; current coordinator Levy and2026 cohort",
+      "retrieval_status": "retrieved_indexed_copy; crawl label last month; newer content differs from search snippet"
+    },
+    {
+      "source_id": "P01-PS009",
+      "url": "https://histecon.fr/en/Vincent_Harmsen.html",
+      "title": "Vincent Harmsen",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_webpage",
+      "supports": "Profile lead; underlying page inaccessible",
+      "retrieval_status": "retrieval_failed_http406; www alias inaccessible; search copy only"
+    },
+    {
+      "source_id": "P01-PS010",
+      "url": "https://www.sciencespo.fr/histoire/fr/chercheur/Vincent%20Harmsen/89518.html",
+      "title": "Vincent Harmsen",
+      "publisher_or_owner": "Sciences Po Centre d’histoire",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_webpage",
+      "supports": "Profile lead; underlying page inaccessible",
+      "retrieval_status": "retrieval_failed_cache_miss; search copy only"
+    }
+  ],
+  "people": [
+    {
+      "name": "Natalia Lanko",
+      "category": "historical_CHEP_scholarship_recipient_2025",
+      "institution": "Sciences Po Centre d’histoire (CHSP)",
+      "research_themes": "British Levant Company; political economy; commercial corporations; informal imperialism; Eastern Mediterranean eighteenth–nineteenth centuries",
+      "profile_url": "https://www.sciencespo.fr/histoire/fr/annuaire/lanko-natalia/",
+      "current_status": "CHEP_scholarship_2025_verified; current_CHEP_membership_not_inferred",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS004",
+        "P01-PS007"
+      ]
+    },
+    {
+      "name": "Lucile Truffy",
+      "category": "historical_CHEP_scholarship_recipient_2025",
+      "institution": "Sciences Po Centre d’histoire (CHSP)",
+      "research_themes": "plastics and polyethylene; consumption and waste; material, economic and environmental history of late twentieth-century France",
+      "profile_url": "https://histecon.fr/en/Lucile_Truffy.html",
+      "current_status": "CHEP_scholarship_2025_verified; current_CHEP_membership_not_inferred",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS004",
+        "P01-PS005"
+      ]
+    },
+    {
+      "name": "Vincent Harmsen",
+      "category": "historical_CHEP_scholarship_recipient_2025",
+      "institution": "Sciences Po Centre d’histoire (CHSP)",
+      "research_themes": "not_found_publicly_in_retrieved_profile",
+      "profile_url": "https://www.sciencespo.fr/histoire/fr/chercheur/Vincent%20Harmsen/89518.html",
+      "current_status": "CHEP_scholarship_2025_verified; current_CHEP_membership_not_inferred",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS004",
+        "P01-PS010"
+      ]
+    },
+    {
+      "name": "Ebunoluwa Iyamu",
+      "category": "historical_CHEP_scholarship_recipient_2025",
+      "institution": "Sciences Po Centre d’histoire (CHSP)",
+      "research_themes": "colonial Nigerian prisons; West African social, legal and political history",
+      "profile_url": "https://histecon.fr/en/Ebunoluwa_Iyamu.html",
+      "current_status": "CHEP_scholarship_2025_verified; current_CHEP_membership_not_inferred",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS004",
+        "P01-PS006"
+      ]
+    },
+    {
+      "name": "Megan Ma",
+      "category": "historical_selected_exchange_student_2020",
+      "institution": "Sciences Po (at2020 selection)",
+      "research_themes": "not_found_publicly_in_checked_profiles",
+      "profile_url": "https://www.sciencespo.fr/ecole-de-droit/fr/profile/ma-megan.html",
+      "current_status": "historical2020_selection_verified; linked_profile_retrieval_failed; current_status_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS008"
+      ]
+    },
+    {
+      "name": "Sarah Glaser",
+      "category": "historical_selected_exchange_student_2020",
+      "institution": "Sciences Po (at2020 selection)",
+      "research_themes": "not_found_publicly_in_checked_profiles",
+      "profile_url": "https://www.sciencespo.fr/ecole-de-droit/fr/profile/glaser-sarah-marthe.html",
+      "current_status": "historical2020_selection_verified; linked_profile_retrieval_failed; current_status_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS008"
+      ]
+    },
+    {
+      "name": "Emma Prevignano",
+      "category": "historical_selected_exchange_student_2020",
+      "institution": "University of Cambridge (at2020 selection)",
+      "research_themes": "not_found_publicly_in_checked_profiles",
+      "profile_url": "https://www.hist.cam.ac.uk/people/emma-prevignano",
+      "current_status": "historical2020_selection_verified; linked_profile_retrieval_failed; current_status_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS008"
+      ]
+    },
+    {
+      "name": "Dev Patel",
+      "category": "historical_selected_exchange_student_2020",
+      "institution": "Harvard University (at2020 selection)",
+      "research_themes": "not_found_publicly_in_checked_profiles",
+      "profile_url": "https://scholar.harvard.edu/devpatel/home",
+      "current_status": "historical2020_selection_verified; linked_profile_retrieval_failed; current_status_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS008"
+      ]
+    }
+  ],
+  "roles": [
+    {
+      "name": "Natalia Lanko",
+      "role_exact": "winners of the scholarship of excellence",
+      "organisation": "CHEP",
+      "start_date": "2025",
+      "end_date": "date_unknown",
+      "date_precision": "award_cohort_year; announcement2025-02-07; tenure_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS004"
+      ]
+    },
+    {
+      "name": "Lucile Truffy",
+      "role_exact": "winners of the scholarship of excellence",
+      "organisation": "CHEP",
+      "start_date": "2025",
+      "end_date": "date_unknown",
+      "date_precision": "award_cohort_year; announcement2025-02-07; tenure_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS004"
+      ]
+    },
+    {
+      "name": "Vincent Harmsen",
+      "role_exact": "winners of the scholarship of excellence",
+      "organisation": "CHEP",
+      "start_date": "2025",
+      "end_date": "date_unknown",
+      "date_precision": "award_cohort_year; announcement2025-02-07; tenure_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS004"
+      ]
+    },
+    {
+      "name": "Ebunoluwa Iyamu",
+      "role_exact": "winners of the scholarship of excellence",
+      "organisation": "CHEP",
+      "start_date": "2025",
+      "end_date": "date_unknown",
+      "date_precision": "award_cohort_year; announcement2025-02-07; tenure_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS004"
+      ]
+    },
+    {
+      "name": "Megan Ma",
+      "role_exact": "doctorant·es sélectionné·es en 2020",
+      "organisation": "CHEP",
+      "start_date": "2020",
+      "end_date": "date_unknown",
+      "date_precision": "selection_year; exchange_visit_not_assumed_held",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS008"
+      ]
+    },
+    {
+      "name": "Sarah Glaser",
+      "role_exact": "doctorant·es sélectionné·es en 2020",
+      "organisation": "CHEP",
+      "start_date": "2020",
+      "end_date": "date_unknown",
+      "date_precision": "selection_year; exchange_visit_not_assumed_held",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS008"
+      ]
+    },
+    {
+      "name": "Emma Prevignano",
+      "role_exact": "doctorant·es sélectionné·es en 2020",
+      "organisation": "CHEP",
+      "start_date": "2020",
+      "end_date": "date_unknown",
+      "date_precision": "selection_year; exchange_visit_not_assumed_held",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS008"
+      ]
+    },
+    {
+      "name": "Dev Patel",
+      "role_exact": "doctorant·es sélectionné·es en 2020",
+      "organisation": "CHEP",
+      "start_date": "2020",
+      "end_date": "date_unknown",
+      "date_precision": "selection_year; exchange_visit_not_assumed_held",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-PS008"
+      ]
+    }
+  ],
+  "additional_dated_support": [
+    {
+      "name": "Lola Zappi",
+      "role": "CHEP-facilitated Harvard stay",
+      "start_date": "2021",
+      "end_date": "2022",
+      "date_precision": "year_span_as2021–22",
+      "source_ids": [
+        "P01-PS008"
+      ]
+    },
+    {
+      "name": "Ivanna Cherchovych",
+      "role": "CHEP proposes a scholarship for field research at Center for Urban History Lviv",
+      "start_date": "2022",
+      "end_date": "date_unknown",
+      "date_precision": "autumn2022",
+      "source_ids": [
+        "P01-PS008"
+      ],
+      "note": "Host wording proposes; CHEP announcements explicitly name recipient. Combine sources, do not invent duration."
+    }
+  ],
+  "coverage": {
+    "previous_index_contents_retrieved": false,
+    "previous_index_population": "unknown",
+    "verified_supplement": "4scholarship recipients2025 and4selected exchange students2020; not a reconstruction of missing index",
+    "failed_variants": [
+      "https://www.histecon.fr/en/research_students_previous.html",
+      "https://histecon.fr/fr/research_students_previous.html",
+      "https://histecon.fr/fr/research_students.html",
+      "https://histecon.fr/fr/etudiants.html",
+      "https://www.histecon.fr/fr/doctorantes.html"
+    ],
+    "failed_linked_profiles": [
+      "https://www.sciencespo.fr/ecole-de-droit/fr/profile/ma-megan.html",
+      "https://www.sciencespo.fr/ecole-de-droit/fr/profile/glaser-sarah-marthe.html",
+      "https://www.hist.cam.ac.uk/people/emma-prevignano",
+      "https://scholar.harvard.edu/devpatel/home"
+    ],
+    "next_step": "Obtain previous-students index or institutional cohort list; counts remain lower bound."
+  },
+  "important_reconciliation": "Opening EN and FR host CHEP pages returns Jonathan Levy and2026 cohort, whereas search snippets still show Todd and2025 cohort. Do not treat old snippets as current site conflicts."
+}

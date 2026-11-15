@@ -1,0 +1,76 @@
+{
+  "records": 188,
+  "works": 183,
+  "featured_records": 18,
+  "featured_works": 14,
+  "cohort_people": 39,
+  "core_people": 33,
+  "wider_people": 6,
+  "represented_people": 20,
+  "source_records": 191,
+  "unique_source_urls": 181,
+  "supplementary": 14,
+  "records_by_type": {
+    "monograph": 21,
+    "short_monograph": 1,
+    "edited_volume": 4,
+    "methods_book": 1,
+    "journal_article": 50,
+    "public_scholarship": 46,
+    "book_chapter": 19,
+    "review": 29,
+    "conference_or_seminar_report": 2,
+    "reference_entry": 6,
+    "interview": 5,
+    "report": 3,
+    "scholarly_essay": 1
+  },
+  "works_by_type": {
+    "monograph": 17,
+    "short_monograph": 1,
+    "edited_volume": 4,
+    "methods_book": 1,
+    "journal_article": 50,
+    "public_scholarship": 45,
+    "book_chapter": 19,
+    "review": 29,
+    "conference_or_seminar_report": 2,
+    "reference_entry": 6,
+    "interview": 5,
+    "report": 3,
+    "scholarly_essay": 1
+  },
+  "records_by_cohort": {
+    "core_affiliate": 183,
+    "wider_featured_only": 5
+  },
+  "works_by_cohort": {
+    "core_affiliate": 180,
+    "wider_featured_only": 3
+  },
+  "works_by_first_year_period": {
+    "2022–2025": 66,
+    "2019–2021": 39,
+    "before_2019": 52,
+    "2026_to_cutoff": 23,
+    "date_unknown": 3
+  },
+  "records_by_edition_period": {
+    "2022–2025": 72,
+    "2019–2021": 39,
+    "before_2019": 53,
+    "2026_to_cutoff": 24
+  },
+  "records_by_relationship": {
+    "featured_participant_publication": 19,
+    "relationship_unresolved": 77,
+    "affiliate_earlier_scholarship": 72,
+    "published_during_documented_affiliation": 20
+  },
+  "verification_status": {
+    "verified": 170,
+    "inferred": 1,
+    "conflicting": 1,
+    "unverified": 16
+  }
+}

@@ -1,0 +1,118 @@
+Browser tab: 1, Title: "Le retour des inégalités ? Bilan et perspectives historiographiques | Sciences Po Centre d’histoire de Sciences Po", URL: "https://www.sciencespo.fr/histoire/fr/evenements/le-retour-des-inegalites-bilan-et-perspectives-historiographiques/".
+1 AXWebArea Le retour des inégalités ? Bilan et perspectives historiographiques | Sciences Po Centre d’histoire de Sciences Po, URL: sciencespo.fr/histoire/fr/evenements/le-retour-des-inegalites-bilan-et-perspectives-historiographiques/
+	2 container
+		3 container gatsby-focus-wrapper
+			4 container Menu pour l'accessibilité
+				5 content list
+					6 container
+						7 link Description: Aller au contenu, Value: sciencespo.fr/histoire/fr/evenements/le-retour-des-inegalites-bilan-et-perspectives-historiographiques/#content
+						8 text /
+					9 container
+						10 link Description: Navigation corporate, Value: sciencespo.fr/histoire/fr/evenements/le-retour-des-inegalites-bilan-et-perspectives-historiographiques/#surHeader
+						11 text  /
+					12 container
+						13 link Description: Navigation principale, Value: sciencespo.fr/histoire/fr/evenements/le-retour-des-inegalites-bilan-et-perspectives-historiographiques/#navigation
+						14 text /
+					15 container
+						16 link Description: Recherche, Value: sciencespo.fr/histoire/fr/evenements/le-retour-des-inegalites-bilan-et-perspectives-historiographiques/#searchForm
+						17 text /
+					18 link Description: Bas de page, Value: sciencespo.fr/histoire/fr/evenements/le-retour-des-inegalites-bilan-et-perspectives-historiographiques/#footer
+			19 container Description: Menu transverse, ID: surHeader
+				20 container
+					21 content list
+						22 container
+							23 button SCIENCESPO.FR, ID: NestedItem0
+								24 link Description: SCIENCESPO.FR, Help: SCIENCESPO.FR - ouverture en nouvelle fenêtre, Value: sciencespo.fr/fr/, ID: sub-menu-item-0}
+							25 button VOUS ÊTES..., ID: NestedItem1
+							26 button RESSOURCES, ID: NestedItem2
+							27 button NOUS SOUTENIR, ID: NestedItem3
+								28 link Description: NOUS SOUTENIR, Help: NOUS SOUTENIR - ouverture en nouvelle fenêtre, Value: sciencespo.fr/nous-soutenir/fr/, ID: sub-menu-item-3}
+					29 button Description: Ouvrez la fenêtre de recherche, Help: Rechercher, ID: searchForm
+					30 link Description: English version of the website, Value: sciencespo.fr/histoire/en/
+			31 container
+				32 link Description: Allez au site Sciences Po, Value: sciencespo.fr/histoire/fr/
+				33 text CENTRE D’HISTOIRE DE SCIENCES PO
+			34 content list
+				35 button LE CENTRE LE CENTRE, ID: li11
+					36 container
+						37 text LE CENTRE
+						38 text LE CENTRE
+				39 button LA RECHERCHE LA RECHERCHE, ID: li12
+					40 container
+						41 text LA RECHERCHE
+						42 text LA RECHERCHE
+				43 button LES FORMATIONS LES FORMATIONS, ID: li13
+					44 container
+						45 text LES FORMATIONS
+						46 text LES FORMATIONS
+				47 button NOS PRODUCTIONS NOS PRODUCTIONS, ID: li14
+					48 container
+						49 text NOS PRODUCTIONS
+						50 text NOS PRODUCTIONS
+				51 button Actualités Actualités, ID: li15
+					52 container
+						53 link Description: Actualités, Value: sciencespo.fr/histoire/fr/actualites/
+						54 link Description: Actualités, Value: sciencespo.fr/histoire/fr/actualites/
+				55 button Événements Événements, ID: li16
+					56 container
+						57 link Description: Événements, Value: sciencespo.fr/histoire/fr/evenements/
+						58 link Description: Événements, Value: sciencespo.fr/histoire/fr/evenements/
+			59 container main-content-page
+				60 link Description: Accueil, Value: sciencespo.fr/histoire/fr/
+				61 text > Le retour des inégalités ? Bilan et perspectives historiographiques
+				62 container
+					63 text 17 novembre 2026
+					64 heading Le retour des inégalités ? Bilan et perspectives historiographiques, Value: 1
+						65 text Le retour des inégalités ? Bilan et perspectives historiographiques
+					66 text Mardi 17 novembre, 
+					67 text Nicolas Delalande
+					68 text , professeur au Centre d'histoire de Sciences Po, interviendra sur le thème : “
+					69 text Le retour des inégalités ? Bilan et perspectives historiographiques”
+					70 text .
+					71 container
+						72 text Cette séance s'inscrit dans le cadre séminaire 
+						73 link Description: Histoires de la vie économique , Help: Histoires de la vie économique - ouverture en nouvelle fenêtre, Value: sciencespo.fr/histoire/fr/recherche/seminaires/seminaire-des-axes-et-des-domaines/histoires-de-la-vie-economique/
+						74 text  du Centre d'histoire de Sciences Po, organisé par Nicolas Delalande (Sciences Po, CHSP) et David Todd (Sciences Po, CHSP).
+					75 text (crédits : Benois Albert. Le port. 1895 I CCO)
+					76 button INSCRIPTION
+						77 text INSCRIPTION
+					78 heading À PROPOS DE CET ÉVÉNEMENT, Value: 2
+						79 text À PROPOS DE CET ÉVÉNEMENT
+					80 text Le 17 novembre 2026 de 12:30 à 14:00 Sciences Po - 1 pl. Saint-Thomas-d'Aquin L’événement est accessible aux personnes à mobilité réduite. Organisé par Centre d'histoire de Sciences Po
+			81 container footer
+				82 link Description: Allez à Sciences Po, Value: sciencespo.fr/histoire/fr/
+				83 text ADRESSE / TÉLÉPHONE
+				84 text 27, rue Saint Guillaume - 75337 Paris Cedex 07
+				85 container
+					86 text Tél: +33 (0)1 45 49 50 50 | +33 (0)1 42 22 31 26
+				87 text SUIVEZ-NOUS
+				88 content list
+					89 link Description: Sciences Po sur Instagram, Value: instagram.com/sciencespo/
+					90 link Description: Sciences Po sur Linkedin, Value: linkedin.com/school/sciences-po/posts/?feedView=all
+					91 link Description: TikTok, Value: tiktok.com/@sciencespo
+					92 link Description: Sciences Po sur Facebook, Value: facebook.com/SciencesPo
+					93 link Description: Youtube, Value: youtube.com/sciencespo
+				94 text ABONNEZ-VOUS À NOS NEWSLETTERS
+				95 button S'abonner
+					96 container
+						97 text S'ABONNER 
+				98 text ET AUSSI
+				99 content list
+					100 link Description: Contact, Value: sciencespo.fr/fr/contact-plan-acces/
+					101 link Description: Index A à Z, Value: sciencespo.fr/fr/index-a-z/
+					102 link Description: Espace presse, Value: newsroom.sciencespo.fr/fr?lang=fra
+					103 link Description: Travailler à Sciences Po, Value: sciencespo.fr/travailler-a-sciencespo/
+					104 link Description: Marchés, Value: sciencespo.fr/fr/marches/
+					105 link Description: Termes légaux, Value: sciencespo.fr/fr/termes-legaux/
+					106 link Description: Accessibilité : partiellement conforme, Value: sciencespo.fr/fr/accessibilite/
+				107 text ACCÈS RAPIDES
+				108 content list
+					109 link Description: Espace étudiants, Value: scolarite.sciences-po.fr/PROD/twbkwbis.P_WWWLogin
+					110 link Description: Espace enseignants, Value: scolarite.sciences-po.fr/PROD/twbkwbis.P_WWWLogin
+					111 link Description: Intranet, Value: intranet.sciencespo.fr/bienvenue/
+					112 link Description: Gérer mon mot de passe, Value: scpoaccount.sciences-po.fr/choixModifGnl
+					113 link Description: Application Sciences Po, Value: sciencespo.fr/fr/application-sciencespo/
+				114 container
+					115 text © 2026 SCIENCES PO
+
+The focused UI element is 1 AXWebArea Le retour des inégalités ? Bilan et perspectives historiographiques | Sciences Po Centre d’histoire de Sciences Po, URL: sciencespo.fr/histoire/fr/evenements/le-retour-des-inegalites-bilan-et-perspectives-historiographiques/

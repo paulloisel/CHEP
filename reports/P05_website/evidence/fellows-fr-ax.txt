@@ -1,0 +1,47 @@
+Browser tab: 1, Title: "Joint Centre for History and Economics:: Paris", URL: "https://histecon.fr/fr/research_fellows.html".
+1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/fr/research_fellows.html
+	2 container container
+		3 container mainContent
+			4 container
+				5 link Description: FR, Value: histecon.fr/fr/research_fellows.html#
+				6 text  | 
+				7 link Description: EN, Value: histecon.fr/en/research_fellows.html
+			8 container
+				9 link Description: CHE-Harvard, Value: histecon.fas.harvard.edu/
+				10 link Description: CHE-Cambridge, Value: histecon.magd.cam.ac.uk/
+			11 link Description: Centre for History and Economics, Value: histecon.fr/en/index.html, ID: logo
+			12 content list topNav
+				13 container
+					14 link Description: Accueil, Value: histecon.fr/fr/index.html
+				15 container
+					16 link Description: Participants, Value: histecon.fr/fr/participants.html
+				17 container
+					18 link Description: Publications, Value: histecon.fr/fr/publications.html
+				19 container
+					20 link Description: Projets, Value: histecon.fr/fr/projets.html
+				21 container
+					22 link Description: Activités du CHEP, Value: histecon.fr/fr/chep_activites.html
+				23 container
+					24 link Description: Bourses, Value: histecon.fr/fr/bourses.html
+				25 container
+					26 link Description: Archive des annonces, Value: histecon.fr/fr/archive_annonces.html
+				27 container
+					28 link Description: Contacts, Value: histecon.fr/fr/contacts.html
+		29 container mainpage
+			30 heading RESEARCH FELLOWS, Value: 4
+				31 text RESEARCH FELLOWS
+			32 container
+				33 text JESSICA BALGUY
+				34 container
+					35 image
+					36 text Jessica Balguy est une historienne française spécialiste de l'esclavage et des Antilles françaises. Ses travaux traitent principalement de la question des indemnités versées aux anciens propriétaires d'esclaves au lendemain de l'abolition française de 1848. Elle a contribué à la base de données en ligne 
+					37 link Description: Esclavage & indemnités, Value: esclavage-indemnites.fr/public/
+					38 text  qui recense tous les bénéficiaires de l'indemnité de l'empire colonial français en 1849. Jessica Balguy a publié un ouvrage sur cette même thématique :  Indemniser l'esclavage en 1848 ? Débats dans l'Empire français du XIXe siècl e, Ed. Karthala CIRESC, en 2020. Sa thèse, soutenue en 2023 à l'École des Hautes Études en Sciences sociales (EHESS/MoAm/CIREC) sous la direction de l'historienne Myriam Cottias, dresse un portrait des propriétaires de couleur de la Martinique ayant reçu cette indemnité. Pour son travail d'histoire sociale, elle a reçu le Prix de thèse Jean-Pierre Sainton 2024 de la Fondation pour la Mémoire de l'esclavage, du prix spécial 2024 de l'histoire de l'institution parlementaire de l'Assemblée nationale et celui du Prix 2024 de la Fondation CNRS - Concours Ma Thèse en Manga. Elle a également reçu le prix « Femmes en tête 2024 » décerné par le Collège des sociétés savantes académiques de France. Après un postdoctorat de deux ans en partie consacré à accompagner la création du  Center for Black European Studies and the Atlantic  à l'Université Carnegie Mellon de Pittsburgh, elle mène aujourd'hui au sein de CHEP de nouvelles recherches portant la question cruciale des terres dans l'empire colonial français au tournant de l'abolition de 1848. De leur (re)distribution après l'indemnisation de 1849, à leur usage dans le post-esclavage, Jessica Balguy tire le fil d'une histoire longue de l'exploitation des terres coloniales, de ses propriétaires et de ses travailleurs, en s'appuyant notamment sur les données économiques inédites recensées au cours de ses précédentes recherches.
+			39 link Description: Anciens Research Fellows », Value: histecon.fr/fr/research_fellows_past.html
+	40 container copyright
+		41 container
+			42 text Centre for History and Economics
+			43 text Science Po, Paris
+		44 text © 2026 Centre for History and Economics
+
+The focused UI element is 1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/fr/research_fellows.html

@@ -1,0 +1,67 @@
+Browser tab: 1, Title: "Joint Centre for History and Economics:: Paris", URL: "https://histecon.fr/fr/contacts.html".
+1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/fr/contacts.html
+	2 container container
+		3 container mainContent
+			4 container
+				5 link Description: FR, Value: histecon.fr/fr/contacts.html#
+				6 text  | 
+				7 link Description: EN, Value: histecon.fr/en/contacts.html
+			8 container
+				9 link Description: CHE-Harvard, Value: histecon.fas.harvard.edu/
+				10 link Description: CHE-Cambridge, Value: histecon.magd.cam.ac.uk/
+			11 link Description: Centre for History and Economics, Value: histecon.fr/en/index.html, ID: logo
+			12 content list topNav
+				13 container
+					14 link Description: Accueil, Value: histecon.fr/fr/index.html
+				15 container
+					16 link Description: Participants, Value: histecon.fr/fr/participants.html
+				17 container
+					18 link Description: Publications, Value: histecon.fr/fr/publications.html
+				19 container
+					20 link Description: Projets, Value: histecon.fr/fr/projets.html
+				21 container
+					22 link Description: Activités du CHEP, Value: histecon.fr/fr/chep_activites.html
+				23 container
+					24 link Description: Bourses, Value: histecon.fr/fr/bourses.html
+				25 container
+					26 link Description: Archive des annonces, Value: histecon.fr/fr/archive_annonces.html
+				27 container
+					28 link Description: Contacts, Value: histecon.fr/fr/contacts.html
+		29 container mainpage
+			30 heading CONTACTS, Value: 4
+				31 text CONTACTS
+			32 container
+				33 container
+					34 container ADRESSE POSTALE Centre for History and Economics-Paris Sciences Po 27 rue Saint-Guilaume 75337 Paris Cedex France   Courriel: che.paris@sciencespo.fr BlueSky  
+						35 heading ADRESSE POSTALE, Value: 4
+							36 text ADRESSE POSTALE
+						37 container
+							38 text Centre for History and Economics-Paris Sciences Po
+							39 text 27 rue Saint-Guilaume
+							40 text 75337 Paris Cedex
+							41 text France
+						42 container
+							43 text Courriel: 
+							44 link Description: che.paris@sciencespo.fr , Value: mailto:che.paris@sciencespo.fr
+						45 link Description: BlueSky, Value: bsky.app/profile/historyecon.bsky.social
+					46 container BUREAU Cour Gribeauval, K112. 1 place Saint-Thomas d?Aquin 75007 Paris France 
+						47 heading BUREAU, Value: 4
+							48 text BUREAU
+						49 container
+							50 text Cour Gribeauval, K112.
+							51 text 1 place Saint-Thomas d?Aquin
+							52 text 75007 Paris
+							53 text France
+						54 link histecon.fr/img/office.jpeg
+						55 link google.co.uk/maps/@52.2098516,0.1175508,18z?hl=en
+					56 container CARTE Google Maps »
+						57 heading CARTE, Value: 4
+							58 text CARTE
+						59 link Description: Google Maps », Value: google.co.uk/maps/place/1+Place+St+Thomas+d'Aquin,+75007+Paris,+France/@48.8561409,2.3239474,17z/data=!3m1!4b1!4m13!1m7!3m6!1s0x47e671d5fd83869b:0x54d9d7ec540f49ae!2s1+Place+St+Thomas+d'Aquin,+75007+Paris,+France!3b1!8m2!3d48.8560731!4d2.3275531!3m4!1s0x47e671d61b0de1a7:0xc1cbda5507182d45!8m2!3d48.8560772!4d2.3284663
+	60 container copyright
+		61 container
+			62 text Centre for History and Economics
+			63 text Science Po, Paris
+		64 text © 2026 Centre for History and Economics
+
+The focused UI element is 1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/fr/contacts.html

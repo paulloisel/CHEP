@@ -1,0 +1,32 @@
+[
+  {
+    "file": "id_crosswalk.csv",
+    "rows": 2086,
+    "columns": 15,
+    "roundtrip": "passed"
+  },
+  {
+    "file": "reconciliation_log.csv",
+    "rows": 31,
+    "columns": 10,
+    "roundtrip": "passed"
+  },
+  {
+    "file": "proposal_comparison.csv",
+    "rows": 11,
+    "columns": 10,
+    "roundtrip": "passed"
+  },
+  {
+    "file": "sources.csv",
+    "rows": 54,
+    "columns": 9,
+    "roundtrip": "passed"
+  },
+  {
+    "file": "input_inventory.csv",
+    "rows": 12,
+    "columns": 17,
+    "roundtrip": "passed"
+  }
+]

@@ -1,0 +1,173 @@
+{
+  "as_of_date": "2026-11-15",
+  "people": [
+    {
+      "name": "Esther Duflo",
+      "category": "historical_scientific_council",
+      "institution": "Massachusetts Institute of Technology; University of Zurich; Collège de France (listed current profile)",
+      "research_themes": "development economics; poverty; evaluation of social policy; health; education; financial inclusion; environment and governance",
+      "profile_url": "https://economics.mit.edu/people/faculty/esther-duflo",
+      "current_status": "historical_CHEP_council_only_in_checked_history; current_professional_affiliations_verified_on_profile",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003",
+        "P01-HP001"
+      ],
+      "role_exact": "Abdul Latif Jameel Professor of Poverty Alleviation and Development Economics",
+      "evidence_note": "The2020 minutes spell Esther Duflot and specify MIT Nobel laureate alongside Banerjee. MIT canonical profile spells Duflo, confirms MIT and2019 Nobel with Banerjee; normalization strongly supported; no institutional correction claim."
+    },
+    {
+      "name": "Guillaume Daudin",
+      "category": "historical_scientific_council",
+      "institution": "Université Paris Dauphine-PSL, LEDa-DIAL",
+      "research_themes": "early modern economic history; international trade and globalization; eighteenth-century French trade; trade in value added",
+      "profile_url": "https://dauphine.psl.eu/recherche/cvtheque/profil/daudin-guillaume",
+      "current_status": "historical_CHEP_council_only_in_checked_history; current_professional_affiliation_listed",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003",
+        "P01-HP002"
+      ],
+      "role_exact": "professeur des universités en économie",
+      "evidence_note": "Dauphine profile states position since2012; historical CHEP council tenure still unknown."
+    },
+    {
+      "name": "Jenny Andersson",
+      "category": "historical_scientific_council",
+      "institution": "Uppsala University, Department of History of Science and Ideas; CNRS Research Professor (profile wording)",
+      "research_themes": "social democracy; postindustrialism; welfare capitalism; neoliberalism; political history of futures and knowledge",
+      "profile_url": "https://www.uu.se/kontakt-och-organisation/personal?query=N96-6054",
+      "current_status": "historical_CHEP_council_membership_by2020; Uppsala_professor_listed; former_SciencesPo_CEE_work_to2020-11",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003",
+        "P01-HP003",
+        "P01-HP004"
+      ],
+      "role_exact": "Professor vid Institutionen för idéhistoria",
+      "evidence_note": "Use Uppsala current profile rather than older Futurepol project page for current affiliation; Uppsala explicitly dates her Sciences Po CEE work through November2020."
+    },
+    {
+      "name": "Nicolas Delalande",
+      "category": "historical_scientific_council",
+      "institution": "Sciences Po Centre d’histoire (CHSP)",
+      "research_themes": "state and citizenship; inequality and solidarity in nineteenth- and twentieth-century Europe; political economy; global and transnational history",
+      "profile_url": "https://www.sciencespo.fr/histoire/fr/annuaire/delalande-nicolas/",
+      "current_status": "current_CHSP_profile; historical_CHEP_council_attested2020; merge_any_current_CHEP_roster_evidence_separately",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003",
+        "P01-HP005"
+      ],
+      "role_exact": "Professeur FNSP, Directeur adjoint en charge de la recherche au Centre d'histoire",
+      "evidence_note": "Institutional profile also documents co-convening Histoires de la vie économique with David Todd."
+    },
+    {
+      "name": "Giacomo Parrinello",
+      "category": "historical_scientific_council",
+      "institution": "Sciences Po Centre d’histoire (CHSP)",
+      "research_themes": "environmental history; disasters; urban environments; water; energy; coasts; Anthropocene; environmental knowledge",
+      "profile_url": "https://www.sciencespo.fr/histoire/fr/annuaire/parrinello-giacomo/",
+      "current_status": "current_CHSP_profile; historical_CHEP_council_attested2020; merge_current_CHEP_Research_Associate_evidence_from_announcements",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003",
+        "P01-H013",
+        "P01-HP006"
+      ],
+      "role_exact": "Associate Professor",
+      "evidence_note": "The2020 minutes use Parinello; canonical institutional profile and CHEP announcement use Parrinello. Canonical spelling verified; identity mapping uses identical given name and CHSP affiliation."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "P01-HP001",
+      "url": "https://economics.mit.edu/people/faculty/esther-duflo",
+      "title": "Esther Duflo",
+      "publisher_or_owner": "MIT Department of Economics",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional_profile",
+      "supports": "Canonical Duflo spelling; current listed MIT/Zurich/Collège de France roles; development economics and policy themes;2019 Nobel alongside Banerjee corroborates minutes identity",
+      "retrieval_status": "retrieved_indexed_copy; crawl label today"
+    },
+    {
+      "source_id": "P01-HP002",
+      "url": "https://dauphine.psl.eu/recherche/cvtheque/profil/daudin-guillaume",
+      "title": "Daudin Guillaume — CV",
+      "publisher_or_owner": "Université Paris Dauphine-PSL",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional_profile",
+      "supports": "Name; professor of economics since2012 at Paris-Dauphine LEDa-DIAL; early modern economic history and trade/globalization themes",
+      "retrieval_status": "retrieved_indexed_copy; crawl label 3 weeks ago; biography accessible; publication block maintenance notice"
+    },
+    {
+      "source_id": "P01-HP003",
+      "url": "https://www.uu.se/kontakt-och-organisation/personal?query=N96-6054",
+      "title": "Jenny Andersson",
+      "publisher_or_owner": "Uppsala University",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional_profile",
+      "supports": "Professor history of science and ideas; CNRS Research Professor; research interests; Sciences Po CEE work until November2020",
+      "retrieval_status": "retrieved_indexed_copy; crawl label 2 days ago"
+    },
+    {
+      "source_id": "P01-HP004",
+      "url": "https://www.sciencespo.fr/futurepol/fr/content/jenny-andersson.html",
+      "title": "Jenny Andersson",
+      "publisher_or_owner": "Sciences Po Futurepol",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional_profile",
+      "supports": "Historical CEE/CNRS profile; history of futures and knowledge; older project context, not current institution proof",
+      "retrieval_status": "retrieved_indexed_copy; crawl label last month; content still describes2017 forthcoming work"
+    },
+    {
+      "source_id": "P01-HP005",
+      "url": "https://www.sciencespo.fr/histoire/fr/annuaire/delalande-nicolas/",
+      "title": "Nicolas Delalande",
+      "publisher_or_owner": "Sciences Po Centre d’histoire",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional_profile",
+      "supports": "Name; CHSP professor/deputy director for research; state, inequality, solidarity, political economy, global history themes",
+      "retrieval_status": "retrieved_indexed_copy; crawl label 2 days ago"
+    },
+    {
+      "source_id": "P01-HP006",
+      "url": "https://www.sciencespo.fr/histoire/fr/annuaire/parrinello-giacomo/",
+      "title": "Giacomo Parrinello",
+      "publisher_or_owner": "Sciences Po Centre d’histoire",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional_profile",
+      "supports": "Canonical double-r spelling; CHSP Associate Professor; environmental history themes",
+      "retrieval_status": "retrieved_indexed_copy; crawl label last week"
+    }
+  ],
+  "name_reconciliation": [
+    {
+      "source_name": "Esther Duflot",
+      "canonical_name": "Esther Duflo",
+      "source_ids": [
+        "P01-H003",
+        "P01-HP001"
+      ],
+      "evidence_status": "inferred",
+      "rationale": "Unique matching MIT2019 Nobel laureate named Esther with co-laureate Abhijit Banerjee; canonical spelling established by MIT"
+    },
+    {
+      "source_name": "Giacomo Parinello",
+      "canonical_name": "Giacomo Parrinello",
+      "source_ids": [
+        "P01-H003",
+        "P01-HP006",
+        "P01-H013"
+      ],
+      "evidence_status": "inferred",
+      "rationale": "Matching full name except missing r and same CHSP institutional context; official Sciences Po and CHEP spell Parrinello"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "source_id": "P02-SQ001",
+    "url": "https://www.cambridge.org/core/journals/journal-of-global-history/article/world-in-blocs-leo-amery-the-british-empire-and-regionalist-antiinternationalism-19031947/16BE59E099E28FAE20928F7E74089943",
+    "title": "The World in Blocs: Leo Amery, the British Empire and Regionalist Anti-internationalism, 1903–1947",
+    "publisher_or_owner": "Cambridge University Press",
+    "source_date": "2022-12-19",
+    "accessed_at": "2026-11-15",
+    "source_type": "journal_article",
+    "supports": "P02-RF068: first online 19 December 2022; issue July 2023; 18(2), 236–258; DOI 10.1017/S1740022822000262; CC BY open access",
+    "retrieval_status": "retrieved_indexed; crawl age 1 week"
+  },
+  {
+    "source_id": "P02-SQ002",
+    "url": "https://tobinproject.org/books-papers/corporations-american-democracy",
+    "title": "Corporations and American Democracy",
+    "publisher_or_owner": "The Tobin Project",
+    "source_date": "date_unknown",
+    "accessed_at": "2026-11-15",
+    "source_type": "responsible_project_book_page",
+    "supports": "P02-L009: explicitly Published by Harvard University Press; contents identify Levy chapter; resolves CV publisher conflict",
+    "retrieval_status": "retrieved_indexed; crawl age 1 month"
+  },
+  {
+    "source_id": "P02-SQ003",
+    "url": "https://droit.cairn.info/revue-pouvoirs-2025-5-page-29?lang=fr",
+    "title": "Les lieux du soin",
+    "publisher_or_owner": "Cairn / Pouvoirs",
+    "source_date": "2025-12-23",
+    "accessed_at": "2026-11-15",
+    "source_type": "journal_article",
+    "supports": "P02-RF017: publisher indexed citation says issue 2026/1 no196 pp29–39; online date 23 December 2025; DOI10.3917/pouv.196.0029; direct access failed",
+    "retrieval_status": "indexed_search_content_retrieved; direct_open_403; canonical_2026_route_cache_miss"
+  },
+  {
+    "source_id": "P02-SQ004",
+    "url": "https://www.idhes.cnrs.fr/travail-servile-et-dynamiques-economiques-xvie%E2%80%91xxe-siecle/",
+    "title": "Travail servile et dynamiques économiques XVIe‑XXe siècle",
+    "publisher_or_owner": "IDHE.S / CNRS",
+    "source_date": "date_unknown",
+    "accessed_at": "2026-11-15",
+    "source_type": "institutional_book_announcement",
+    "supports": "P02-RF066: sole chapter author Jessica Balguy; book print 12 November 2024 and digital 8 November 2024; ISBN9782111621121; book DOI10.4000/12na5",
+    "retrieval_status": "retrieved_indexed; crawl age 4 days"
+  },
+  {
+    "source_id": "P02-SQ005",
+    "url": "https://www.cnrseditions.fr/catalogue/histoire/routines-punitives/",
+    "title": "Routines punitives. Les sanctions du quotidien XIXe–XXe siècle",
+    "publisher_or_owner": "CNRS Éditions",
+    "source_date": "2023-10-05",
+    "accessed_at": "2026-11-15",
+    "source_type": "publisher_catalogue",
+    "supports": "P02-RF052: edited volume, not coauthored monograph; editors Mathilde Rossigneux-Méheust and Elsa Génard; ISBN9782271133113; 5 October 2023 publication; synopsis",
+    "retrieval_status": "retrieved_indexed; crawl age 4 weeks"
+  },
+  {
+    "source_id": "P02-SQ006",
+    "url": "https://books.openedition.org/igpde/21383",
+    "title": "Les indemnités du XIXe siècle comme révélateur des organisations économiques et sociales des sociétés coloniales esclavagistes",
+    "publisher_or_owner": "IGPDE / OpenEdition Books",
+    "source_date": "date_unknown",
+    "accessed_at": "2026-11-15",
+    "source_type": "chapter",
+    "supports": "P02-RF066: chapter canonical URL recovered from IDHE.S contents; chapter text/DOI not retrieved",
+    "retrieval_status": "challenge_Anubis; no substantive content"
+  },
+  {
+    "source_id": "P02-SQ007",
+    "url": "https://www.journals.uchicago.edu/doi/10.1086/737536",
+    "title": "Psychiatrists, Addicted Patients, and Institutions of Care: European Histories from the Nineteenth and Twentieth Centuries",
+    "publisher_or_owner": "University of Chicago Press / The Social History of Alcohol and Drugs",
+    "source_date": "2025-11-12",
+    "accessed_at": "2026-11-15",
+    "source_type": "journal_article",
+    "supports": "P02-RF013: guest editors introduction, pp141–151, DOI10.1086/737536; issue1 September2025; online12 November2025; title spelling expands Nineteenth and Twentieth",
+    "retrieval_status": "retrieved_indexed; crawl age 2 months"
+  }
+]

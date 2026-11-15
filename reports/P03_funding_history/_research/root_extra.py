@@ -1,0 +1,15 @@
+import csv
+from pathlib import Path
+p=Path('reports/P03_funding_history/_research');D='2026-11-15'
+with (p/'root_sources.csv').open(encoding='utf8') as f:r=csv.DictReader(f);fields=r.fieldnames;rows=list(r)
+for sid,url,title,owner,stype,supports,status in [
+('P03-S018','https://www.sciencespo.fr/recherche/fr/recherches/conventions-de-recherche/erc/','Projets ERC (European Research Council)','Sciences Po Recherche','institutional_funding_register','SILICOSIS PI Rosental and HETMAT PI Mayer; historical periods; SLAVEVOICES end Aug2028 conflicts with CORDIS','retrieved_via_web_open; cache label last month'),
+('P03-S019','https://cordis.europa.eu/project/id/295817','SILICOSIS — Grant agreement 295817 — Fact Sheet','European Commission CORDIS','funder_award_database','EU contribution1628803EUR; FNSP beneficiary; 2012-06-01 to2018-02-28; archived content2024-05-30','retrieved_via_web_open; cache label last month; source archive date2024-05-30'),
+('P03-S020','https://cordis.europa.eu/project/id/313522','HETMAT — Grant agreement313522','European Commission CORDIS','funder_award_database','Attempted official amount verification; no amount used','unavailable_via_web; English and French cache miss')]: rows.append(dict(zip(fields,[sid,url,title,owner,'date_unknown',D,stype,supports,status])))
+with (p/'root_sources.csv').open('w',newline='',encoding='utf8') as f:w=csv.DictWriter(f,fieldnames=fields);w.writeheader();w.writerows(rows)
+fields='funding_id,parent_award_id,relationship_category,instrument_type,scheme,project,funder,recipient,administrator,beneficiary,CHEP_connection,award_date,start_date,end_date,amount,currency,amount_basis,award_or_call_status,evidence_status,source_ids'.split(',')
+rows=[
+['P03-F001','not_applicable','individual_associated_researcher_earlier_award','research_project_grant','ERC Advanced Grant; FP7 grant295817','From Silicosis to Chronic Respiratory diseases (SILICOSIS)','European Research Council / European Union','Fondation nationale des sciences politiques','Fondation nationale des sciences politiques','Paul-André Rosental (PI) and project team','Current CHEP-associated scholar; historical grant predates documented2019 collaboration; not CHEP income','date_unknown','2012-06-01','2018-02-28','1628803','EUR','total EU project contribution; not annual amount or CHEP budget','awarded_project_closed','verified','P03-S018;P03-S019'],
+['P03-F002','not_applicable','individual_associated_researcher_earlier_award','research_project_grant','ERC Starting Grant; HETMAT','Heterogeneity that Matters for Welfare and Trade','European Research Council / European Union','not_found_publicly','Sciences Po (project host; legal administrator not established)','Thierry Mayer (PI) and project team','CHEP scientific/governance connection; historical project predates documented2019 collaboration; not CHEP income','date_unknown','2012-11','2018-07','not_found_publicly','not_found_publicly','not_found_publicly','awarded_project_completed','verified','P03-S018'],
+]
+with (p/'root_funding.csv').open('w',newline='',encoding='utf8') as f:w=csv.writer(f);w.writerow(fields);w.writerows(rows)

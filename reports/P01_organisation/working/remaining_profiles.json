@@ -1,0 +1,376 @@
+{
+  "as_of_date": "2026-11-15",
+  "scope": "P01 bounded supplementary checks: five remaining Paris associates and former fellow Liane Hewitt. No branch expansion.",
+  "sources": [
+    {
+      "source_id": "P01-RS01",
+      "url": "https://histecon.fr/en/research_associates.html",
+      "title": "Research associates — Centre for History and Economics in Paris",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "retrieved",
+      "notes": "All five associates listed. Institutional labels can lag external profiles."
+    },
+    {
+      "source_id": "P01-RS02",
+      "url": "https://histecon.fr/en/research_fellows_past.html",
+      "title": "Past Research Fellows — CHEP",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "retrieved",
+      "notes": "Liane Hewitt 2024–2025; Anatole Le Bras 2021–2023, the latter conflicts with a dated Sciences Po joining announcement."
+    },
+    {
+      "source_id": "P01-RS03",
+      "url": "https://www.chcsc.uvsq.fr/m-anatole-le-bras",
+      "title": "M. Anatole Le Bras — CHCSC, UVSQ",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "failed_timeout",
+      "notes": "Direct roster link retried twice; 400 timeout. Search-index content excluded from verified evidence."
+    },
+    {
+      "source_id": "P01-RS04",
+      "url": "https://www.chcsc.uvsq.fr/m-anatole-le-bras?toPdf=true",
+      "title": "M. Anatole Le Bras — UVSQ print route",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "failed_cache_miss",
+      "notes": ""
+    },
+    {
+      "source_id": "P01-RS05",
+      "url": "https://histecon.fr/en/Anatole_LeBras.html",
+      "title": "Anatole Le Bras — CHEP",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "retrieved",
+      "notes": "Undated biography: themes used; described current project not assumed still current."
+    },
+    {
+      "source_id": "P01-RS06",
+      "url": "https://www.sciencespo.fr/histoire/fr/le-centre/trajectoires-professionnelles/",
+      "title": "Trajectoires professionnelles — Sciences Po CHSP",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "retrieved",
+      "notes": "Automne 2024 records Le Bras at UVSQ. Printemps 2025 records Hewitt Penn appointment effective 5 July 2025."
+    },
+    {
+      "source_id": "P01-RS07",
+      "url": "https://www.sciencespo.fr/histoire/fr/evenements/alienes-une-histoire-sociale-de-la-folie-au-xixe-siecle/",
+      "title": "Aliénés. Une histoire sociale de la folie au XIXe siècle — Sciences Po CHSP",
+      "access_date": "2026-11-15",
+      "source_date": "2024-01-23",
+      "retrieval_status": "retrieved",
+      "notes": "Explicit CHEP postdoctoral joining month September 2023 conflicts with past-fellows roster."
+    },
+    {
+      "source_id": "P01-RS08",
+      "url": "https://www.sciencespo.fr/histoire/fr/chercheur/Marion%20Fontaine/86113.html",
+      "title": "Marion Fontaine — Sciences Po old researcher route",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "retrieved",
+      "notes": "Old linked route says Directrice des études doctorales en Histoire; current annuaire gives different role."
+    },
+    {
+      "source_id": "P01-RS09",
+      "url": "https://www.sciencespo.fr/histoire/fr/annuaire/fontaine-marion/",
+      "title": "Marion Fontaine — Sciences Po current annuaire",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "retrieved",
+      "notes": "Professeure des universités, Directrice du Département d’histoire."
+    },
+    {
+      "source_id": "P01-RS10",
+      "url": "https://www.ericmonnet.eu/",
+      "title": "Eric Monnet — personal academic website",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "retrieved",
+      "notes": "Author-controlled site linked by CHEP; EHESS/PSE affiliations corroborated in EHESS directory."
+    },
+    {
+      "source_id": "P01-RS11",
+      "url": "https://pagesblanches.aria.ehess.fr/personne/emonnet",
+      "title": "Annuaire — Eric Monnet — EHESS",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "retrieved",
+      "notes": "Institution EHESS; affectation Paris School of Economics – PSE [UMR 8545]."
+    },
+    {
+      "source_id": "P01-RS12",
+      "url": "https://www.parisschoolofeconomics.eu/en/",
+      "title": "Paris School of Economics",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "failed_http_418",
+      "notes": "Linked institution homepage; not used as profile evidence."
+    },
+    {
+      "source_id": "P01-RS13",
+      "url": "https://www.sciencespo.fr/histoire/en/researcher/M%27hamed%20Oualdi/76196-2.html",
+      "title": "M’Hamed Oualdi — Sciences Po old English profile",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "failed_cache_miss",
+      "notes": ""
+    },
+    {
+      "source_id": "P01-RS14",
+      "url": "https://www.sciencespo.fr/histoire/fr/annuaire/oualdi-m-hamed/",
+      "title": "M’Hamed Oualdi — Sciences Po annuaire",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "retrieved",
+      "notes": "Professeur des universités (en détachement); détachement to Institut universitaire de Florence since 1 September 2024. Normalize EUI name using EUI profile."
+    },
+    {
+      "source_id": "P01-RS15",
+      "url": "https://www.eui.eu/people?id=mhamed-oualdi",
+      "title": "M’Hamed Oualdi — European University Institute",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "retrieved",
+      "notes": "Full-time Professor; Project Director; Department of History; Chair in European History in the 19th and early 20th centuries."
+    },
+    {
+      "source_id": "P01-RS16",
+      "url": "https://www.eui.eu/news-hub?id=four-new-professors-join-the-history-department&lang=en-GB",
+      "title": "Four new professors join the History Department — EUI",
+      "access_date": "2026-11-15",
+      "source_date": "2024-09-13",
+      "retrieval_status": "retrieved",
+      "notes": "Yates and Oualdi joined September 2024, from Manchester and Sciences Po respectively."
+    },
+    {
+      "source_id": "P01-RS17",
+      "url": "https://research.manchester.ac.uk/en/persons/alexia.yates",
+      "title": "Alexia Yates — University of Manchester Research Explorer",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "retrieved",
+      "notes": "Old linked portal route redirects here; retained directory says Senior Lecturer. EUI appointment announcement supersedes current-employer inference."
+    },
+    {
+      "source_id": "P01-RS18",
+      "url": "https://www.eui.eu/people?id=alexia-yates",
+      "title": "Alexia Yates — European University Institute",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "retrieved",
+      "notes": "Full-time Professor, Department of History; Chair in European History in the 19th and early 20th centuries."
+    },
+    {
+      "source_id": "P01-RS19",
+      "url": "https://www.history.upenn.edu/people/liane-hewitt",
+      "title": "Liane Hewitt — University of Pennsylvania History",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "failed_cache_miss",
+      "notes": "Direct past-fellows link failed; alternate official Penn programme profile retrieved."
+    },
+    {
+      "source_id": "P01-RS20",
+      "url": "https://snfpaideia.upenn.edu/people/liane-hewitt/",
+      "title": "Liane Hewitt — SNF Paideia Programme, University of Pennsylvania",
+      "access_date": "2026-11-15",
+      "source_date": null,
+      "retrieval_status": "retrieved",
+      "notes": "Assistant Professor of History; School of Arts and Sciences / Department of History. Explicit prior CHEP postdoctoral fellow."
+    }
+  ],
+  "people": [
+    {
+      "person_id": "anatole_le_bras",
+      "name": "Anatole Le Bras",
+      "formal_paris_role": "Research associate",
+      "formal_role_source_ids": [
+        "P01-RS01"
+      ],
+      "external_institution": "Université de Versailles Saint-Quentin-en-Yvelines",
+      "external_role": "Maître de conférences en histoire contemporaine",
+      "external_role_date": "Documented under Automne 2024; exact appointment date unavailable",
+      "external_role_source_ids": [
+        "P01-RS06"
+      ],
+      "themes": [
+        "Social and cultural history of psychiatry, especially France in the nineteenth and twentieth centuries",
+        "Climate, environment and mental health in the Western world",
+        "History of alcoholism"
+      ],
+      "theme_source_ids": [
+        "P01-RS05",
+        "P01-RS06",
+        "P01-RS07"
+      ],
+      "past_paris_role": "Postdoctoral research fellow",
+      "past_role_source_ids": [
+        "P01-RS02",
+        "P01-RS07"
+      ],
+      "past_role_dates_status": "conflicting",
+      "past_role_dates_observations": [
+        {
+          "source_id": "P01-RS02",
+          "dates": "2021–2023"
+        },
+        {
+          "source_id": "P01-RS07",
+          "dates": "joined September 2023"
+        }
+      ],
+      "profile_check_status": "Direct UVSQ profile failed; CHEP biography and Sciences Po official career/event pages retrieved",
+      "evidence_status": "verified current association; historical fellowship dates conflicting",
+      "notes": "Do not silently correct past-fellows roster. CHEP biography says Strasbourg postdoc 2021–2023, which may explain but does not resolve discrepancy."
+    },
+    {
+      "person_id": "marion_fontaine",
+      "name": "Marion Fontaine",
+      "formal_paris_role": "Research associate",
+      "formal_role_source_ids": [
+        "P01-RS01"
+      ],
+      "external_institution": "Sciences Po — Centre d’histoire (CHSP), Département d’histoire",
+      "external_role": "Professeure des universités; Directrice du Département d’histoire",
+      "external_role_date": null,
+      "external_role_source_ids": [
+        "P01-RS09"
+      ],
+      "themes": [
+        "Political and cultural history of twentieth- and twenty-first-century Europe",
+        "Socialism and labour movements",
+        "Mines, miners and the crisis of industrial societies",
+        "Social uses of time, leisure and sport"
+      ],
+      "theme_source_ids": [
+        "P01-RS09"
+      ],
+      "profile_check_status": "Old linked profile and current annuaire both retrieved",
+      "evidence_status": "verified",
+      "notes": "Old roster-linked route P01-RS08 gives Directrice des études doctorales en Histoire. Use current annuaire title and flag route inconsistency. No CHEP leadership implication."
+    },
+    {
+      "person_id": "eric_monnet",
+      "name": "Eric Monnet",
+      "formal_paris_role": "Research associate",
+      "formal_role_source_ids": [
+        "P01-RS01"
+      ],
+      "external_institution": "EHESS; Paris School of Economics; Centre d’histoire économique et sociale François-Simiand",
+      "external_role": "Directeur d’études (Full Professor); CEPR Research Fellow",
+      "external_role_date": null,
+      "external_role_source_ids": [
+        "P01-RS10",
+        "P01-RS11"
+      ],
+      "themes": [
+        "Economic history and macroeconomics",
+        "Finance, state intervention in credit markets, and central banking",
+        "International monetary systems and European monetary globalisation since the nineteenth century",
+        "Banking crises in the Great Depression",
+        "Methods and causal inference in economic history"
+      ],
+      "theme_source_ids": [
+        "P01-RS10"
+      ],
+      "profile_check_status": "CHEP-linked author site retrieved; EHESS directory corroborates affiliations; PSE homepage failed",
+      "evidence_status": "verified",
+      "notes": "Exact title and themes from author site. EHESS directory uses broad teacher/researcher status."
+    },
+    {
+      "person_id": "mhamed_oualdi",
+      "name": "M’Hamed Oualdi",
+      "formal_paris_role": "Research associate",
+      "formal_role_source_ids": [
+        "P01-RS01"
+      ],
+      "external_institution": "European University Institute — Department of History; Sciences Po appointment in détachement",
+      "external_role": "Full-time Professor; Project Director; Chair in European History in the 19th and early 20th centuries",
+      "external_role_date": "Joined EUI September 2024; Sciences Po détachement since 2024-09-01",
+      "external_role_source_ids": [
+        "P01-RS14",
+        "P01-RS15",
+        "P01-RS16"
+      ],
+      "themes": [
+        "European and North African history during the long nineteenth century",
+        "Ottoman Tunisia and French colonial domination",
+        "Slavery and the demise of slavery in the Mediterranean"
+      ],
+      "theme_source_ids": [
+        "P01-RS14",
+        "P01-RS15"
+      ],
+      "profile_check_status": "Old linked English route failed; current Sciences Po and EUI profiles retrieved",
+      "evidence_status": "verified current external affiliation; roster label incomplete",
+      "notes": "Paris roster still displays Sciences Po. EUI role and Sciences Po détachement coexist; neither implies CHEP governing role."
+    },
+    {
+      "person_id": "alexia_yates",
+      "name": "Alexia Yates",
+      "formal_paris_role": "Research associate",
+      "formal_role_source_ids": [
+        "P01-RS01"
+      ],
+      "external_institution": "European University Institute — Department of History",
+      "external_role": "Full-time Professor; Chair in European History in the 19th and early 20th centuries",
+      "external_role_date": "Joined September 2024",
+      "external_role_source_ids": [
+        "P01-RS18",
+        "P01-RS16"
+      ],
+      "themes": [
+        "Modern European history, especially France",
+        "Urban history and the history of capitalism",
+        "Real estate, property and urban experience",
+        "Social and cultural history of mass investment and financial modernity"
+      ],
+      "theme_source_ids": [
+        "P01-RS18",
+        "P01-RS17"
+      ],
+      "profile_check_status": "Linked Manchester route retrieved via redirect; current EUI profile and dated appointment announcement retrieved",
+      "evidence_status": "verified current external affiliation; roster label outdated",
+      "notes": "CHEP roster still says Manchester and retained Manchester directory says Senior Lecturer. EUI welcome confirms move from Manchester September 2024. Do not use Manchester as present principal employer."
+    },
+    {
+      "person_id": "liane_hewitt",
+      "name": "Liane Hewitt",
+      "formal_paris_role": "Former research fellow",
+      "formal_role_dates": "2024–2025",
+      "formal_role_source_ids": [
+        "P01-RS02",
+        "P01-RS20"
+      ],
+      "external_institution": "University of Pennsylvania — School of Arts and Sciences, Department of History",
+      "external_role": "Assistant Professor of History",
+      "external_role_date": "Effective 2025-07-05 according to Sciences Po career page",
+      "external_role_source_ids": [
+        "P01-RS20",
+        "P01-RS06"
+      ],
+      "themes": [
+        "Transnational European political economy and international order",
+        "Relations between corporate and state power",
+        "Cartels, monopoly and economic democracy",
+        "Legal, intellectual, business and economic history"
+      ],
+      "theme_source_ids": [
+        "P01-RS20"
+      ],
+      "profile_check_status": "Direct Penn History profile failed; alternate official Penn SNF Paideia profile retrieved",
+      "evidence_status": "verified historical Paris fellowship and current external role",
+      "notes": "Do not count as current Paris research associate or governing member."
+    }
+  ],
+  "coverage_notes": [
+    "All six assigned profile leads checked; failures retained with alternate official evidence where possible.",
+    "Formal association and external employment are distinct observations. Themes reflect explicit biographies, not publication-title inference.",
+    "CHEP roster institutions lag EUI appointments for Yates and Oualdi.",
+    "Le Bras historical CHEP fellowship dates conflict between past-fellows roster and dated Sciences Po joining announcement."
+  ]
+}

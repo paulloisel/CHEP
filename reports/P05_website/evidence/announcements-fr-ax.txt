@@ -1,0 +1,79 @@
+Browser tab: 1, Title: "Joint Centre for History and Economics:: Paris", URL: "https://histecon.fr/fr/archive_annonces.html".
+1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/fr/archive_annonces.html
+	2 container container
+		3 container mainContent
+			4 container
+				5 link Description: FR, Value: histecon.fr/fr/archive_annonces.html#
+				6 text  | 
+				7 link Description: EN, Value: histecon.fr/en/announcements_archive.html
+			8 container
+				9 link Description: CHE-Harvard, Value: histecon.fas.harvard.edu/
+				10 link Description: CHE-Cambridge, Value: histecon.magd.cam.ac.uk/
+			11 link Description: Centre for History and Economics, Value: histecon.fr/en/index.html, ID: logo
+			12 content list topNav
+				13 container
+					14 link Description: Accueil, Value: histecon.fr/fr/index.html
+				15 container
+					16 link Description: Participants, Value: histecon.fr/fr/participants.html
+				17 container
+					18 link Description: Publications, Value: histecon.fr/fr/publications.html
+				19 container
+					20 link Description: Projets, Value: histecon.fr/fr/projets.html
+				21 container
+					22 link Description: Activités du CHEP, Value: histecon.fr/fr/chep_activites.html
+				23 container
+					24 link Description: Bourses, Value: histecon.fr/fr/bourses.html
+				25 container
+					26 link Description: Archive des annonces, Value: histecon.fr/fr/archive_annonces.html
+				27 container
+					28 link Description: Contacts, Value: histecon.fr/fr/contacts.html
+		29 container mainpage
+			30 heading ARCHIVE DES ANNONCES, Value: 4
+				31 text ARCHIVE DES ANNONCES
+			32 container
+				33 link Description: Liane Hewitt, Value: history.upenn.edu/people/liane-hewitt
+				34 text , research fellow au CHEP en 2024-2025, a été élue Assistant Professor d'histoire transnationale de l'Europe à l'époque contemporaine à l'université de Pennsylvanie. Elsa Génard, 
+				35 link Description: research fellow au CHEP, Value: histecon.fr/fr/research_fellows_past.html
+				36 text  en 2021-2022, a été élue maîtresse de conférence en histoire de l'Europe au XXe siècle à Paris 13.
+				37 link Description: Anatole Le Bras, Value: chcsc.uvsq.fr/m-anatole-le-bras
+				38 text , 
+				39 link Description: research fellow au CHEP, Value: histecon.fr/fr/research_fellows_past.html
+				40 text  depuis 2023, a été élu maître de conference en histoire contemporaine à Versailles Saint-Quentin. The 
+				41 link Description: Harvard Center, Value: histecon.fas.harvard.edu/
+				42 text  is pleased to introduce 
+				43 link Description: 1800 Histories, Value: histecon.fas.harvard.edu/1800_histories/index.html
+				44 text . The project is an effort to understand the local circumstances of more than a thousand sites - the ultra-emitters of methane gas - that are of outsized importance in the causes of climate change.
+				45 link Description: David Todd, Value: sciencespo.fr/histoire/en/researcher/David%20Todd/86025.html
+				46 text  was awarded the 2023 
+				47 link Description: Gyorgy Ranki Prize of the Economic History Association, Value: eh.net/prize-winners-2023/
+				48 text  for the outstanding book on the Economic History of Europe, for his book 
+				49 link Description: A Velvet Empire: French Informal Imperialism in the Nineteenth Century, Value: press.princeton.edu/books/hardcover/9780691171838/a-velvet-empire
+				50 text .
+				51 link Description: Emma Rothschild, Value: eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhistory.fas.harvard.edu%2Fpeople%2Femma-rothschild&data=05%7C01%7Camp32%40universityofcambridgecloud.onmicrosoft.com%7C5fa06fd0ce2e419d800a08dab647d2fb%7C49a50445bdfa4b79ade3547b4f3986e9%7C0%7C0%7C638022716842278835%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=FELnR%2Bs%2BiVt3FveA%2FI7QVkdWfw3QX09cYbXjR0Tmz4M%3D&reserved=0
+				52 text  a reçu le prix 
+				53 link Description: Leo Gershoy 2022, Value: eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.historians.org%2Fawards-and-grants%2Fpast-recipients%2Fleo-gershoy-award-recipients&data=05%7C01%7Camp32%40universityofcambridgecloud.onmicrosoft.com%7C5fa06fd0ce2e419d800a08dab647d2fb%7C49a50445bdfa4b79ade3547b4f3986e9%7C0%7C0%7C638022716842278835%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=6RixeGVgmvc9wnrtgXsJ4PU6TY3N%2FkKrxuFw3r8dYT8%3D&reserved=0
+				54 text  pour son livre
+				55 container
+					56 link Description: An Infinite History: The Story of a Family in France over Three Centuries, Help: https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpress.princeton.edu%2Fbooks%2Fhardcover%2F9780691200309%2Fan-infinite-history&data=05%7C01%7Camp32%40universityofcambridgecloud.onmicrosoft.com%7C5fa06fd0ce2e419d800a08dab647d2fb%7C49a50445bdfa4b79ade3547b4f3986e9%7C0%7C0%7C638022716842278835%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Q0235CmpjXFWbl7tkIWmOIU5cKbpPBsDA59Z9bqMw%2F8%3D&reserved=0, Value: eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpress.princeton.edu%2Fbooks%2Fhardcover%2F9780691200309%2Fan-infinite-history&data=05%7C01%7Camp32%40universityofcambridgecloud.onmicrosoft.com%7C5fa06fd0ce2e419d800a08dab647d2fb%7C49a50445bdfa4b79ade3547b4f3986e9%7C0%7C0%7C638022716842278835%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Q0235CmpjXFWbl7tkIWmOIU5cKbpPBsDA59Z9bqMw%2F8%3D&reserved=0
+				57 text . Nous la félicitons chaleureusement. Nous sommes heureux de partager une nouvelle contribution au site 
+				58 link Description: Visualizing Climate and Loss, Value: histecon.fas.harvard.edu/climate-loss/index.html
+				59 text  du Joint Centre. Dans un billet intitulé 
+				60 link Description: Times of Drought, Value: histecon.fas.harvard.edu/climate-loss/po/index.html
+				61 text , le chercheur associé au CHEP 
+				62 link Description: Giacomo Parrinello, Value: sciencespo.fr/histoire/en/researcher/Giacomo%20Parrinello/76291.html
+				63 text  évoque les sécheresses passées et présentes dans le bassin du Pô et s’interroge sur leurs implications pour le changement climatique et la gouvernance de l’eau. Félicitations à 
+				64 link Description: Jingyi Huang, Value: brandeis.edu/facultyguide/person.html?emplid=81d3786b9009167062cbbecbe74200a86e613f35
+				65 text , research fellow EHP-CHEP, qui a reçu 
+				66 link Description: le prix Allan Nevins en histoire économique américaine, Value: economics.ucla.edu/2022/09/20/former-phd-student/
+				67 text . Le Joint Centre for History and Economics est heureux d’annoncer le lancement d’une nouvelle initiative de recherche, 
+				68 link Description: Economic History, Climate and the Environment, Value: histecon.fas.harvard.edu/ehc/
+				69 text . CHEP est heureux de financer une bourse non-résidentielle pour chercheurs en danger au 
+				70 link Description: Center for Urban History à Lviv, Value: lvivcenter.org/en/
+				71 text . Nos féliciations à la lauréate, Ivanna Cherchovych.
+	72 container copyright
+		73 container
+			74 text Centre for History and Economics
+			75 text Science Po, Paris
+		76 text © 2026 Centre for History and Economics
+
+The focused UI element is 1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/fr/archive_annonces.html

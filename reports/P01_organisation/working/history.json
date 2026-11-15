@@ -1,0 +1,670 @@
+{
+  "as_of_date": "2026-11-15",
+  "sources": [
+    {
+      "source_id": "P01-H001",
+      "url": "https://www.sciencespo.fr/ecole-recherche/fr/actualites/entretien-avec-david-todd-directeur-des-etudes-en-histoire/",
+      "title": "Entretien avec David Todd, directeur des études en Histoire",
+      "publisher_or_owner": "Sciences Po École de la recherche",
+      "source_date": "2025-07-21",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional_interview",
+      "supports": "Todd says he has coordinated CHEP since 2022; host CHSP and Cambridge/Harvard partnership; joined CHSP September 2021",
+      "retrieval_status": "retrieved_indexed_copy; crawl label 2 weeks ago"
+    },
+    {
+      "source_id": "P01-H002",
+      "url": "https://lemercier.ouvaton.org/wp-content/uploads/2024/03/Lemercier-CV-mars-2024.pdf",
+      "title": "Claire Lemercier — Curriculum vitae au 12 mars 2024",
+      "publisher_or_owner": "Claire Lemercier",
+      "source_date": "2024-03-12",
+      "accessed_at": "2026-11-15",
+      "source_type": "author_cv_pdf",
+      "supports": "p11: co-coordination with David Todd 2019–2021; p1–2 themes",
+      "retrieval_status": "retrieved_indexed_pdf_text; screenshot failed cache miss"
+    },
+    {
+      "source_id": "P01-H003",
+      "url": "https://www.sciencespo.fr/sites/default/files/cd_cp/cs/2020/2020_03_10_CSFR.pdf",
+      "title": "Conseil scientifique, Formation restreinte, mardi 10 mars 2020; version validée au CS du 2 juin 2020",
+      "publisher_or_owner": "Sciences Po",
+      "source_date": "2020-06-02",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_minutes_pdf",
+      "supports": "Section10 pp14–15: historical council/coordination and CSO–CHSP bases; meeting date 2020-03-10; hints at pre-2019 activity",
+      "retrieval_status": "retrieved_indexed_pdf_text; crawl label 2 months ago; screenshots failed cache miss"
+    },
+    {
+      "source_id": "P01-H004",
+      "url": "https://histecon.fr/fr/organisation.html",
+      "title": "Organisation (French)",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_directory",
+      "supports": "Indexed French page lists David Todd COORDINATEUR, Mary-Rose Cheadle coordination, Anna Egea agenda, Amy Price web conception",
+      "retrieval_status": "retrieved_old_indexed_copy; crawl label 2.6 years ago; NOT verified live condition"
+    },
+    {
+      "source_id": "P01-H005",
+      "url": "https://histecon.fr/en/organisation.html",
+      "title": "Organisation (English)",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_directory",
+      "supports": "Jonathan Levy Coordinator; Mary-Rose Cheadle coordination; Amy Price Web architect",
+      "retrieval_status": "retrieved_indexed_copy; crawl label 2 weeks ago"
+    },
+    {
+      "source_id": "P01-H006",
+      "url": "https://www.sciencespo.fr/histoire/fr/chercheur/David%20Todd/86024.html",
+      "title": "David Todd",
+      "publisher_or_owner": "Sciences Po Centre d’histoire",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional_profile",
+      "supports": "Still describes Todd as CHEP coordinator; professional affiliations and themes",
+      "retrieval_status": "retrieved_indexed_copy; crawl label last month; current coordination wording conflicts with CHEP English organisation"
+    },
+    {
+      "source_id": "P01-H007",
+      "url": "https://www.sciencespo.fr/histoire/en/events/centre-for-history-and-economics-in-paris-chep/",
+      "title": "Centre for History and economics in Paris (CHEP)",
+      "publisher_or_owner": "Sciences Po Centre for History",
+      "source_date": "2023-11-29",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_event_page",
+      "supports": "Dated attestation of Todd coordinator and CHEP activities support by Chessel/Mayer/Rosental/Rothschild; Angus Burgin event-only example",
+      "retrieval_status": "retrieved_indexed_copy; crawl label last year; malformed embedded HTML and apparent Cambridge-director title issue"
+    },
+    {
+      "source_id": "P01-H008",
+      "url": "https://histecon.fr/fr/agenda.html",
+      "title": "L’histoire économique en région parisienne",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_calendar",
+      "supports": "Intro credits updates to Anna Egea (CSO); visible entries November2024–June2025; scope wider Paris events",
+      "retrieval_status": "retrieved_indexed_copy; crawl label 2 weeks ago"
+    },
+    {
+      "source_id": "P01-H009",
+      "url": "https://www.sciencespo.fr/cso/en/cso/technical-and-administrative-staff/",
+      "title": "Technical and Administrative Staff",
+      "publisher_or_owner": "Sciences Po Centre for the Sociology of Organisations",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional_directory",
+      "supports": "Anna Egea: Resources and document engineering; not a CHEP general administrator claim",
+      "retrieval_status": "retrieved_indexed_copy; crawl label last month"
+    },
+    {
+      "source_id": "P01-H010",
+      "url": "https://www.sciencespo.fr/histoire/fr/annuaire/lemercier-claire/",
+      "title": "Claire Lemercier",
+      "publisher_or_owner": "Sciences Po Centre d’histoire",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional_profile",
+      "supports": "Claire identity, CSO/CHSP/CNRS affiliation, economic institutions, law and quantitative/network themes; links to author CV domain",
+      "retrieval_status": "retrieved_indexed_copy; crawl label 1.5 years ago; search copy newer"
+    },
+    {
+      "source_id": "P01-H011",
+      "url": "https://histecon.fr/en/events_recent.html",
+      "title": "Recent Centre Events",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_event_archive",
+      "supports": "Éric Monnet discussion 2025-04-11; historical economic and environmental collaborations; 2025/2026 Cambridge-Paris workshops",
+      "retrieval_status": "retrieved_indexed_copy; crawl label 2 months ago"
+    },
+    {
+      "source_id": "P01-H012",
+      "url": "https://histecon.fr/en/publications.html",
+      "title": "Recent publications by CHEP participants",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_publications_page",
+      "supports": "Featured participants not membership roster; 15 unique named authors extracted, not a publication census",
+      "retrieval_status": "retrieved_indexed_copy; crawl label 3 months ago"
+    },
+    {
+      "source_id": "P01-H013",
+      "url": "https://histecon.fr/en/announcements_archive.html",
+      "title": "Announcements archive",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_announcements_archive",
+      "supports": "Ivanna Cherchovych recipient of CHEP-supported non-residential fellowship at Lviv; Giacomo Parrinello called Research Associate",
+      "retrieval_status": "retrieved_indexed_copy; crawl label 3 months ago"
+    },
+    {
+      "source_id": "P01-H014",
+      "url": "https://histecon.fr/en/contacts.html",
+      "title": "Contact us",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_contact_page",
+      "supports": "Generic institutional contact route and Paris office; no named administrator on page",
+      "retrieval_status": "retrieved_indexed_copy; crawl label 3 weeks ago"
+    },
+    {
+      "source_id": "P01-H015",
+      "url": "https://www.histecon.magd.cam.ac.uk/chep/",
+      "title": "CHE in Paris historical project",
+      "publisher_or_owner": "Cambridge Centre for History and Economics",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_historical_project",
+      "supports": "Historical project entry point",
+      "retrieval_status": "retrieval_failed_cache_miss; http alias redirected then same failure"
+    },
+    {
+      "source_id": "P01-H016",
+      "url": "https://www.histecon.magd.cam.ac.uk/chep/conseil_scientifique.html",
+      "title": "Conseil scientifique (historical link)",
+      "publisher_or_owner": "Cambridge Centre for History and Economics",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_historical_directory",
+      "supports": "Historical scientific council linked from Sciences Po2023 event",
+      "retrieval_status": "retrieval_failed_tool_not_accessible"
+    },
+    {
+      "source_id": "P01-H017",
+      "url": "https://web.archive.org/cdx/search/cdx?url=histecon.fr/en/organisation.html&output=json&filter=statuscode:200&collapse=timestamp:4",
+      "title": "Wayback CDX query for CHEP organisation",
+      "publisher_or_owner": "Internet Archive",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "archive_index",
+      "supports": "Historical snapshots sought; no snapshot retrieved",
+      "retrieval_status": "retrieval_failed_tool_not_accessible"
+    },
+    {
+      "source_id": "P01-H018",
+      "url": "https://web.archive.org/web/20240000000000/https://histecon.fr/en/organisation.html",
+      "title": "Wayback nearest-2024 request for CHEP organisation",
+      "publisher_or_owner": "Internet Archive",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "archive_request",
+      "supports": "Historical snapshot sought; request date is not verified snapshot timestamp",
+      "retrieval_status": "retrieval_failed_tool_not_accessible"
+    },
+    {
+      "source_id": "P01-H019",
+      "url": "https://histecon.fr/en/list.html",
+      "title": "CHEP mailing list",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official_contact_page",
+      "supports": "Public subscription route only; no subscription made",
+      "retrieval_status": "retrieval_failed_http406"
+    },
+    {
+      "source_id": "P01-H020",
+      "url": "https://www.sciencespo.fr/cso/fr/contact/anna-egea",
+      "title": "Anna Egea: Missions et publications",
+      "publisher_or_owner": "Sciences Po CSO",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional_profile",
+      "supports": "Linked detailed staff profile",
+      "retrieval_status": "retrieval_failed_cache_miss"
+    },
+    {
+      "source_id": "P01-H021",
+      "url": "https://www.lvivcenter.org/wp-content/uploads/2023/03/Public-Report_CUH_2022.pdf",
+      "title": "Public Report on Completed Activities in 2022",
+      "publisher_or_owner": "Center for Urban History",
+      "source_date": "2022",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional_annual_report_pdf",
+      "supports": "Search-only lead lists Centres for History and Economics at Sciences Po as2022 emergency fellowship partner; cannot date Ivanna individual award",
+      "retrieval_status": "retrieval_failed_http500; search snippet only, not used as verified individual evidence"
+    },
+    {
+      "source_id": "P01-H022",
+      "url": "https://lemercier.ouvaton.org/docannexe.php?id=183",
+      "title": "Claire Lemercier CV — old linked route",
+      "publisher_or_owner": "Claire Lemercier",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "author_cv",
+      "supports": "Official profile CV link confirms author domain; exact route unavailable; newer PDF independently opened",
+      "retrieval_status": "retrieval_failed_cache_miss"
+    }
+  ],
+  "people": [
+    {
+      "name": "Claire Lemercier",
+      "category": "historical_coordination",
+      "institution": "CNRS; Centre de sociologie des organisations (Sciences Po)",
+      "research_themes": "economic institutions; capitalism; law and justice; quantitative history and network methods",
+      "profile_url": "https://www.sciencespo.fr/histoire/fr/annuaire/lemercier-claire/",
+      "current_status": "historical_CHEP_coordination_2019–2021; see_current_Paris_roster_for_other_roles",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H002",
+        "P01-H003",
+        "P01-H010"
+      ]
+    },
+    {
+      "name": "David Todd",
+      "category": "historical_coordination",
+      "institution": "Sciences Po Centre d’histoire",
+      "research_themes": "political economy; empires; law; France and Mediterranean1750–1914; global silk industry",
+      "profile_url": "https://www.sciencespo.fr/histoire/fr/chercheur/David%20Todd/86024.html",
+      "current_status": "historical_CHEP_coordinator; current_role_wording_conflict; exact_transition_unknown",
+      "evidence_status": "conflicting",
+      "source_ids": [
+        "P01-H001",
+        "P01-H002",
+        "P01-H004",
+        "P01-H005",
+        "P01-H006"
+      ]
+    },
+    {
+      "name": "Anna Egea",
+      "category": "communications_and_documentation_support",
+      "institution": "Centre de sociologie des organisations (CSO), Sciences Po",
+      "research_themes": "not_applicable",
+      "profile_url": "https://www.sciencespo.fr/cso/en/cso/technical-and-administrative-staff/",
+      "current_status": "current_CSO_function_listed; CHEP_agenda_remit_undated_unconfirmed_for2026",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H004",
+        "P01-H008",
+        "P01-H009"
+      ]
+    }
+  ],
+  "roles": [
+    {
+      "name": "Claire Lemercier",
+      "role_exact": "Coordinatrice, avec David Todd",
+      "organisation": "CHEP",
+      "start_date": "2019",
+      "end_date": "2021",
+      "date_precision": "year",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H002"
+      ],
+      "evidence_note": "CV p11; historical coordination tenure explicit. 2020 minutes corroborate her as one of two coordinators."
+    },
+    {
+      "name": "David Todd",
+      "role_exact": "Coordinatrice, avec David Todd (co-coordinator named by Claire Lemercier)",
+      "organisation": "CHEP",
+      "start_date": "2019",
+      "end_date": "2021",
+      "date_precision": "year; title wording quotes source, masculine role normalized analytically",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H002"
+      ],
+      "evidence_note": "CV p11 identifies Todd as co-coordinator for the same period; no claim that coordination ceased in2021 overall."
+    },
+    {
+      "name": "David Todd",
+      "role_exact": "je coordonne le Centre for History and Economics in Paris (CHEP)",
+      "organisation": "CHEP",
+      "start_date": "2022",
+      "end_date": "date_unknown",
+      "date_precision": "start_year; active_attested_2025-07-21",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H001"
+      ],
+      "evidence_note": "Historical attestation. Exact succession date to Jonathan Levy unknown; do not use2025 interview date as end_date."
+    },
+    {
+      "name": "David Todd",
+      "role_exact": "COORDINATEUR",
+      "organisation": "CHEP",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated_old_indexed_directory",
+      "evidence_status": "conflicting",
+      "source_ids": [
+        "P01-H004",
+        "P01-H005",
+        "P01-H006"
+      ],
+      "evidence_note": "Historical role secure; current coordinator wording conflicts across indexed sources. Prefer current CHEP organisation for public wording, retain conflict."
+    },
+    {
+      "name": "Marie-Emmanuelle Chessel",
+      "role_exact": "membre du conseil scientifique",
+      "organisation": "CHEP",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "attested_2020-03-10; tenure_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003"
+      ],
+      "evidence_note": "Minutes pp14–15; source misspells Parrinello as Parinello and Duflo as Duflot. Identity spelling reconcile against current institutional sources."
+    },
+    {
+      "name": "Nicolas Delalande",
+      "role_exact": "membre du conseil scientifique",
+      "organisation": "CHEP",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "attested_2020-03-10; tenure_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003"
+      ],
+      "evidence_note": "Minutes pp14–15; source misspells Parrinello as Parinello and Duflo as Duflot. Identity spelling reconcile against current institutional sources."
+    },
+    {
+      "name": "Giacomo Parrinello",
+      "role_exact": "membre du conseil scientifique",
+      "organisation": "CHEP",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "attested_2020-03-10; tenure_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003"
+      ],
+      "evidence_note": "Minutes pp14–15; source misspells Parrinello as Parinello and Duflo as Duflot. Identity spelling reconcile against current institutional sources."
+    },
+    {
+      "name": "Paul-André Rosental",
+      "role_exact": "membre du conseil scientifique",
+      "organisation": "CHEP",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "attested_2020-03-10; tenure_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003"
+      ],
+      "evidence_note": "Minutes pp14–15; source misspells Parrinello as Parinello and Duflo as Duflot. Identity spelling reconcile against current institutional sources."
+    },
+    {
+      "name": "Abhijit Banerjee",
+      "role_exact": "membre du conseil scientifique",
+      "organisation": "CHEP",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "attested_2020-03-10; tenure_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003"
+      ],
+      "evidence_note": "Minutes pp14–15; source misspells Parrinello as Parinello and Duflo as Duflot. Identity spelling reconcile against current institutional sources."
+    },
+    {
+      "name": "Esther Duflo",
+      "role_exact": "membre du conseil scientifique",
+      "organisation": "CHEP",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "attested_2020-03-10; tenure_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003"
+      ],
+      "evidence_note": "Minutes pp14–15; source misspells Parrinello as Parinello and Duflo as Duflot. Identity spelling reconcile against current institutional sources."
+    },
+    {
+      "name": "Francesca Trivellato",
+      "role_exact": "membre du conseil scientifique",
+      "organisation": "CHEP",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "attested_2020-03-10; tenure_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003"
+      ],
+      "evidence_note": "Minutes pp14–15; source misspells Parrinello as Parinello and Duflo as Duflot. Identity spelling reconcile against current institutional sources."
+    },
+    {
+      "name": "Guillaume Daudin",
+      "role_exact": "membre du conseil scientifique",
+      "organisation": "CHEP",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "attested_2020-03-10; tenure_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003"
+      ],
+      "evidence_note": "Minutes pp14–15; source misspells Parrinello as Parinello and Duflo as Duflot. Identity spelling reconcile against current institutional sources."
+    },
+    {
+      "name": "Thierry Mayer",
+      "role_exact": "le conseil scientifique a également inclus",
+      "organisation": "CHEP",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "historical_membership_by_2020-03-10; tenure_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003"
+      ],
+      "evidence_note": "Source wording is past-inclusive; not proof still serving on meeting date or today."
+    },
+    {
+      "name": "Jenny Andersson",
+      "role_exact": "le conseil scientifique a également inclus",
+      "organisation": "CHEP",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "historical_membership_by_2020-03-10; tenure_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003"
+      ],
+      "evidence_note": "Source wording is past-inclusive; not proof still serving on meeting date or today."
+    },
+    {
+      "name": "Anna Egea",
+      "role_exact": "Responsable de « L’agenda »",
+      "organisation": "CHEP",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated_old_indexed_directory; current_remit_unconfirmed",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H004",
+        "P01-H008"
+      ],
+      "evidence_note": "CHEP role wording retained as historical/undated, not assumed active2026. Calendar intro credits monthly update but content ends2025."
+    },
+    {
+      "name": "Anna Egea",
+      "role_exact": "Resources and document engineering",
+      "organisation": "Centre for the Sociology of Organisations (CSO)",
+      "start_date": "date_unknown",
+      "end_date": "date_unknown",
+      "date_precision": "undated_current_directory",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H009"
+      ],
+      "evidence_note": "Host-unit professional function, not a CHEP reporting line."
+    }
+  ],
+  "relationships": [
+    {
+      "from_name": "CHEP",
+      "to_name": "Centre de sociologie des organisations (CSO)",
+      "relationship_type": "historically_based_at",
+      "valid_dates": "attested_2020-03-10",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003"
+      ]
+    },
+    {
+      "from_name": "CHEP",
+      "to_name": "Centre d’histoire de Sciences Po (CHSP)",
+      "relationship_type": "historically_based_at",
+      "valid_dates": "attested_2020-03-10",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H003"
+      ]
+    },
+    {
+      "from_name": "CHEP",
+      "to_name": "Center for Urban History, Lviv",
+      "relationship_type": "funds_non_residential_fellowship_at",
+      "valid_dates": "date_unknown",
+      "evidence_status": "verified",
+      "source_ids": [
+        "P01-H013"
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "finding": "Coordination history has two substantiated phases before the current Levy listing: Lemercier with Todd2019–2021; Todd since2022, attested July2025. No appointment or end date for Levy/Todd transition found.",
+      "status": "verified_except_transition_unverified",
+      "source_ids": [
+        "P01-H001",
+        "P01-H002",
+        "P01-H005"
+      ]
+    },
+    {
+      "finding": "2020 minutes show CHEP based across CSO and CHSP and a scientific council broader than the host unit. This is dated institutional history, not a2026 organisation chart.",
+      "status": "verified",
+      "source_ids": [
+        "P01-H003"
+      ]
+    },
+    {
+      "finding": "2020 minutes imply Paris extension began more than two years earlier. This imprecise recollection does not fix an earlier founding date; retain alongside current2019 collaboration/2022 establishment account.",
+      "status": "conflicting",
+      "source_ids": [
+        "P01-H003"
+      ]
+    },
+    {
+      "finding": "2023 Sciences Po event labels Todd director of Cambridge centre; do not propagate without Cambridge verification. It is a malformed event-page paragraph, not an appointment notice.",
+      "status": "unverified",
+      "source_ids": [
+        "P01-H007"
+      ]
+    },
+    {
+      "finding": "CHEP publicly credits calendar, coordination and website functions, but employment, reporting lines, time allocation and current responsibility for agenda remain unverified.",
+      "status": "verified_public_functions; unverified_reporting",
+      "source_ids": [
+        "P01-H004",
+        "P01-H005",
+        "P01-H008",
+        "P01-H014"
+      ]
+    },
+    {
+      "finding": "Ivanna Cherchovych explicitly receives a CHEP-supported non-residential fellowship hosted at Lviv; this is a support relationship and not Paris residency. Award dates are not in the CHEP announcement.",
+      "status": "verified_support; date_unknown",
+      "source_ids": [
+        "P01-H013"
+      ]
+    }
+  ],
+  "boundary_examples": [
+    {
+      "name": "Éric Monnet",
+      "participation": "Discussant of Jonathan Levy book at CHEP event",
+      "date": "2025-04-11",
+      "source_ids": [
+        "P01-H011"
+      ],
+      "membership": "not_established_by_event"
+    },
+    {
+      "name": "Angus Burgin",
+      "participation": "Speaker on event page published by Sciences Po and headed CHEP; venue Harvard",
+      "date": "2023-11-29",
+      "source_ids": [
+        "P01-H007"
+      ],
+      "membership": "not_established_by_event"
+    },
+    {
+      "publication_page_authors": [
+        "Elsa Génard",
+        "Jonathan Levy",
+        "Emma Rothschild",
+        "Anatole Le Bras",
+        "Francesca Trivellato",
+        "M’hamed Oualdi",
+        "Nicolas Delalande",
+        "David Todd",
+        "Alexia Yates",
+        "Pierre François",
+        "Claire Lemercier",
+        "Nicolas Barreyre",
+        "Claire Zalc",
+        "Paul-André Rosental",
+        "Sunil Amrith"
+      ],
+      "source_ids": [
+        "P01-H012"
+      ],
+      "membership": "page calls authors participants; merge only with independently supported member roles; list has15 unique authors, not14 in source supports note"
+    }
+  ],
+  "coverage": {
+    "checked": [
+      "CHEP EN/FR organisation",
+      "Sciences Po dated Todd interview2025",
+      "Todd current indexed profile",
+      "Claire author CV2024 and institutional profile",
+      "Sciences Po scientific council2020 minutes section10 pp14–15",
+      "Sciences Po2023 CHEP event paragraph",
+      "CHEP FR agenda intro and2024–2025 extent",
+      "CSO staff directory",
+      "CHEP contacts",
+      "CHEP publications author labels",
+      "CHEP recent events selected identity/partnership passages",
+      "CHEP announcements"
+    ],
+    "archive_snapshots_retrieved": 0,
+    "archive_attempts": [
+      "P01-H017",
+      "P01-H018"
+    ],
+    "additional_failed_aliases": [
+      "http://www.histecon.magd.cam.ac.uk/chep/",
+      "https://histecon.magd.cam.ac.uk/chep/index.html",
+      "https://www.histecon.magd.cam.ac.uk/chep/index.html"
+    ],
+    "unresolved": [
+      "Exact coordinator transition date",
+      "Historic council full tenure and completeness",
+      "Pre2019 organisational activity hinted by2020 minutes",
+      "Whether Anna Egea agenda responsibility remains active",
+      "Dated archive snapshots unavailable",
+      "Ivanna fellowship individual dates"
+    ],
+    "next_steps": [
+      "Ask institutional function owning governance records for dated appointment/committee versions",
+      "Retry archived official organisation snapshots with an archival service if accessible",
+      "Check live aliases against cached copies before asserting site discrepancy",
+      "Confirm Anna agenda remit before assigning maintenance"
+    ]
+  }
+}

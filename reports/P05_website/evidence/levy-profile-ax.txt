@@ -1,0 +1,132 @@
+Browser tab: 1, Title: "Jonathan Levy | Sciences Po Centre for History", URL: "https://www.sciencespo.fr/histoire/en/directory/levy-jonathan/".
+1 AXWebArea Jonathan Levy | Sciences Po Centre for History, URL: sciencespo.fr/histoire/en/directory/levy-jonathan/
+	2 container
+		3 container gatsby-focus-wrapper
+			4 container Menu for accessibility
+				5 content list
+					6 container
+						7 link Description: Go to content, Value: sciencespo.fr/histoire/en/directory/levy-jonathan/#content
+						8 text /
+					9 container
+						10 link Description: Corporate navigation, Value: sciencespo.fr/histoire/en/directory/levy-jonathan/#surHeader
+						11 text  /
+					12 container
+						13 link Description: Main navigation, Value: sciencespo.fr/histoire/en/directory/levy-jonathan/#navigation
+						14 text /
+					15 container
+						16 link Description: Search form, Value: sciencespo.fr/histoire/en/directory/levy-jonathan/#searchForm
+						17 text /
+					18 link Description: Footer, Value: sciencespo.fr/histoire/en/directory/levy-jonathan/#footer
+			19 container Description: Transversal menu, ID: surHeader
+				20 container
+					21 content list
+						22 container
+							23 button YOU ARE A..., ID: NestedItem0
+							24 button RESOURCES, ID: NestedItem1
+							25 button SUPPORT US, ID: NestedItem2
+								26 link Description: SUPPORT US, Help: SUPPORT US - open in a new window, Value: sciencespo.fr/nous-soutenir/en/, ID: sub-menu-item-2}
+							27 button SCIENCESPO.FR, ID: NestedItem3
+								28 link Description: SCIENCESPO.FR, Help: SCIENCESPO.FR - open in a new window, Value: sciencespo.fr/en/, ID: sub-menu-item-3}
+					29 button Description: Open the search window, Help: SEARCH..., ID: searchForm
+					30 link Description: Version française du site internet, Value: sciencespo.fr/histoire/fr/
+			31 container
+				32 link Description: Go to Sciences Po, Value: sciencespo.fr/histoire/en/
+				33 text CENTRE FOR HISTORY
+			34 content list
+				35 button THE CENTRE THE CENTRE, ID: li11
+					36 container
+						37 text THE CENTRE
+						38 text THE CENTRE
+				39 button THE RESEARCH THE RESEARCH, ID: li12
+					40 container
+						41 text THE RESEARCH
+						42 text THE RESEARCH
+				43 button THE STUDIES THE STUDIES, ID: li13
+					44 container
+						45 text THE STUDIES
+						46 text THE STUDIES
+				47 button OUR PRODUCTIONS OUR PRODUCTIONS, ID: li14
+					48 container
+						49 text OUR PRODUCTIONS
+						50 text OUR PRODUCTIONS
+				51 button News News, ID: li15
+					52 container
+						53 link Description: News, Value: sciencespo.fr/histoire/en/news/
+						54 link Description: News, Value: sciencespo.fr/histoire/en/news/
+				55 button Events Events, ID: li16
+					56 container
+						57 link Description: Events, Value: sciencespo.fr/histoire/en/events/
+						58 link Description: Events, Value: sciencespo.fr/histoire/en/events/
+			59 container main-content-page
+				60 link Description: Home, Value: sciencespo.fr/histoire/en/
+				61 text > Jonathan Levy
+				62 container
+					63 heading JONATHAN LEVY, Value: 1
+						64 text JONATHAN LEVY
+					65 text Professor Centre for History (CHSP)
+					66 link Description: jonathan.levy@sciencespo.fr, Value: mailto:jonathan.levy@sciencespo.fr
+					67 text Research Interest(s):  American capitalism, history of money, history of the United States, history of the climate, economic life in the United States Discipline(s):  History
+					68 heading BIOGRAPHY, Value: 2
+						69 text BIOGRAPHY
+					70 text I am a historian of the United States, of capitalism, and the economy. I completed my PhD at the University of Chicago. Before coming to Sciences Po, I was the James Westfall Thompson Professor of History and Social Thought at the University of Chicago and before that professor of history at Princeton University. I have been a visiting professor at L’École des hautes études en sciences sociales and held the visiting Ciampi Chair at the Scuola Normale Superiore in Pisa. My two current research projects are a history of climate change, focused on the city of Houston, and a global history of money. I am the author of a work that places history and economic theory in conversation, 
+					71 text The Real Economy
+					72 text , a narrative history of US economic life, 
+					73 text Ages of American Capitalism
+					74 text , and a history of risk in the United States, 
+					75 text Freaks of Fortune
+					76 text . I am the co-editor of the journal, 
+					77 text Critical Historical Studies
+					78 text . I am eager to advise graduate students working in the fields of US history and the history of the economy.
+					79 heading PUBLICATIONS, Value: 3
+						80 text PUBLICATIONS
+					81 content list
+						82 container
+							83 AXListMarker • 
+							84 text The Real Economy: History and Theory  (Princeton University Press, 2025)
+						85 container
+							86 AXListMarker • 
+							87 text Ages of American Capitalism: A History of the United States  (Random House, 2021)
+						88 container
+							89 AXListMarker • 
+							90 text Freaks of Fortune: The Emerging World of Capitalism and Risk in America  (Harvard University Press, 2012)
+					91 heading PRIX ET DISTINCTIONS, Value: 3
+						92 text PRIX ET DISTINCTIONS
+					93 text Freaks of Fortune
+					94 text - 
+					95 text Chronicle of Higher Education
+					96 text  "Most Influential Books of the Last Twenty Years" (2018) - Organization of American Historians Book Prizes for 2013 Frederick Jackson Turner Award, first book on US history Avery O. Craven Award, era of Civil War of Reconstruction Ellis W. Hawley Prize, post-Civil War politics or political economy - American Society for Legal History William Nelson Cromwelle Book Prize, first book on legal history - Society for U.S. Intellectual History 2013 Notable Title
+			97 container footer
+				98 link Description: Go to Sciences Po, Value: sciencespo.fr/histoire/en/
+				99 text ADDRESS / PHONE
+				100 text 27, rue Saint Guillaume - 75337 Paris Cedex 07
+				101 container
+					102 text Phone: +33 (0)1 45 49 50 50 | +33 (0)1 42 22 31 26
+				103 text FOLLOW US
+				104 content list
+					105 link Description: Sciences Po on Instagram, Value: instagram.com/sciencespo/
+					106 link Description: Sciences Po on LinkedIn, Value: linkedin.com/school/sciences-po/posts/?feedView=all
+					107 link Description: Sciences Po on TikTok, Value: tiktok.com/@sciencespo
+					108 link Description: Sciences Po on Facebook, Value: facebook.com/SciencesPo
+					109 link Description: Sciences Po on Youtube, Value: youtube.com/sciencespo
+				110 text SUBSCRIBE TO OUR NEWSLETTERS
+				111 button Subscribe
+					112 container
+						113 text SUBSCRIBE 
+				114 text MORE
+				115 content list
+					116 link Description: Contact, Value: sciencespo.fr/en/contact-map/
+					117 link Description: A to Z Index, Value: sciencespo.fr/en/a-z-index/
+					118 link Description: Newsroom, Value: newsroom.sciencespo.fr/en?lang=eng
+					119 link Description: Legal terms, Value: sciencespo.fr/en/legal-terms/
+					120 link Description: Accessibility: partially compliant, Value: sciencespo.fr/en/accessibility/
+				121 text QUICK LINKS
+				122 content list
+					123 link Description: Student account, Value: scolarite-en.sciences-po.fr/PROD_EN/twbkwbis.P_WWWLogin
+					124 link Description: Faculty account, Value: scolarite-en.sciences-po.fr/PROD_EN/twbkwbis.P_WWWLogin
+					125 link Description: Intranet, Value: intranet.sciencespo.fr/bienvenue/
+					126 link Description: Manage my password, Value: scpoaccount.sciences-po.fr/choixModifGnl?lang=en
+					127 link Description: Sciences Po App, Value: sciencespo.fr/en/sciencespo-app/
+				128 container
+					129 text © 2026 SCIENCES PO
+
+The focused UI element is 1 AXWebArea Jonathan Levy | Sciences Po Centre for History, URL: sciencespo.fr/histoire/en/directory/levy-jonathan/

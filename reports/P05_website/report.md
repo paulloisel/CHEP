@@ -1,0 +1,90 @@
+# P05 — CHEP website audit and improvement brief
+
+**as_of_date: 2026-11-15 · Research and discussion draft · P05 only**
+
+## Decision brief
+
+CHEP has useful, actively maintained public material. The live French and English homepages announce the 17 November seminar and 2027 doctoral grants; their dated content is newer than the search tool's cached versions. The strongest observed barrier is the layout: a 390-pixel viewport still produces a 1,402-pixel-wide homepage. Information also sits across category pages and separate host systems, creating avoidable navigation and reconciliation work. Recommend a **four-week, 20-student-hour content package**, alongside a separately scoped technical repair. This is a planning scenario of five hours weekly and no confirmed discretionary budget, not a statement about CHEP resources. [CHEP home](https://www.histecon.fr/en/), [French home](https://histecon.fr/fr/index.html), accessed 2026-11-15; [mobile evidence](evidence/home-en-mobile-390.jpg).
+
+| Recommended action | Evidence → benefit | Estimated effort and cost | Dependency and success measure |
+|---|---|---|---|
+| **1. Repair mobile access and basic page semantics** | Observed horizontal overflow, H4-only homepage headings and four cover images without alt attributes → make research, dates and contact routes usable on small screens and easier to navigate with assistive technology. | 4 student hours for specification and retest within the package; separately 8–14 staff/developer hours, plus 2–4 accessibility-review hours. €0 incremental only if existing staff capacity covers this; external illustration €600–€1,800 at an assumed €60–€100/hour for 10–18 hours, not a quote. | Web maintainer and accessibility support; no ordinary content horizontal scroll at 390 pixels, logical headings, appropriate image alternatives, and six task paths retested. |
+| **2. Clarify event and participation entry points** | Homepage has current events, seminar page links outward, and conference/workshop “Upcoming” pages have empty states → connect these existing routes and explain attending, notices and enquiries separately. | 6 student setup hours; 45 minutes weekly thereafter. €0 incremental drafting on existing tools; publishing needs staff time. | Event organiser supplies access/logistics; communications approves copy. Find next announced activity or a checked empty state within two links; each event has date, venue, organiser and access rule. |
+| **3. Establish a small bilingual content register** | Host French chronology differs; fellows and host community lists differ in scope; selected books lack systematic years/types → prepare paired corrections and reusable person/publication/call records. | 10 student setup hours; 45 minutes weekly plus 1 hour monthly. €0 incremental with existing tools; academic and bilingual review needed. | Coordinator validates roles and chronology; host editor reconciles landing page; grant administrator validates call fields. No unresolved critical differences in the approved sample; all priority records show a review date. |
+
+The student can next hand over the correction backlog, bilingual homepage draft, one real researcher profile, one real event example and an editorial register. The institutional decision is to choose a publishing counterpart, approve the narrow content scope, and identify technical capacity. None of these recommendations assigns a commitment to a named person. A full redesign should wait for those decisions and a small task-based evaluation.
+
+## Findings and evidence
+
+### Current content and institutional accuracy
+
+Both CHEP organisation pages identify Jonathan Levy as **Coordinator / Coordinateur**. David Todd is separately identified as committee president. The public pages describe collaboration from 2019 and establishment in 2022; a fifth anniversary of establishment would therefore fall in 2027, subject to institutional framing. This audit does not investigate the full organisational history. [Organisation EN](https://histecon.fr/en/organisation.html), [organisation FR](https://histecon.fr/fr/organisation.html), [committee](https://histecon.fr/en/executive_committee.html), [home](https://www.histecon.fr/en/), accessed 2026-11-15.
+
+The live Sciences Po French landing page instead describes the Cambridge–Harvard joint centre as founded in 2019. Its English counterpart describes the collaboration beginning then. Prepare a correction for the host editor, preserving the distinction between the collaboration and CHEP's establishment. The host community also lists Jessica Balguy and Joan Chaker as postdoctoral researchers, while CHEP's current fellows page contains Balguy only. That is a scope/date question, not proof of an incorrect appointment. A further internal inconsistency concerns Anatole Le Bras: the past-fellows page gives 2021–2023, while the announcements archive describes a fellowship “since 2023”. Preserve the old announcement and verify its date and role wording before amending it. [Host FR](https://www.sciencespo.fr/histoire/fr/recherche/centre-for-history-and-economics-paris-chep/), [host EN](https://www.sciencespo.fr/histoire/en/research/centre-for-history-and-economics-in-paris-chep/), [fellows](https://histecon.fr/en/research_fellows.html), [past fellows](https://histecon.fr/en/research_fellows_past.html), [announcements](https://histecon.fr/en/announcements_archive.html), accessed 2026-11-15.
+
+### Six visitor journeys
+
+These are evidence-based desk walkthroughs, not participant tests or analytics. Navigation counts describe available link paths; no success rate or completion time was measured. The detailed steps and qualifications are in [journeys.md](research/journeys.md).
+
+| Journey | What the checked path enables | Friction and practical change |
+|---|---|---|
+| Prospective student → researchers | Home → People → Fellows exposes Balguy's substantial research biography; associates and student pages link profiles. | Categories require prior knowledge of the institution. Add brief topics and dated role labels, keeping the existing biographies. |
+| Affiliate → funding | Home → Grants gives a current call and enquiry route. | This call is for first–third-year Sciences Po PhDs, not Master's students or every affiliate. Add an eligibility-first summary and both application/reference deadlines. |
+| Visitor → next seminar | French home links directly to the 17 November 2026 event. English home links its series; seminar index offers three series. | Conference/workshop upcoming branches are empty and do not themselves show seminars. Cross-link all formats from a compact events overview. |
+| Scholar → outputs | Home → Publications → publisher finds a selected book and bibliographic detail. | Eighteen displayed title entries are not an exhaustive output count. Add verified year/type and retain author/publisher links; avoid implying CHEP funding. |
+| New participant → involvement | Home → mailing-list form; Home → Contact provides an institutional enquiry route. | Separate notices from event access and formal affiliation. General membership or open visitor eligibility was not established. |
+| Journalist → remit/contact | Host landing or CHEP introduction explains purpose; Contact provides the institutional mailbox. | Add a concise institutional description and clear contact label; no dedicated CHEP spokesperson was verified. |
+
+Sources: [People](https://histecon.fr/en/people.html), [Grants](https://histecon.fr/en/research_grants.html), [Seminars](https://histecon.fr/en/seminars.html), [17 November event](https://www.sciencespo.fr/histoire/fr/evenements/le-retour-des-inegalites-bilan-et-perspectives-historiographiques/), [Publications](https://histecon.fr/en/publications.html), [List](https://histecon.fr/en/list.html), [Contact](https://histecon.fr/en/contacts.html), accessed 2026-11-15. Source IDs and exact observations are in the inventory and source register.
+
+The call concerns 2027 research expenses up to €1,000, with applications due 11 December 2026 and references due 15 December. Time of day and time zone are not specified. The content is already useful; the proposed summary reduces reading burden without changing eligibility. No application or subscription was submitted. [Official terms](https://histecon.fr/en/research_grants.html), accessed 2026-11-15.
+
+### Layout, semantics and links
+
+At the browser's default 1280×720 viewport, the English homepage extended to 1,402 pixels; at 390×844 it still extended to 1,402. The screenshot shows clipping of the banner, navigation and columns. The main introduction sits beyond the initial mobile view. This is a directly observed responsive-layout problem, not a claim about all devices or every page. [Desktop screenshot](evidence/home-en-desktop.jpg), [mobile screenshot](evidence/home-en-mobile-390.jpg).
+
+Read-only DOM inspection found three H4 headings and no H1–H3 on that homepage, `lang="en"`, descriptive logo alternative text, an empty banner alternative and four book images missing alt attributes. Empty alt can be appropriate for decorative imagery; missing alt requires a deliberate decision, particularly where adjacent text already gives the title. A keyboard smoke test reached FR on the first Tab and CHEP Events on the tenth, then activated Events with Return. It demonstrates a working main link path, not complete dropdown, focus-visibility, screen-reader or WCAG compliance. Contrast, zoom, mobile menus, form completion and assistive-technology behavior remain untested. [Keyboard evidence](evidence/keyboard-activation-ax.txt), [inspection log](evidence/inspection_notes.md).
+
+Specific link corrections are preferable to a generic “broken website” diagnosis. The English Contact page's Bluesky href concatenates two URLs; French Contact uses a normal profile URL. Both contact pages contain an additional unlabelled map link whose coordinates differ from the labelled Paris map. Verify its visual target before removing or correcting it. French contact text also contains an apostrophe encoding artefact. The French logo returns to the English homepage, and Sciences Po's English language switch leads to the host French homepage rather than the equivalent CHEP landing page. These are observed source/DOM differences; destinations were not comprehensively tested. [Contact EN](https://histecon.fr/en/contacts.html), [Contact FR](https://histecon.fr/fr/contacts.html), [French home](https://histecon.fr/fr/index.html), [host EN](https://www.sciencespo.fr/histoire/en/research/centre-for-history-and-economics-in-paris-chep/), accessed 2026-11-15.
+
+### Archives and discovery
+
+Keep the existing distinction between Centre and Centre-supported events. The “Recent” Centre page spans 2019–2026, so “Archive” plus year headings would describe it better. A potentially inconsistent date for “Belonging, membership, affiliation” needs organiser/programme confirmation; no replacement year is proposed. Older announcements should retain their provenance rather than being rewritten as current biographies. [Events branches](https://histecon.fr/en/events_sub.html), [recent events](https://histecon.fr/en/events_recent.html), accessed 2026-11-15.
+
+The project page already connects research to resources: a joint environmental-history programme, CHEP-hosted Archives Notariales, and a discussion group explicitly dated 2020–2022. Promote these scholarly resources alongside selected books without converting partner activity into Paris ownership. The bounded audit does not establish a complete research-output inventory or public newsletter issue archive. [Projects](https://histecon.fr/en/projects.html), accessed 2026-11-15.
+
+## Design choices and comparators
+
+The proposed navigation groups existing material into People, Research, Events, Funding, and About/Participation, with Home and language utilities. It retains dated cohorts and existing URLs in the first phase. [Navigation and content fields](proposed_navigation.md) specifies minimum records; [page prototypes](page_prototypes.md) provides annotated text wireframes and draft English/French home copy, a sourced Levy profile and a real November seminar page.
+
+Three comparators support modest patterns. Harvard shows dated next-event blocks; CHSP separates next/past events and current/past recruitment; CAMPOP uses explicit empty states and archive return routes. CHEP already has parts of these patterns, so the adaptation is clearer connection and labelling. Comparator staffing, cost and effectiveness are unknown. The Cambridge CHE site was not retrievable with the research tool; CAMPOP is a separate comparator, not authority on CHEP governance. These observations are indexed-page evidence and were not live usability-tested. [Harvard](https://histecon.fas.harvard.edu/), [CHSP events](https://www.sciencespo.fr/histoire/en/events/), [CAMPOP seminars](https://www.campop.geog.cam.ac.uk/seminars/), accessed 2026-11-15; [comparison memo](research/comparators.md).
+
+## Delivery, maintenance and evaluation
+
+| Phase | Student work, estimated | Institutional input, estimated separately |
+|---|---|---|
+| Week 1 — 5 hours | Evidence/role correction sheet 2h; bilingual fact reconciliation 2h; editorial register 1h | Academic and host editor review, 1–2h |
+| Week 2 — 5 hours | Event/participation copy 3h; funding summary 1h; technical issue specification 1h | Event/funding confirmation and copy review, 1–2h |
+| Week 3 — 5 hours | One profile and publication sample 3h; paired-language quality check 1h; technical acceptance specification 1h | Subject/translation review, 1–2h |
+| Week 4 — 5 hours | Task walkthrough/retest 2h; handover and maintenance checklist 2h; correction buffer 1h | Publishing review, 1–2h; developer/accessibility work separately |
+
+The table totals 20 hours: technical specification/retest 4h, event/participation package 6h including handover, and record reconciliation/sample content 10h including checks and buffer. These estimates overlap the backlog items; do not add backlog totals to this plan. Drafting can proceed without CMS access. Publishing, technical fixes and institutional validation may extend elapsed time beyond four weeks.
+
+After launch, estimate 90 student minutes weekly: 30 for events, 15 for calls, 30 for records/news and 15 for bilingual/link checks, plus one hour monthly for roster/archive reconciliation. Average maintenance is approximately 1.75 hours weekly, leaving about 3.25 hours of the five-hour scenario for other work. A launch week or new call may exceed this; defer nonessential publication cards first. An academic editor owns accuracy, communications owns publication, event/funding administrators supply authoritative changes, and the web maintainer owns layout/redirects. The organisation page identifies coordination and web-architecture functions, but their available capacity is unknown. [Organisation](https://histecon.fr/en/organisation.html), accessed 2026-11-15.
+
+A larger redesign is an alternative, not the next automatic step: estimate 40–60 student hours over 8–12 weeks for content preparation/migration checks, plus 30–50 developer/design and 8–12 accessibility hours. Reusing hosting may mean no incremental infrastructure charge; outside labour at the illustrative €60–€100/hour would be €2,280–€6,200, excluding tax and any procurement/hosting changes. These are planning allowances, not market quotations. Without confirmed support or cash, deliver the refresh specification and defer implementation beyond available institutional capacity.
+
+After approved changes, use 3–5 consenting volunteers across the six audience tasks. Record task completion, obstacle and correction, without personal browsing histories. Proposed checks: next activity within two links; correct funding eligibility and both deadlines; researcher-topic match; publication year/type/source; participation rules distinguished from affiliation; remit/contact found. Review time-sensitive records weekly and archive expired notices within two working days after a confirmed deadline/event-status change. A 30-day maximum review age is proposed for currently displayed calls and next events, with more frequent checks near deadlines. Traffic or subscription growth has no known baseline and should not determine success yet. If two rounds of task checks still fail or maintenance regularly exceeds two hours weekly, simplify the listings before commissioning new features.
+
+## Methods and limitations
+
+Read the shared brief, P05 and the nonempty Summary.md; no other prompt was executed and no other report was required. Mapped navigation and aliases before extracting; combined targeted official-site searches, indexed retrievals and live browser checks. Live evidence resolved several apparent problems: the English index route works despite a research-tool 406, current French notices replaced an old cached 2024 representation, and the Sciences Po content alias resolves to its research route. No claim of a broken public page rests on a tool failure.
+
+This is a Paris-centred website audit, not a census of people, publications, grants or events. It includes all main French/English entry sections, deeper people/event branches and selected host/partner paths; the remaining queue is explicit in [coverage.md](coverage.md). Browser screenshots and extracted accessibility trees are dated evidence, not a site backup. Robots/sitemap requests failed in the local environment; no recursive automated crawl was performed. CMS, analytics, staffing, editorial authority, attendance, demand and accessibility compliance remain unknown. No website was built, modified or published; no message, application or subscription was sent.
+
+## Deliverables
+
+- [Page inventory](page_inventory.csv) and [prioritised backlog](audit_backlog.csv)
+- [Proposed navigation and reusable fields](proposed_navigation.md)
+- [Annotated page prototypes](page_prototypes.md)
+- [Sources](sources.csv), [coverage and retrieval queue](coverage.md), [inspection evidence](evidence/inspection_notes.md)

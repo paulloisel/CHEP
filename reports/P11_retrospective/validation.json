@@ -1,0 +1,31 @@
+{
+  "as_of_date": "2026-11-15",
+  "required_files": [
+    "report.md",
+    "anniversary_basis.md",
+    "bibliography.csv",
+    "selection.csv",
+    "retrospective_draft.md",
+    "celebration_options.md",
+    "sources.csv",
+    "coverage.md"
+  ],
+  "bibliography_records": 36,
+  "unique_works": 31,
+  "selection_works": 18,
+  "source_records": 94,
+  "unique_source_urls": 89,
+  "opening_words": 300,
+  "card_words": [
+    150,
+    150,
+    150,
+    150,
+    150,
+    150
+  ],
+  "local_markdown_links": "all_resolve",
+  "csv_source_ids": "all_resolve",
+  "cutoff_check": "passed",
+  "notes": "Checks validate structure and internal consistency; factual limits remain in coverage.md."
+}

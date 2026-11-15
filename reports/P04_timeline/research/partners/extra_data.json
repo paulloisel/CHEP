@@ -1,0 +1,113 @@
+{
+  "sources": [
+    {
+      "source_id": "P04-N201",
+      "url": "https://histecon.fr/climate_capitalism/readings.html",
+      "title": "Climate and Capitalism Reading Workshop — Readings and Dates",
+      "publisher_or_owner": "Centre for History and Economics in Paris",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official programme webpage",
+      "supports": "Inaugural session 6 November 2024; second session 4 December 2024; spring 2025 Tarbell session planned date TBD; location and hours",
+      "retrieval_status": "retrieved via web open; indexed/cached crawl 4 months ago; no independent live origin fetch"
+    },
+    {
+      "source_id": "P04-N202",
+      "url": "https://histecon.fr/en/events_recent.html",
+      "title": "Joint Centre for History and Economics: Paris — recent Centre Events",
+      "publisher_or_owner": "Centre for History and Economics in Paris",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official institutional webpage",
+      "supports": "Retrospective Climate and Capitalism group activity, not individual dated sessions; 26 June 2026 JCHE/CHEP workshop explicitly held; convenors",
+      "retrieval_status": "retrieved via web open; indexed/cached crawl 2 months ago; search version older"
+    },
+    {
+      "source_id": "P04-N203",
+      "url": "https://www.histecon.magd.cam.ac.uk/JCHE_CHEP_Workshop/index.html",
+      "title": "JCHE / CHEP Workshop — Cambridge programme link",
+      "publisher_or_owner": "Centre for History and Economics / University of Cambridge",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official event webpage",
+      "supports": "Linked by Paris 26 June 2026 workshop; details not retrieved",
+      "retrieval_status": "failed web open: cache miss"
+    },
+    {
+      "source_id": "P04-N204",
+      "url": "https://histecon.fr/climate_capitalism/contact.html",
+      "title": "Climate and Capitalism Reading Workshop — Contact",
+      "publisher_or_owner": "Centre for History and Economics in Paris",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official contact webpage",
+      "supports": "Navigated from readings; not retrieved; no contact attempted",
+      "retrieval_status": "failed web open: cache miss"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "P04-NC001",
+      "title": "Climate and Capitalism: inaugural discussion of Timothy Mitchell’s Carbon Democracy",
+      "dates": "2024-11-06",
+      "status": "announced",
+      "format": "reading workshop",
+      "speakers": "not_found_publicly",
+      "organisers": "Liane Hewitt (group host; Harvard EHC archive)",
+      "partners": "Centre for History, Sciences Po",
+      "CHEP_role": "Paris Centre reading workshop",
+      "topics": "energy; capitalism; environment; political power",
+      "language": "not_found_publicly",
+      "location_or_mode": "Centre for History, Sciences Po Paris, 1 Saint Thomas d’Aquin, Seminar Room H101; Wednesdays 17:00–19:00 CET",
+      "programme_url": "https://histecon.fr/climate_capitalism/readings.html",
+      "recording_url": "not_found_publicly",
+      "source_ids": "P04-N201;P04-N005;P04-N202",
+      "evidence_status": "verified",
+      "evidence_notes": "Dated programme/meeting plan; retrospective confirms group operated but does not confirm this specific session occurred. Reading authors are not inferred to be speakers.",
+      "date_precision": "day",
+      "as_of_date": "2026-11-15"
+    },
+    {
+      "event_id": "P04-NC002",
+      "title": "Climate and Capitalism: Debates on Scarcity & Growth (The Limits to Growth)",
+      "dates": "2024-12-04",
+      "status": "announced",
+      "format": "reading workshop",
+      "speakers": "not_found_publicly",
+      "organisers": "Liane Hewitt (group host; Harvard EHC archive)",
+      "partners": "Centre for History, Sciences Po",
+      "CHEP_role": "Paris Centre reading workshop",
+      "topics": "energy; capitalism; environment; political power",
+      "language": "not_found_publicly",
+      "location_or_mode": "Centre for History, Sciences Po Paris, 1 Saint Thomas d’Aquin, Seminar Room H101; Wednesdays 17:00–19:00 CET",
+      "programme_url": "https://histecon.fr/climate_capitalism/readings.html",
+      "recording_url": "not_found_publicly",
+      "source_ids": "P04-N201;P04-N005;P04-N202",
+      "evidence_status": "verified",
+      "evidence_notes": "Dated programme/meeting plan; retrospective confirms group operated but does not confirm this specific session occurred. Reading authors are not inferred to be speakers.",
+      "date_precision": "day",
+      "as_of_date": "2026-11-15"
+    },
+    {
+      "event_id": "P04-NC003",
+      "title": "Climate and Capitalism: planned discussion of Ida M. Tarbell’s The History of the Standard Oil Company",
+      "dates": "2025 (spring; day TBD)",
+      "status": "announced",
+      "format": "reading workshop",
+      "speakers": "not_found_publicly",
+      "organisers": "Liane Hewitt (group host; Harvard EHC archive)",
+      "partners": "Centre for History, Sciences Po",
+      "CHEP_role": "Paris Centre reading workshop",
+      "topics": "energy; capitalism; environment; political power",
+      "language": "not_found_publicly",
+      "location_or_mode": "Centre for History, Sciences Po Paris, 1 Saint Thomas d’Aquin, Seminar Room H101; Wednesdays 17:00–19:00 CET",
+      "programme_url": "https://histecon.fr/climate_capitalism/readings.html",
+      "recording_url": "not_found_publicly",
+      "source_ids": "P04-N201;P04-N005;P04-N202",
+      "evidence_status": "verified",
+      "evidence_notes": "Dated programme/meeting plan; retrospective confirms group operated but does not confirm this specific session occurred. Reading authors are not inferred to be speakers. Spring 2025 date remained TBD; suggested future readings without a meeting plan are excluded.",
+      "date_precision": "season",
+      "as_of_date": "2026-11-15"
+    }
+  ]
+}

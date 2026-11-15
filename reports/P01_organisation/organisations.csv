@@ -1,0 +1,23 @@
+organisation_id,official_name,short_name,location,institutional_type,official_url,evidence_status,source_ids
+P01-O001,Centre for History and Economics in Paris,CHEP,"Paris, France",research centre,https://www.histecon.fr/en/,verified,P01-SR03;P01-SR04
+P01-O002,Centre d’histoire de Sciences Po,CHSP,"Paris, France",Sciences Po research centre / host unit,https://www.sciencespo.fr/histoire/,verified,P01-SR03;P01-SR08
+P01-O003,Sciences Po,Sciences Po,"Paris, France",higher education and research institution,https://www.sciencespo.fr/,verified,P01-SR03
+P01-O004,Centre de sociologie des organisations,CSO,"Paris, France",research unit; historical CHEP base,https://www.sciencespo.fr/cso/,verified,P01-SR06;P01-SR10;P01-H003
+P01-O005,"Department of Economics, Sciences Po",Sciences Po Economics,"Paris, France",department,https://www.sciencespo.fr/department-economics/,verified,P01-SR11
+P01-O006,Executive Committee — CHEP,CHEP Executive Committee,"Paris, France",governance page/body label; current composition unverified,https://histecon.fr/en/executive_committee.html,verified,P01-SR02
+P01-O007,Conseil scientifique — Centre for History and Economics in Paris,CHEP scientific council,"Paris, France; international participants",scientific advisory body; historical composition attested,https://www.sciencespo.fr/sites/default/files/cd_cp/cs/2020/2020_03_10_CSFR.pdf,verified,P01-H003;P01-SR09
+P01-O008,Center for History and Economics,CHE-Harvard,"Cambridge, Massachusetts, USA",research centre,https://histecon.fas.harvard.edu/,verified,P01-PS04;P01-PS05
+P01-O009,Centre for History and Economics,CHE-Cambridge,"Cambridge, United Kingdom",research centre,https://www.histecon.magd.cam.ac.uk/,verified,P01-PS04;P01-PS15;P01-PS17
+P01-O010,Joint Center for History and Economics,Joint Center,Cambridge UK; Cambridge MA; Paris,documented collaborative network; legal status not established,https://histecon.fas.harvard.edu/,verified,P01-PS04
+P01-O011,Harvard University,Harvard,"Cambridge, Massachusetts, USA",university,https://www.harvard.edu/,verified,P01-PS04;P01-PS05
+P01-O012,"Faculty of Arts and Sciences, Harvard University",Harvard FAS,"Cambridge, Massachusetts, USA",university faculty,https://www.fas.harvard.edu/,verified,P01-PS14;P01-PS21
+P01-O013,"Magdalene College, University of Cambridge",Magdalene College,"Cambridge, United Kingdom",university college,https://www.magd.cam.ac.uk/,verified,P01-PS04;P01-PS17
+P01-O014,"King’s College, University of Cambridge",King’s College,"Cambridge, United Kingdom",university college,https://www.kings.cam.ac.uk/,verified,P01-PS20;P01-PS14
+P01-O015,University of Cambridge,Cambridge,"Cambridge, United Kingdom",university,https://www.cam.ac.uk/,verified,P01-PS15;P01-PS20
+P01-O016,"Economic History, Climate, and the Environment",EHC,Cambridge UK; Cambridge MA; Paris,joint research initiative,https://histecon.fas.harvard.edu/ehc/,verified,P01-PS22
+P01-O017,"Executive Committee, Center for History and Economics, Harvard",Harvard CHE Executive Committee,"Cambridge, Massachusetts, USA",committee,https://histecon.fas.harvard.edu/executive.htm,verified,P01-PS03
+P01-O018,Center for Urban History,"Center for Urban History, Lviv","Lviv, Ukraine",research centre; fellowship host,https://www.lvivcenter.org/,verified,P01-H013
+P01-O019,European University Institute,EUI,"Fiesole / Florence, Italy",higher education and research institution,https://www.eui.eu/,verified,P01-RS15;P01-RS16;P01-RS18
+P01-O020,Duke University,Duke,"Durham, North Carolina, USA",university,https://www.duke.edu/,verified,P01-AS04
+P01-O021,University of Pennsylvania,Penn,"Philadelphia, Pennsylvania, USA",university,https://www.upenn.edu/,verified,P01-RS20
+P01-O022,Université de Versailles Saint-Quentin-en-Yvelines,UVSQ,"Versailles / Saint-Quentin-en-Yvelines, France",university,https://www.uvsq.fr/,verified,P01-RS06

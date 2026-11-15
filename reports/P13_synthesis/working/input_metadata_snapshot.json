@@ -1,0 +1,1190 @@
+{
+  "reports/P01_organisation/coverage.md": {
+    "size_bytes": 17839,
+    "mtime_ns": 1794785196236531257
+  },
+  "reports/P01_organisation/data_dictionary.md": {
+    "size_bytes": 4434,
+    "mtime_ns": 1794784966524831056
+  },
+  "reports/P01_organisation/evidence_notes.csv": {
+    "size_bytes": 9978,
+    "mtime_ns": 1794785087680516242
+  },
+  "reports/P01_organisation/identifiers.csv": {
+    "size_bytes": 9815,
+    "mtime_ns": 1794785087681744098
+  },
+  "reports/P01_organisation/organigram.md": {
+    "size_bytes": 10978,
+    "mtime_ns": 1794785173021225214
+  },
+  "reports/P01_organisation/organisations.csv": {
+    "size_bytes": 3886,
+    "mtime_ns": 1794785087674980878
+  },
+  "reports/P01_organisation/people.csv": {
+    "size_bytes": 30440,
+    "mtime_ns": 1794785087674355983
+  },
+  "reports/P01_organisation/profile_coverage.csv": {
+    "size_bytes": 16283,
+    "mtime_ns": 1794785087682581663
+  },
+  "reports/P01_organisation/relationships.csv": {
+    "size_bytes": 27539,
+    "mtime_ns": 1794785087677900791
+  },
+  "reports/P01_organisation/report.md": {
+    "size_bytes": 20501,
+    "mtime_ns": 1794785196235750675
+  },
+  "reports/P01_organisation/roles.csv": {
+    "size_bytes": 20918,
+    "mtime_ns": 1794785087676083803
+  },
+  "reports/P01_organisation/source_id_crosswalk.csv": {
+    "size_bytes": 2878,
+    "mtime_ns": 1794785087681096553
+  },
+  "reports/P01_organisation/sources.csv": {
+    "size_bytes": 48367,
+    "mtime_ns": 1794785087679749488
+  },
+  "reports/P01_organisation/working/assemble.py": {
+    "size_bytes": 25352,
+    "mtime_ns": 1794785087598700284
+  },
+  "reports/P01_organisation/working/associate_profiles.json": {
+    "size_bytes": 16606,
+    "mtime_ns": 1794784714057955503
+  },
+  "reports/P01_organisation/working/entity_lookup.json": {
+    "size_bytes": 5334,
+    "mtime_ns": 1794785087683152198
+  },
+  "reports/P01_organisation/working/finalise_docs.py": {
+    "size_bytes": 12910,
+    "mtime_ns": 1794785172942080497
+  },
+  "reports/P01_organisation/working/history.json": {
+    "size_bytes": 27870,
+    "mtime_ns": 1794784232286489009
+  },
+  "reports/P01_organisation/working/history_profiles.json": {
+    "size_bytes": 8964,
+    "mtime_ns": 1794784326312309980
+  },
+  "reports/P01_organisation/working/paris_roster.json": {
+    "size_bytes": 49827,
+    "mtime_ns": 1794784840200373649
+  },
+  "reports/P01_organisation/working/partners.json": {
+    "size_bytes": 30797,
+    "mtime_ns": 1794784278826392889
+  },
+  "reports/P01_organisation/working/previous_students.json": {
+    "size_bytes": 14315,
+    "mtime_ns": 1794784744858996629
+  },
+  "reports/P01_organisation/working/remaining_profiles.json": {
+    "size_bytes": 16522,
+    "mtime_ns": 1794785010541603565
+  },
+  "reports/P01_organisation/working/root.json": {
+    "size_bytes": 13597,
+    "mtime_ns": 1794784211974306106
+  },
+  "reports/P02_publications/author_coverage.csv": {
+    "size_bytes": 13850,
+    "mtime_ns": 1794784947811952590
+  },
+  "reports/P02_publications/cohort.csv": {
+    "size_bytes": 8060,
+    "mtime_ns": 1794784947811159133
+  },
+  "reports/P02_publications/coverage.md": {
+    "size_bytes": 20391,
+    "mtime_ns": 1794785039396472692
+  },
+  "reports/P02_publications/publications.csv": {
+    "size_bytes": 169631,
+    "mtime_ns": 1794784947810348272
+  },
+  "reports/P02_publications/record_crosswalk.csv": {
+    "size_bytes": 10812,
+    "mtime_ns": 1794784947814630270
+  },
+  "reports/P02_publications/report.md": {
+    "size_bytes": 16042,
+    "mtime_ns": 1794784905356768369
+  },
+  "reports/P02_publications/research/assemble.py": {
+    "size_bytes": 21126,
+    "mtime_ns": 1794784947607946634
+  },
+  "reports/P02_publications/research/build_levy.py": {
+    "size_bytes": 23523,
+    "mtime_ns": 1794784408979927539
+  },
+  "reports/P02_publications/research/cordelli.json": {
+    "size_bytes": 111758,
+    "mtime_ns": 1794784647061585426
+  },
+  "reports/P02_publications/research/cordelli_notes.md": {
+    "size_bytes": 9113,
+    "mtime_ns": 1794784647147754430
+  },
+  "reports/P02_publications/research/featured.json": {
+    "size_bytes": 42456,
+    "mtime_ns": 1794784372251696348
+  },
+  "reports/P02_publications/research/featured_notes.md": {
+    "size_bytes": 10260,
+    "mtime_ns": 1794784372322485446
+  },
+  "reports/P02_publications/research/fellows.json": {
+    "size_bytes": 110231,
+    "mtime_ns": 1794784496942034721
+  },
+  "reports/P02_publications/research/levy.json": {
+    "size_bytes": 71191,
+    "mtime_ns": 1794784409078752756
+  },
+  "reports/P02_publications/research/qa_sources.json": {
+    "size_bytes": 4351,
+    "mtime_ns": 1794784550007032394
+  },
+  "reports/P02_publications/research/roster.json": {
+    "size_bytes": 23384,
+    "mtime_ns": 1794784347503160238
+  },
+  "reports/P02_publications/research/roster_fellows_notes.md": {
+    "size_bytes": 11837,
+    "mtime_ns": 1794784484798257112
+  },
+  "reports/P02_publications/research/site_sources.json": {
+    "size_bytes": 4326,
+    "mtime_ns": 1794784470635230541
+  },
+  "reports/P02_publications/research/stats.json": {
+    "size_bytes": 1729,
+    "mtime_ns": 1794784947815540552
+  },
+  "reports/P02_publications/research_atlas.md": {
+    "size_bytes": 11875,
+    "mtime_ns": 1794784947731395483
+  },
+  "reports/P02_publications/sources.csv": {
+    "size_bytes": 56167,
+    "mtime_ns": 1794784947813714742
+  },
+  "reports/P02_publications/supplementary.csv": {
+    "size_bytes": 3377,
+    "mtime_ns": 1794784947814085960
+  },
+  "reports/P03_funding_history/README.md": {
+    "size_bytes": 6197,
+    "mtime_ns": 1794785078264627456
+  },
+  "reports/P03_funding_history/_research/append_support.py": {
+    "size_bytes": 8501,
+    "mtime_ns": 1794784718498221158
+  },
+  "reports/P03_funding_history/_research/build_people.py": {
+    "size_bytes": 37887,
+    "mtime_ns": 1794784900535366058
+  },
+  "reports/P03_funding_history/_research/build_root.py": {
+    "size_bytes": 9260,
+    "mtime_ns": 1794784278547565937
+  },
+  "reports/P03_funding_history/_research/build_support.py": {
+    "size_bytes": 23300,
+    "mtime_ns": 1794784393079004764
+  },
+  "reports/P03_funding_history/_research/cohort.csv": {
+    "size_bytes": 8622,
+    "mtime_ns": 1794784924577681779
+  },
+  "reports/P03_funding_history/_research/consolidate.py": {
+    "size_bytes": 12178,
+    "mtime_ns": 1794785156192915678
+  },
+  "reports/P03_funding_history/_research/people_coverage.csv": {
+    "size_bytes": 11178,
+    "mtime_ns": 1794784924579280376
+  },
+  "reports/P03_funding_history/_research/people_funding.csv": {
+    "size_bytes": 13458,
+    "mtime_ns": 1794784924578531026
+  },
+  "reports/P03_funding_history/_research/people_leads.csv": {
+    "size_bytes": 5152,
+    "mtime_ns": 1794784614753523111
+  },
+  "reports/P03_funding_history/_research/people_notes.md": {
+    "size_bytes": 9783,
+    "mtime_ns": 1794784924449780464
+  },
+  "reports/P03_funding_history/_research/people_sources.csv": {
+    "size_bytes": 18922,
+    "mtime_ns": 1794784924580068349
+  },
+  "reports/P03_funding_history/_research/project_coverage.csv": {
+    "size_bytes": 4411,
+    "mtime_ns": 1794784403274332284
+  },
+  "reports/P03_funding_history/_research/project_funding.csv": {
+    "size_bytes": 7561,
+    "mtime_ns": 1794784403273587942
+  },
+  "reports/P03_funding_history/_research/project_notes.md": {
+    "size_bytes": 9376,
+    "mtime_ns": 1794784403344803571
+  },
+  "reports/P03_funding_history/_research/project_sources.csv": {
+    "size_bytes": 9618,
+    "mtime_ns": 1794785131752280950
+  },
+  "reports/P03_funding_history/_research/root_extra.py": {
+    "size_bytes": 3139,
+    "mtime_ns": 1794784331541013240
+  },
+  "reports/P03_funding_history/_research/root_funding.csv": {
+    "size_bytes": 1454,
+    "mtime_ns": 1794784331578828334
+  },
+  "reports/P03_funding_history/_research/root_leads.csv": {
+    "size_bytes": 3968,
+    "mtime_ns": 1794784810932997226
+  },
+  "reports/P03_funding_history/_research/root_sources.csv": {
+    "size_bytes": 5826,
+    "mtime_ns": 1794784331578549861
+  },
+  "reports/P03_funding_history/_research/support_coverage.csv": {
+    "size_bytes": 12105,
+    "mtime_ns": 1794784726368041038
+  },
+  "reports/P03_funding_history/_research/support_funding.csv": {
+    "size_bytes": 20005,
+    "mtime_ns": 1794784726366444349
+  },
+  "reports/P03_funding_history/_research/support_leads.csv": {
+    "size_bytes": 3880,
+    "mtime_ns": 1794784726367545843
+  },
+  "reports/P03_funding_history/_research/support_notes.md": {
+    "size_bytes": 9187,
+    "mtime_ns": 1794784750065203666
+  },
+  "reports/P03_funding_history/_research/support_sources.csv": {
+    "size_bytes": 15426,
+    "mtime_ns": 1794784726367218971
+  },
+  "reports/P03_funding_history/_research/write_coverage.py": {
+    "size_bytes": 16219,
+    "mtime_ns": 1794784916115506172
+  },
+  "reports/P03_funding_history/administrator_questions.md": {
+    "size_bytes": 3061,
+    "mtime_ns": 1794784513207761764
+  },
+  "reports/P03_funding_history/award_groups.csv": {
+    "size_bytes": 385,
+    "mtime_ns": 1794785156272444725
+  },
+  "reports/P03_funding_history/calls_and_unverified_leads.csv": {
+    "size_bytes": 25308,
+    "mtime_ns": 1794785156273722648
+  },
+  "reports/P03_funding_history/cohort.csv": {
+    "size_bytes": 8622,
+    "mtime_ns": 1794785156269701004
+  },
+  "reports/P03_funding_history/coverage.md": {
+    "size_bytes": 20825,
+    "mtime_ns": 1794785156330690383
+  },
+  "reports/P03_funding_history/funding_coverage.csv": {
+    "size_bytes": 34132,
+    "mtime_ns": 1794785156275605678
+  },
+  "reports/P03_funding_history/funding_ledger.csv": {
+    "size_bytes": 54386,
+    "mtime_ns": 1794785156271941184
+  },
+  "reports/P03_funding_history/report.md": {
+    "size_bytes": 18071,
+    "mtime_ns": 1794784696808973312
+  },
+  "reports/P03_funding_history/source_id_crosswalk.csv": {
+    "size_bytes": 13738,
+    "mtime_ns": 1794785156268845796
+  },
+  "reports/P03_funding_history/sources.csv": {
+    "size_bytes": 46753,
+    "mtime_ns": 1794785156267384767
+  },
+  "reports/P03_funding_history/validation.json": {
+    "size_bytes": 274,
+    "mtime_ns": 1794785156282184600
+  },
+  "reports/P04_timeline/coverage.md": {
+    "size_bytes": 25872,
+    "mtime_ns": 1794784830250694990
+  },
+  "reports/P04_timeline/events.csv": {
+    "size_bytes": 153021,
+    "mtime_ns": 1794784624813217401
+  },
+  "reports/P04_timeline/report.md": {
+    "size_bytes": 16396,
+    "mtime_ns": 1794784695683430194
+  },
+  "reports/P04_timeline/research/build_outputs.py": {
+    "size_bytes": 8689,
+    "mtime_ns": 1794784624693186044
+  },
+  "reports/P04_timeline/research/final_counts.json": {
+    "size_bytes": 898,
+    "mtime_ns": 1794784624816527843
+  },
+  "reports/P04_timeline/research/origins/atelier_unverified_leads.csv": {
+    "size_bytes": 2342,
+    "mtime_ns": 1794784452249555826
+  },
+  "reports/P04_timeline/research/origins/build_origins.py": {
+    "size_bytes": 20345,
+    "mtime_ns": 1794784452249070882
+  },
+  "reports/P04_timeline/research/origins/findings.md": {
+    "size_bytes": 8252,
+    "mtime_ns": 1794784442750896930
+  },
+  "reports/P04_timeline/research/origins/milestones.csv": {
+    "size_bytes": 7217,
+    "mtime_ns": 1794784452301904678
+  },
+  "reports/P04_timeline/research/origins/milestones.json": {
+    "size_bytes": 11577,
+    "mtime_ns": 1794784452301190853
+  },
+  "reports/P04_timeline/research/origins/sources.csv": {
+    "size_bytes": 12206,
+    "mtime_ns": 1794784452300624370
+  },
+  "reports/P04_timeline/research/origins/sources.json": {
+    "size_bytes": 18409,
+    "mtime_ns": 1794784452299858331
+  },
+  "reports/P04_timeline/research/partners/add_climate.py": {
+    "size_bytes": 3868,
+    "mtime_ns": 1794784444107370376
+  },
+  "reports/P04_timeline/research/partners/build_partner_data.py": {
+    "size_bytes": 13265,
+    "mtime_ns": 1794784285383570671
+  },
+  "reports/P04_timeline/research/partners/coverage_notes.md": {
+    "size_bytes": 10962,
+    "mtime_ns": 1794784480446136236
+  },
+  "reports/P04_timeline/research/partners/extra_data.json": {
+    "size_bytes": 6075,
+    "mtime_ns": 1794784444147629022
+  },
+  "reports/P04_timeline/research/partners/extra_events.csv": {
+    "size_bytes": 2545,
+    "mtime_ns": 1794784444147017955
+  },
+  "reports/P04_timeline/research/partners/extra_sources.csv": {
+    "size_bytes": 1605,
+    "mtime_ns": 1794784444147295236
+  },
+  "reports/P04_timeline/research/partners/joint_seminars.csv": {
+    "size_bytes": 25169,
+    "mtime_ns": 1794784480523625612
+  },
+  "reports/P04_timeline/research/partners/partner_data.json": {
+    "size_bytes": 68909,
+    "mtime_ns": 1794784480526929616
+  },
+  "reports/P04_timeline/research/partners/partner_sources.csv": {
+    "size_bytes": 19357,
+    "mtime_ns": 1794784285453451871
+  },
+  "reports/P04_timeline/research/seminars/events.json": {
+    "size_bytes": 119175,
+    "mtime_ns": 1794784302890358209
+  },
+  "reports/P04_timeline/research/seminars/extra_event.json": {
+    "size_bytes": 1073,
+    "mtime_ns": 1794784549206435680
+  },
+  "reports/P04_timeline/research/seminars/sources.json": {
+    "size_bytes": 6662,
+    "mtime_ns": 1794784302941735744
+  },
+  "reports/P04_timeline/research/seminars/web_last.txt": {
+    "size_bytes": 27092,
+    "mtime_ns": 1794784166641365051
+  },
+  "reports/P04_timeline/research/seminars/web_more.txt": {
+    "size_bytes": 27079,
+    "mtime_ns": 1794784151744407653
+  },
+  "reports/P04_timeline/research/seminars/web_retrieval.txt": {
+    "size_bytes": 26791,
+    "mtime_ns": 1794784130453633069
+  },
+  "reports/P04_timeline/research/workshops/coverage_notes.md": {
+    "size_bytes": 10723,
+    "mtime_ns": 1794784539190710783
+  },
+  "reports/P04_timeline/research/workshops/data.json": {
+    "size_bytes": 44197,
+    "mtime_ns": 1794784468606819868
+  },
+  "reports/P04_timeline/research/workshops/events.csv": {
+    "size_bytes": 16132,
+    "mtime_ns": 1794784468484781265
+  },
+  "reports/P04_timeline/research/workshops/sources.csv": {
+    "size_bytes": 13201,
+    "mtime_ns": 1794784468345761060
+  },
+  "reports/P04_timeline/sources.csv": {
+    "size_bytes": 49401,
+    "mtime_ns": 1794784624815945863
+  },
+  "reports/P04_timeline/timeline.csv": {
+    "size_bytes": 13646,
+    "mtime_ns": 1794784624814476728
+  },
+  "reports/P04_timeline/timeline.md": {
+    "size_bytes": 6547,
+    "mtime_ns": 1794784695741797447
+  },
+  "reports/P05_website/audit_backlog.csv": {
+    "size_bytes": 9381,
+    "mtime_ns": 1794784737655085563
+  },
+  "reports/P05_website/coverage.md": {
+    "size_bytes": 14600,
+    "mtime_ns": 1794784881416926860
+  },
+  "reports/P05_website/evidence/announcements-en-ax.txt": {
+    "size_bytes": 5593,
+    "mtime_ns": 1794784254067337989
+  },
+  "reports/P05_website/evidence/announcements-fr-ax.txt": {
+    "size_bytes": 7436,
+    "mtime_ns": 1794784253649499654
+  },
+  "reports/P05_website/evidence/associates-en-ax.txt": {
+    "size_bytes": 5801,
+    "mtime_ns": 1794784294423991918
+  },
+  "reports/P05_website/evidence/associates-fr-ax.txt": {
+    "size_bytes": 5811,
+    "mtime_ns": 1794784316406261444
+  },
+  "reports/P05_website/evidence/committee-en-ax.txt": {
+    "size_bytes": 2995,
+    "mtime_ns": 1794784294005852699
+  },
+  "reports/P05_website/evidence/committee-fr-ax.txt": {
+    "size_bytes": 3028,
+    "mtime_ns": 1794784315492110490
+  },
+  "reports/P05_website/evidence/contacts-en-ax.txt": {
+    "size_bytes": 3542,
+    "mtime_ns": 1794784193176439285
+  },
+  "reports/P05_website/evidence/contacts-fr-ax.txt": {
+    "size_bytes": 3379,
+    "mtime_ns": 1794784253118809700
+  },
+  "reports/P05_website/evidence/event-nov17-ax.txt": {
+    "size_bytes": 7419,
+    "mtime_ns": 1794784219280079364
+  },
+  "reports/P05_website/evidence/events-en-ax.txt": {
+    "size_bytes": 2129,
+    "mtime_ns": 1794784279481281280
+  },
+  "reports/P05_website/evidence/events-fr-ax.txt": {
+    "size_bytes": 2181,
+    "mtime_ns": 1794784252185741662
+  },
+  "reports/P05_website/evidence/events-recent-en-ax.txt": {
+    "size_bytes": 14985,
+    "mtime_ns": 1794784202902673959
+  },
+  "reports/P05_website/evidence/events-recent-supported-en-ax.txt": {
+    "size_bytes": 3909,
+    "mtime_ns": 1794784203353133440
+  },
+  "reports/P05_website/evidence/events-sub-en-ax.txt": {
+    "size_bytes": 2427,
+    "mtime_ns": 1794784193726995229
+  },
+  "reports/P05_website/evidence/events-sub-fr-ax.txt": {
+    "size_bytes": 2565,
+    "mtime_ns": 1794784296614076375
+  },
+  "reports/P05_website/evidence/events-upcoming-en-ax.txt": {
+    "size_bytes": 1940,
+    "mtime_ns": 1794784202084388256
+  },
+  "reports/P05_website/evidence/events-upcoming-supported-en-ax.txt": {
+    "size_bytes": 1956,
+    "mtime_ns": 1794784202424802064
+  },
+  "reports/P05_website/evidence/fellows-en-ax.txt": {
+    "size_bytes": 3952,
+    "mtime_ns": 1794784192369587421
+  },
+  "reports/P05_website/evidence/fellows-fr-ax.txt": {
+    "size_bytes": 4158,
+    "mtime_ns": 1794784316029951095
+  },
+  "reports/P05_website/evidence/fellows-past-en-ax.txt": {
+    "size_bytes": 2529,
+    "mtime_ns": 1794784295754859447
+  },
+  "reports/P05_website/evidence/fellows-past-fr-ax.txt": {
+    "size_bytes": 2543,
+    "mtime_ns": 1794784317949059486
+  },
+  "reports/P05_website/evidence/grants-en-ax.txt": {
+    "size_bytes": 4170,
+    "mtime_ns": 1794784192782844543
+  },
+  "reports/P05_website/evidence/grants-fr-ax.txt": {
+    "size_bytes": 4512,
+    "mtime_ns": 1794784252730035066
+  },
+  "reports/P05_website/evidence/home-en-ax.txt": {
+    "size_bytes": 5726,
+    "mtime_ns": 1794784274065194845
+  },
+  "reports/P05_website/evidence/home-en-desktop.jpg": {
+    "size_bytes": 161727,
+    "mtime_ns": 1794784135763733265
+  },
+  "reports/P05_website/evidence/home-en-index-ax.txt": {
+    "size_bytes": 5618,
+    "mtime_ns": 1794784221107007265
+  },
+  "reports/P05_website/evidence/home-en-mobile-390.jpg": {
+    "size_bytes": 54875,
+    "mtime_ns": 1794784136219545189
+  },
+  "reports/P05_website/evidence/home-fr-ax.txt": {
+    "size_bytes": 6272,
+    "mtime_ns": 1794784276012894630
+  },
+  "reports/P05_website/evidence/home-fr-desktop.jpg": {
+    "size_bytes": 81713,
+    "mtime_ns": 1794784147397843456
+  },
+  "reports/P05_website/evidence/host-en-alias-ax.txt": {
+    "size_bytes": 8341,
+    "mtime_ns": 1794784222151300430
+  },
+  "reports/P05_website/evidence/host-en-ax.txt": {
+    "size_bytes": 8341,
+    "mtime_ns": 1794784206925371885
+  },
+  "reports/P05_website/evidence/host-fr-ax.txt": {
+    "size_bytes": 9282,
+    "mtime_ns": 1794784207983416318
+  },
+  "reports/P05_website/evidence/inspection_notes.md": {
+    "size_bytes": 4996,
+    "mtime_ns": 1794784730451070070
+  },
+  "reports/P05_website/evidence/keyboard-activation-ax.txt": {
+    "size_bytes": 2129,
+    "mtime_ns": 1794784327825348615
+  },
+  "reports/P05_website/evidence/keyboard-events-focus.jpg": {
+    "size_bytes": 162620,
+    "mtime_ns": 1794784327604937339
+  },
+  "reports/P05_website/evidence/levy-profile-ax.txt": {
+    "size_bytes": 7805,
+    "mtime_ns": 1794784219833670854
+  },
+  "reports/P05_website/evidence/list-en-ax.txt": {
+    "size_bytes": 1700,
+    "mtime_ns": 1794784279266469717
+  },
+  "reports/P05_website/evidence/list-en-dom.txt": {
+    "size_bytes": 1032,
+    "mtime_ns": 1794784279310162568
+  },
+  "reports/P05_website/evidence/list-fr-ax.txt": {
+    "size_bytes": 1711,
+    "mtime_ns": 1794784297196986198
+  },
+  "reports/P05_website/evidence/mailing-list-desktop.jpg": {
+    "size_bytes": 116893,
+    "mtime_ns": 1794784174067225205
+  },
+  "reports/P05_website/evidence/organisation-en-ax.txt": {
+    "size_bytes": 2670,
+    "mtime_ns": 1794784276202852964
+  },
+  "reports/P05_website/evidence/organisation-fr-ax.txt": {
+    "size_bytes": 2630,
+    "mtime_ns": 1794784277745518922
+  },
+  "reports/P05_website/evidence/participants-fr-ax.txt": {
+    "size_bytes": 2638,
+    "mtime_ns": 1794784250311703205
+  },
+  "reports/P05_website/evidence/people-en-ax.txt": {
+    "size_bytes": 2583,
+    "mtime_ns": 1794784278859013319
+  },
+  "reports/P05_website/evidence/projects-en-ax.txt": {
+    "size_bytes": 2329,
+    "mtime_ns": 1794784281354825496
+  },
+  "reports/P05_website/evidence/projects-fr-ax.txt": {
+    "size_bytes": 2399,
+    "mtime_ns": 1794784251653573989
+  },
+  "reports/P05_website/evidence/publications-en-ax.txt": {
+    "size_bytes": 7161,
+    "mtime_ns": 1794784194488610744
+  },
+  "reports/P05_website/evidence/publications-fr-ax.txt": {
+    "size_bytes": 7191,
+    "mtime_ns": 1794784251219296693
+  },
+  "reports/P05_website/evidence/seminars-en-ax.txt": {
+    "size_bytes": 2274,
+    "mtime_ns": 1794784277900717020
+  },
+  "reports/P05_website/evidence/seminars-fr-ax.txt": {
+    "size_bytes": 2294,
+    "mtime_ns": 1794784296255215644
+  },
+  "reports/P05_website/evidence/students-en-ax.txt": {
+    "size_bytes": 2653,
+    "mtime_ns": 1794784294873692750
+  },
+  "reports/P05_website/evidence/students-fr-ax.txt": {
+    "size_bytes": 2633,
+    "mtime_ns": 1794784316895365238
+  },
+  "reports/P05_website/evidence/students-past-en-ax.txt": {
+    "size_bytes": 4000,
+    "mtime_ns": 1794784318325312614
+  },
+  "reports/P05_website/evidence/visiting-students-en-ax.txt": {
+    "size_bytes": 2134,
+    "mtime_ns": 1794784318784148216
+  },
+  "reports/P05_website/evidence/visitors-en-ax.txt": {
+    "size_bytes": 3377,
+    "mtime_ns": 1794784295399196147
+  },
+  "reports/P05_website/evidence/visitors-fr-ax.txt": {
+    "size_bytes": 3386,
+    "mtime_ns": 1794784317446970462
+  },
+  "reports/P05_website/page_inventory.csv": {
+    "size_bytes": 23843,
+    "mtime_ns": 1794784737654402494
+  },
+  "reports/P05_website/page_prototypes.md": {
+    "size_bytes": 19932,
+    "mtime_ns": 1794784881417520046
+  },
+  "reports/P05_website/proposed_navigation.md": {
+    "size_bytes": 10693,
+    "mtime_ns": 1794784536195753574
+  },
+  "reports/P05_website/report.md": {
+    "size_bytes": 18195,
+    "mtime_ns": 1794784942066895484
+  },
+  "reports/P05_website/research/build_registers.py": {
+    "size_bytes": 22150,
+    "mtime_ns": 1794784670076519966
+  },
+  "reports/P05_website/research/comparators.md": {
+    "size_bytes": 12739,
+    "mtime_ns": 1794784172435106754
+  },
+  "reports/P05_website/research/journeys.md": {
+    "size_bytes": 19552,
+    "mtime_ns": 1794784331715512275
+  },
+  "reports/P05_website/sources.csv": {
+    "size_bytes": 28469,
+    "mtime_ns": 1794784737653062582
+  },
+  "reports/P06_communications/channel_audit.csv": {
+    "size_bytes": 5920,
+    "mtime_ns": 1794784623868039846
+  },
+  "reports/P06_communications/communications_playbook.md": {
+    "size_bytes": 12865,
+    "mtime_ns": 1794784779403907537
+  },
+  "reports/P06_communications/content_register.csv": {
+    "size_bytes": 2245,
+    "mtime_ns": 1794784623868501424
+  },
+  "reports/P06_communications/coverage.md": {
+    "size_bytes": 13022,
+    "mtime_ns": 1794784742905072450
+  },
+  "reports/P06_communications/editorial_calendar.csv": {
+    "size_bytes": 1989,
+    "mtime_ns": 1794784744165965557
+  },
+  "reports/P06_communications/pilot_newsletter.md": {
+    "size_bytes": 8723,
+    "mtime_ns": 1794784742906120300
+  },
+  "reports/P06_communications/report.md": {
+    "size_bytes": 15068,
+    "mtime_ns": 1794784742905604600
+  },
+  "reports/P06_communications/sources.csv": {
+    "size_bytes": 15112,
+    "mtime_ns": 1794784561111037015
+  },
+  "reports/P07_speakers/assemble.py": {
+    "size_bytes": 14271,
+    "mtime_ns": 1794784902399062156
+  },
+  "reports/P07_speakers/build_root.py": {
+    "size_bytes": 9641,
+    "mtime_ns": 1794784361704670667
+  },
+  "reports/P07_speakers/candidates.csv": {
+    "size_bytes": 30006,
+    "mtime_ns": 1794784909372011184
+  },
+  "reports/P07_speakers/coverage.md": {
+    "size_bytes": 30751,
+    "mtime_ns": 1794784872489461660
+  },
+  "reports/P07_speakers/invitation_drafts.md": {
+    "size_bytes": 4551,
+    "mtime_ns": 1794784740630025386
+  },
+  "reports/P07_speakers/pilot_series.md": {
+    "size_bytes": 12219,
+    "mtime_ns": 1794784900852090597
+  },
+  "reports/P07_speakers/report.md": {
+    "size_bytes": 16005,
+    "mtime_ns": 1794784900851222515
+  },
+  "reports/P07_speakers/research_candidates_a.json": {
+    "size_bytes": 22485,
+    "mtime_ns": 1794784349569380283
+  },
+  "reports/P07_speakers/research_candidates_a.md": {
+    "size_bytes": 10351,
+    "mtime_ns": 1794784424515701293
+  },
+  "reports/P07_speakers/research_candidates_b.json": {
+    "size_bytes": 27936,
+    "mtime_ns": 1794784413916765928
+  },
+  "reports/P07_speakers/research_candidates_b.md": {
+    "size_bytes": 5666,
+    "mtime_ns": 1794784448067560911
+  },
+  "reports/P07_speakers/research_candidates_root.json": {
+    "size_bytes": 18650,
+    "mtime_ns": 1794784361751324176
+  },
+  "reports/P07_speakers/research_chep_map.json": {
+    "size_bytes": 16116,
+    "mtime_ns": 1794784426840740680
+  },
+  "reports/P07_speakers/research_chep_map.md": {
+    "size_bytes": 11997,
+    "mtime_ns": 1794784426841280698
+  },
+  "reports/P07_speakers/selection_matrix.csv": {
+    "size_bytes": 10604,
+    "mtime_ns": 1794784909377562046
+  },
+  "reports/P07_speakers/shortlist.md": {
+    "size_bytes": 15010,
+    "mtime_ns": 1794784909376294136
+  },
+  "reports/P07_speakers/sources.csv": {
+    "size_bytes": 32870,
+    "mtime_ns": 1794784909374833345
+  },
+  "reports/P07_speakers/validation.md": {
+    "size_bytes": 739,
+    "mtime_ns": 1794784936233347415
+  },
+  "reports/P08_symposium/budget_and_workplan.csv": {
+    "size_bytes": 11673,
+    "mtime_ns": 1794784724526684522
+  },
+  "reports/P08_symposium/calendar_research.md": {
+    "size_bytes": 8725,
+    "mtime_ns": 1794784237750454187
+  },
+  "reports/P08_symposium/concepts.md": {
+    "size_bytes": 12067,
+    "mtime_ns": 1794784414680289983
+  },
+  "reports/P08_symposium/coverage.md": {
+    "size_bytes": 11887,
+    "mtime_ns": 1794784807621065616
+  },
+  "reports/P08_symposium/feasibility_review.md": {
+    "size_bytes": 10305,
+    "mtime_ns": 1794784341227013111
+  },
+  "reports/P08_symposium/participant_research.md": {
+    "size_bytes": 14608,
+    "mtime_ns": 1794784308365112543
+  },
+  "reports/P08_symposium/participants.csv": {
+    "size_bytes": 6948,
+    "mtime_ns": 1794784726287239789
+  },
+  "reports/P08_symposium/pilot_programme.md": {
+    "size_bytes": 9770,
+    "mtime_ns": 1794784868682704925
+  },
+  "reports/P08_symposium/report.md": {
+    "size_bytes": 16713,
+    "mtime_ns": 1794784868682111740
+  },
+  "reports/P08_symposium/source_id_aliases.csv": {
+    "size_bytes": 308,
+    "mtime_ns": 1794784414679710388
+  },
+  "reports/P08_symposium/sources.csv": {
+    "size_bytes": 16112,
+    "mtime_ns": 1794784723044067382
+  },
+  "reports/P09_opportunities/applicant_guide.md": {
+    "size_bytes": 15369,
+    "mtime_ns": 1794784715065155744
+  },
+  "reports/P09_opportunities/build_deliverables.py": {
+    "size_bytes": 11728,
+    "mtime_ns": 1794785008898954868
+  },
+  "reports/P09_opportunities/coverage.md": {
+    "size_bytes": 17402,
+    "mtime_ns": 1794784929440632820
+  },
+  "reports/P09_opportunities/deadline_calendar.md": {
+    "size_bytes": 9235,
+    "mtime_ns": 1794784778222048521
+  },
+  "reports/P09_opportunities/id_crosswalk.csv": {
+    "size_bytes": 846,
+    "mtime_ns": 1794785009025414228
+  },
+  "reports/P09_opportunities/opportunities.csv": {
+    "size_bytes": 34352,
+    "mtime_ns": 1794785009023591995
+  },
+  "reports/P09_opportunities/profile_shortlist.csv": {
+    "size_bytes": 5718,
+    "mtime_ns": 1794785009026062488
+  },
+  "reports/P09_opportunities/report.md": {
+    "size_bytes": 15847,
+    "mtime_ns": 1794784969649956941
+  },
+  "reports/P09_opportunities/research_archives_libraries.json": {
+    "size_bytes": 22955,
+    "mtime_ns": 1794784331196676492
+  },
+  "reports/P09_opportunities/research_archives_libraries.md": {
+    "size_bytes": 7560,
+    "mtime_ns": 1794784387191193819
+  },
+  "reports/P09_opportunities/research_french_european.json": {
+    "size_bytes": 28159,
+    "mtime_ns": 1794784347001349925
+  },
+  "reports/P09_opportunities/research_french_european.md": {
+    "size_bytes": 10893,
+    "mtime_ns": 1794784436063559293
+  },
+  "reports/P09_opportunities/research_root.json": {
+    "size_bytes": 13547,
+    "mtime_ns": 1794784301860725402
+  },
+  "reports/P09_opportunities/research_societies_partners.json": {
+    "size_bytes": 29686,
+    "mtime_ns": 1794784474208618640
+  },
+  "reports/P09_opportunities/research_societies_partners.md": {
+    "size_bytes": 9350,
+    "mtime_ns": 1794784474276207685
+  },
+  "reports/P09_opportunities/sources.csv": {
+    "size_bytes": 27411,
+    "mtime_ns": 1794785009024931669
+  },
+  "reports/P10_annual_report/activity_inventory.csv": {
+    "size_bytes": 10785,
+    "mtime_ns": 1794784983598880052
+  },
+  "reports/P10_annual_report/annual_report_draft.md": {
+    "size_bytes": 24495,
+    "mtime_ns": 1794784837979659080
+  },
+  "reports/P10_annual_report/content_register.csv": {
+    "size_bytes": 8393,
+    "mtime_ns": 1794784983603126287
+  },
+  "reports/P10_annual_report/coverage.md": {
+    "size_bytes": 20790,
+    "mtime_ns": 1794784953941264152
+  },
+  "reports/P10_annual_report/editorial_workflow.md": {
+    "size_bytes": 10846,
+    "mtime_ns": 1794784838015992641
+  },
+  "reports/P10_annual_report/indicator_register.csv": {
+    "size_bytes": 5096,
+    "mtime_ns": 1794784983602283716
+  },
+  "reports/P10_annual_report/project_resource_inventory.csv": {
+    "size_bytes": 527,
+    "mtime_ns": 1794784983599206924
+  },
+  "reports/P10_annual_report/publication_inventory.csv": {
+    "size_bytes": 5197,
+    "mtime_ns": 1794784983601516962
+  },
+  "reports/P10_annual_report/report.md": {
+    "size_bytes": 15458,
+    "mtime_ns": 1794784722852151155
+  },
+  "reports/P10_annual_report/research_notes/activities.json": {
+    "size_bytes": 20929,
+    "mtime_ns": 1794784409550313472
+  },
+  "reports/P10_annual_report/research_notes/activities.md": {
+    "size_bytes": 13222,
+    "mtime_ns": 1794784485694678068
+  },
+  "reports/P10_annual_report/research_notes/activities_sources.csv": {
+    "size_bytes": 8639,
+    "mtime_ns": 1794784505385867834
+  },
+  "reports/P10_annual_report/research_notes/build_registers.py": {
+    "size_bytes": 13348,
+    "mtime_ns": 1794784983460844755
+  },
+  "reports/P10_annual_report/research_notes/junior_support.md": {
+    "size_bytes": 13393,
+    "mtime_ns": 1794784495677261590
+  },
+  "reports/P10_annual_report/research_notes/junior_support_sources.csv": {
+    "size_bytes": 9108,
+    "mtime_ns": 1794784410973898887
+  },
+  "reports/P10_annual_report/research_notes/publications.md": {
+    "size_bytes": 10534,
+    "mtime_ns": 1794784474548741579
+  },
+  "reports/P10_annual_report/research_notes/publications_sources.csv": {
+    "size_bytes": 7291,
+    "mtime_ns": 1794784458386851310
+  },
+  "reports/P10_annual_report/research_notes/root_sources.csv": {
+    "size_bytes": 5651,
+    "mtime_ns": 1794784405104259967
+  },
+  "reports/P10_annual_report/research_notes/root_sources.py": {
+    "size_bytes": 6083,
+    "mtime_ns": 1794784405065343379
+  },
+  "reports/P10_annual_report/research_notes/roster_support.json": {
+    "size_bytes": 25538,
+    "mtime_ns": 1794784410974431753
+  },
+  "reports/P10_annual_report/research_notes/works.json": {
+    "size_bytes": 6960,
+    "mtime_ns": 1794784474548067092
+  },
+  "reports/P10_annual_report/roster_inventory.csv": {
+    "size_bytes": 11695,
+    "mtime_ns": 1794784983599781036
+  },
+  "reports/P10_annual_report/sources.csv": {
+    "size_bytes": 30383,
+    "mtime_ns": 1794784983596816062
+  },
+  "reports/P10_annual_report/support_inventory.csv": {
+    "size_bytes": 1730,
+    "mtime_ns": 1794784983600525379
+  },
+  "reports/P11_retrospective/anniversary_basis.md": {
+    "size_bytes": 6655,
+    "mtime_ns": 1794784348704806089
+  },
+  "reports/P11_retrospective/bibliography.csv": {
+    "size_bytes": 35062,
+    "mtime_ns": 1794784687493833065
+  },
+  "reports/P11_retrospective/bibliography_books.csv": {
+    "size_bytes": 7808,
+    "mtime_ns": 1794784376808912992
+  },
+  "reports/P11_retrospective/bibliography_featured.csv": {
+    "size_bytes": 8685,
+    "mtime_ns": 1794784378788708448
+  },
+  "reports/P11_retrospective/bibliography_junior.csv": {
+    "size_bytes": 12259,
+    "mtime_ns": 1794784443845669507
+  },
+  "reports/P11_retrospective/build_books.py": {
+    "size_bytes": 13229,
+    "mtime_ns": 1794784376762668371
+  },
+  "reports/P11_retrospective/build_inventory.py": {
+    "size_bytes": 12776,
+    "mtime_ns": 1794784378671743392
+  },
+  "reports/P11_retrospective/cards_draft.md": {
+    "size_bytes": 10763,
+    "mtime_ns": 1794784488811163187
+  },
+  "reports/P11_retrospective/celebration_options.md": {
+    "size_bytes": 10090,
+    "mtime_ns": 1794784348742146492
+  },
+  "reports/P11_retrospective/consolidate.py": {
+    "size_bytes": 5905,
+    "mtime_ns": 1794784681100941181
+  },
+  "reports/P11_retrospective/coverage.md": {
+    "size_bytes": 13707,
+    "mtime_ns": 1794784787142384052
+  },
+  "reports/P11_retrospective/coverage_books.md": {
+    "size_bytes": 6690,
+    "mtime_ns": 1794784488823468923
+  },
+  "reports/P11_retrospective/coverage_junior.md": {
+    "size_bytes": 10714,
+    "mtime_ns": 1794784513032590150
+  },
+  "reports/P11_retrospective/coverage_milestones.md": {
+    "size_bytes": 5868,
+    "mtime_ns": 1794784418008059501
+  },
+  "reports/P11_retrospective/report.md": {
+    "size_bytes": 14472,
+    "mtime_ns": 1794784832463267087
+  },
+  "reports/P11_retrospective/retrospective_closing.md": {
+    "size_bytes": 4273,
+    "mtime_ns": 1794784681136700630
+  },
+  "reports/P11_retrospective/retrospective_draft.md": {
+    "size_bytes": 22480,
+    "mtime_ns": 1794784682654978513
+  },
+  "reports/P11_retrospective/retrospective_opening.md": {
+    "size_bytes": 7916,
+    "mtime_ns": 1794784681064494848
+  },
+  "reports/P11_retrospective/selection.csv": {
+    "size_bytes": 20424,
+    "mtime_ns": 1794784688775531530
+  },
+  "reports/P11_retrospective/sources.csv": {
+    "size_bytes": 27764,
+    "mtime_ns": 1794784695775356531
+  },
+  "reports/P11_retrospective/sources_books.csv": {
+    "size_bytes": 6365,
+    "mtime_ns": 1794784376808326482
+  },
+  "reports/P11_retrospective/sources_featured.csv": {
+    "size_bytes": 7707,
+    "mtime_ns": 1794784378789143800
+  },
+  "reports/P11_retrospective/sources_junior.csv": {
+    "size_bytes": 7888,
+    "mtime_ns": 1794784443850735425
+  },
+  "reports/P11_retrospective/sources_milestones.csv": {
+    "size_bytes": 6110,
+    "mtime_ns": 1794784417937530517
+  },
+  "reports/P11_retrospective/student_research_supplement.csv": {
+    "size_bytes": 2132,
+    "mtime_ns": 1794784513073592901
+  },
+  "reports/P11_retrospective/validation.json": {
+    "size_bytes": 684,
+    "mtime_ns": 1794784847679377794
+  },
+  "reports/P12_community/community_map.md": {
+    "size_bytes": 14519,
+    "mtime_ns": 1794784850227961540
+  },
+  "reports/P12_community/comparator_notes.md": {
+    "size_bytes": 7093,
+    "mtime_ns": 1794784850226954221
+  },
+  "reports/P12_community/comparator_practices.csv": {
+    "size_bytes": 4042,
+    "mtime_ns": 1794784313883682012
+  },
+  "reports/P12_community/comparator_sources.csv": {
+    "size_bytes": 3356,
+    "mtime_ns": 1794784313884048223
+  },
+  "reports/P12_community/coverage.md": {
+    "size_bytes": 17226,
+    "mtime_ns": 1794784850229016065
+  },
+  "reports/P12_community/needs_assessment.md": {
+    "size_bytes": 13535,
+    "mtime_ns": 1794784850229626417
+  },
+  "reports/P12_community/partner_notes.md": {
+    "size_bytes": 11623,
+    "mtime_ns": 1794784850225101947
+  },
+  "reports/P12_community/partner_sources.csv": {
+    "size_bytes": 7750,
+    "mtime_ns": 1794784382439236640
+  },
+  "reports/P12_community/pilot_plan.md": {
+    "size_bytes": 17031,
+    "mtime_ns": 1794784850230314970
+  },
+  "reports/P12_community/report.md": {
+    "size_bytes": 15044,
+    "mtime_ns": 1794784850226262569
+  },
+  "reports/P12_community/sources.csv": {
+    "size_bytes": 23377,
+    "mtime_ns": 1794784483676983118
+  }
+}

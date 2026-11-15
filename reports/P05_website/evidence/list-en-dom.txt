@@ -1,0 +1,37 @@
+- link "FR":
+  - /url: ../fr/liste.html
+- text: "|"
+- link "EN":
+  - /url: "#"
+- link "CHE-Harvard":
+  - /url: https://histecon.fas.harvard.edu/
+- link "CHE-Cambridge":
+  - /url: https://www.histecon.magd.cam.ac.uk/
+- link "Centre for History and Economics":
+  - /url: index.html
+  - img "Centre for History and Economics"
+- navigation:
+  - list:
+    - link "Home":
+      - /url: index.html
+    - link "People":
+      - /url: people.html
+    - link "Publications":
+      - /url: publications.html
+    - link "Projects":
+      - /url: projects.html
+    - link "CHEP Events":
+      - /url: chep_events.html
+    - link "Grants":
+      - /url: https://histecon.fr/en/research_grants.html
+    - link "Announcements archive":
+      - /url: announcements_archive.html
+    - link "Contact Us":
+      - /url: contacts.html
+- paragraph
+- iframe [id="203142381963958"] [name="203142381963958"]
+- paragraph
+- paragraph:
+  - text: Centre for History and Economics
+  - text: Science Po, Paris
+- paragraph: © 2026 Centre for History and Economics

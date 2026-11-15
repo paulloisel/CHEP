@@ -1,0 +1,40 @@
+person_id,name,inclusion_category,Paris_connection,connection_dates,evidence_status,source_ids,as_of_date
+P02-P001,Anatole Le Bras,core: former fellow; research associate,Listed as Research Associate / Chercheur associé on CHEP directories,conflicting: past fellows says 2021–2023; home says since 2023; associate dates unknown,conflicting,P02-SR001;P02-SR002;P02-SR004;P02-SR012;P02-SR013,2026-11-15
+P02-P002,Nicolas Delalande,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P003,Guillaume Daudin,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P004,Marion Fontaine,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P005,Roberto Galbiati,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P006,Elsa Génard,core: former fellow; research associate,Listed as Research Associate / Chercheur associé on CHEP directories,fellow 2021–2022; associate dates unknown,verified,P02-SR001;P02-SR002;P02-SR004,2026-11-15
+P02-P007,Joseph la Hausse de Lalouvière,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P008,Claire Lemercier,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P009,Mélanie Lamotte,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P010,Thomas Lauvaux,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P011,Jonathan Levy,core: coordinator; research associate,Coordinator; also research associate,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002;P02-SR008;P02-SR010,2026-11-15
+P02-P012,Mary Lewis,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P013,Eric Monnet,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P014,Cheyenne Olivier,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P015,Kevin O’Rourke,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P016,M’hamed Oualdi,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P017,Giacomo Parrinello,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P018,Gareth Stedman Jones,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P019,Francesca Trivellato,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P020,Alexia Yates,core: research associate,Listed as Research Associate / Chercheur associé on CHEP directories,date_unknown; listed in retrieved current-directory state,verified,P02-SR001;P02-SR002,2026-11-15
+P02-P021,Jessica Balguy,core: research fellow,CHEP fellow; host postdoctoral researcher,date_unknown; current in retrieved page,verified,P02-SR003;P02-SR010,2026-11-15
+P02-P022,Liane Hewitt,core: former research fellow,CHEP past fellow,2024–2025,verified,P02-SR004,2026-11-15
+P02-P023,Joan Chaker,core: postdoctoral researcher,Listed in host CHEP research community; not on retrieved CHEP current fellows page,date_unknown,verified,P02-SR010,2026-11-15
+P02-P024,Francesco Giosuè,core: research student / scholarship holder,CHEP research student; host PhD CHEP scholarship holder,2026,verified,P02-SR005;P02-SR010,2026-11-15
+P02-P025,Rébecca Mathiot,core: research student / scholarship holder,CHEP research student; host PhD CHEP scholarship holder,2026,verified,P02-SR005;P02-SR010,2026-11-15
+P02-P026,Giulio Piumelli,core: research student / scholarship holder,CHEP research student; host PhD CHEP scholarship holder,2026,verified,P02-SR005;P02-SR010,2026-11-15
+P02-P027,Aesa Virely,core: research student / scholarship holder,CHEP research student; host PhD CHEP scholarship holder,2026,verified,P02-SR005;P02-SR010,2026-11-15
+P02-P028,Dev Patel,core: historical visiting graduate student,CHEP visiting graduate student,2021–2022,verified,P02-SR006,2026-11-15
+P02-P029,Emma Prevignano,core: historical visiting graduate student,CHEP visiting graduate student,2021–2022,verified,P02-SR006,2026-11-15
+P02-P030,Chiara Cordelli,core: senior research fellow / visitor,CHEP visitor page specifies Senior Research Fellow,2025–2027,verified,P02-SR007,2026-11-15
+P02-P031,Jingyi Huang,core: EHP-CHEP fellow,CHEP archive identifies EHP-CHEP fellow; precise Paris residence not documented,date_unknown,verified,P02-SR011,2026-11-15
+P02-P032,Ivanna Cherchovych,core: CHEP-supported non-residential fellow,Recipient of CHEP-funded scholars-at-risk fellowship at Center for Urban History in Lviv; no Paris residence inferred,date_unknown,verified,P02-SR011,2026-11-15
+P02-P033,Emma Rothschild,wider: featured participant,Author/editor of CHEP-featured publication; no core affiliation established in accessible roster branches,date_unknown,verified,P02-SR009,2026-11-15
+P02-P034,David Todd,wider: featured participant,Author/editor of CHEP-featured publication; no core affiliation established in accessible roster branches,date_unknown,verified,P02-SR009,2026-11-15
+P02-P035,Pierre François,wider: featured participant,Author/editor of CHEP-featured publication; no core affiliation established in accessible roster branches,date_unknown,verified,P02-SR009,2026-11-15
+P02-P036,Nicolas Barreyre,wider: featured participant,Author/editor of CHEP-featured publication; no core affiliation established in accessible roster branches,date_unknown,verified,P02-SR009,2026-11-15
+P02-P037,Claire Zalc,wider: featured participant,Author/editor of CHEP-featured publication; no core affiliation established in accessible roster branches,date_unknown,verified,P02-SR009,2026-11-15
+P02-P038,Paul-André Rosental,core: scientific council member,Sciences Po institutional profile lists membership of Centre for History and Economics-Paris scientific council,date_unknown; role listed in accessed institutional profile,verified,P02-SR009;P02-SF031,2026-11-15
+P02-P039,Sunil Amrith,wider: featured participant,Author/editor of CHEP-featured publication; no core affiliation established in accessible roster branches,date_unknown,verified,P02-SR009,2026-11-15

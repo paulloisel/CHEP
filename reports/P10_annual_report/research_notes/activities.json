@@ -1,0 +1,488 @@
+{
+  "as_of_date": "2026-11-15",
+  "period_start": "2025-09-01",
+  "period_end": "2026-08-31",
+  "events": [
+    {
+      "item_id": "P10-A001",
+      "start_date": "2026-06-26",
+      "end_date": "2026-06-26",
+      "title": "JCHE / CHEP Workshop",
+      "contributors": "Giacomo Parrinello; Pedro Ramos Pinto; Paul Warde",
+      "CHEP_relationship": "co-organised",
+      "scope": "CHEP_direct",
+      "listing_status": "verified",
+      "held_status": "verified",
+      "evidence_status": "verified",
+      "attribution_status": "inferred",
+      "source_ids": [
+        "P10-S201",
+        "P10-S217"
+      ],
+      "held_evidence": "Retrospective account says participants presented research; formal division of organisational responsibilities and financial support not stated.",
+      "editorial_query": "",
+      "notes": "Retrospective account says participants presented research; formal division of organisational responsibilities and financial support not stated."
+    },
+    {
+      "item_id": "P10-A002",
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-13",
+      "title": "Roundtable on Visualizing Economic Life",
+      "contributors": "Abhijit Banerjee; Emma Rothschild; David Todd",
+      "CHEP_relationship": "centre-organised",
+      "scope": "CHEP_direct",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "inferred",
+      "source_ids": [
+        "P10-S201",
+        "P10-S217"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "Listed among Recent Centre Events; organiser names verified; institutional category inferred; no venue or held account."
+    },
+    {
+      "item_id": "P10-A003",
+      "start_date": "2025-09-16",
+      "end_date": "2025-09-16",
+      "title": "Sous l'ordre colonial, le genre. Bilan et perspectives.",
+      "contributors": "Jessica Balguy",
+      "CHEP_relationship": "centre-supported",
+      "scope": "CHEP_direct",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S202"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "Histoires de la vie économique; programme explicitly acknowledges CHEP support at series level."
+    },
+    {
+      "item_id": "P10-A004",
+      "start_date": "2025-10-14",
+      "end_date": "2025-10-14",
+      "title": "How to Manage the Risk of Climate Change ?",
+      "contributors": "Grace Ballor",
+      "CHEP_relationship": "centre-supported",
+      "scope": "CHEP_direct",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S202"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "Histoires de la vie économique; programme explicitly acknowledges CHEP support at series level."
+    },
+    {
+      "item_id": "P10-A005",
+      "start_date": "2025-11-18",
+      "end_date": "2025-11-18",
+      "title": "L'oeil capitaliste. Musées, commerce et colonisation.",
+      "contributors": "Sophie Cras",
+      "CHEP_relationship": "centre-supported",
+      "scope": "CHEP_direct",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S202"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "Histoires de la vie économique; programme explicitly acknowledges CHEP support at series level."
+    },
+    {
+      "item_id": "P10-A006",
+      "start_date": "2025-12-09",
+      "end_date": "2025-12-09",
+      "title": "Autour de « Le monde confisqué. Essai sur le capitalisme de la finitude. »",
+      "contributors": "Arnaud Orain",
+      "CHEP_relationship": "centre-supported",
+      "scope": "CHEP_direct",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S202"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "Histoires de la vie économique; programme explicitly acknowledges CHEP support at series level."
+    },
+    {
+      "item_id": "P10-A007",
+      "start_date": "2026-01-27",
+      "end_date": "2026-01-27",
+      "title": "When Modernization Backfires: Engineered Forests, Arson, and Class Relations in the Environmental Transformation of the Landes de Gascogne",
+      "contributors": "Lina Skoglund",
+      "CHEP_relationship": "centre-supported",
+      "scope": "CHEP_direct",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S202"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "Histoires de la vie économique; programme explicitly acknowledges CHEP support at series level."
+    },
+    {
+      "item_id": "P10-A008",
+      "start_date": "2026-02-17",
+      "end_date": "2026-02-17",
+      "title": "Deglobalisation in the Interwar Period",
+      "contributors": "Kevin O’Rourke",
+      "CHEP_relationship": "centre-supported",
+      "scope": "CHEP_direct",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S202"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "Histoires de la vie économique; programme explicitly acknowledges CHEP support at series level."
+    },
+    {
+      "item_id": "P10-A009",
+      "start_date": "2026-03-27",
+      "end_date": "2026-03-27",
+      "title": "Autour de L'injustice en héritage. Repenser la transmission du patrimoine",
+      "contributors": "Mélanie Plouviez",
+      "CHEP_relationship": "centre-supported",
+      "scope": "CHEP_direct",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S202"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "Histoires de la vie économique; programme explicitly acknowledges CHEP support at series level."
+    },
+    {
+      "item_id": "P10-A010",
+      "start_date": "2026-04-14",
+      "end_date": "2026-04-14",
+      "title": "Soviet consumer culture before and after the collapse of the USSR",
+      "contributors": "Natalya Chernyshova",
+      "CHEP_relationship": "centre-supported",
+      "scope": "CHEP_direct",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S202"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "Histoires de la vie économique; programme explicitly acknowledges CHEP support at series level."
+    },
+    {
+      "item_id": "P10-A011",
+      "start_date": "2025-11-27",
+      "end_date": "2025-11-28",
+      "title": "Invisible Actors in the Making of International Law (1750–2000)",
+      "contributors": "Clarisse Anceau; Lorenzo Bonomelli; Amina Hassani; Conor Muller; Giovanni Roggia",
+      "CHEP_relationship": "centre-supported",
+      "scope": "CHEP_direct",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S203",
+        "P10-S204",
+        "P10-S205"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "PDF explicitly cofunded by CHEP and School of Research. Index says 26–27 Nov; event page and PDF say 27–28 Nov. Programme versions differ; count one conference, not two days or every paper."
+    },
+    {
+      "item_id": "P10-A012",
+      "start_date": "2025-11-21",
+      "end_date": "2025-11-21",
+      "title": "Bubble Colony: Saint-Domingue and the Debt of France",
+      "contributors": "Malick Ghachem",
+      "CHEP_relationship": "co-organised",
+      "scope": "joint_programme",
+      "listing_status": "verified",
+      "held_status": "verified",
+      "evidence_status": "verified",
+      "attribution_status": "inferred",
+      "source_ids": [
+        "P10-S209",
+        "P10-S210",
+        "P10-S211"
+      ],
+      "held_evidence": "Individual page explicitly states seminar took place. Paris contribution established at shared-series level, not as sole institutional organiser; spending and Paris attendance unknown.",
+      "editorial_query": "",
+      "notes": "Individual page explicitly states seminar took place. Paris contribution established at shared-series level, not as sole institutional organiser; spending and Paris attendance unknown."
+    },
+    {
+      "item_id": "P10-A013",
+      "start_date": "2026-03-11",
+      "end_date": "2026-03-11",
+      "title": "By Flesh and Toil: How Sex, Race, and Labor Shaped the Early French Empire",
+      "contributors": "Mélanie Lamotte",
+      "CHEP_relationship": "co-organised",
+      "scope": "joint_programme",
+      "listing_status": "verified",
+      "held_status": "verified",
+      "evidence_status": "verified",
+      "attribution_status": "inferred",
+      "source_ids": [
+        "P10-S209",
+        "P10-S210",
+        "P10-S212"
+      ],
+      "held_evidence": "Individual page explicitly states seminar took place. Paris contribution established at shared-series level, not as sole institutional organiser; spending and Paris attendance unknown.",
+      "editorial_query": "",
+      "notes": "Individual page explicitly states seminar took place. Paris contribution established at shared-series level, not as sole institutional organiser; spending and Paris attendance unknown."
+    },
+    {
+      "item_id": "P10-A014",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-01",
+      "title": "The Coming Storm",
+      "contributors": "Arne Westad",
+      "CHEP_relationship": "co-organised",
+      "scope": "joint_programme",
+      "listing_status": "verified",
+      "held_status": "verified",
+      "evidence_status": "verified",
+      "attribution_status": "inferred",
+      "source_ids": [
+        "P10-S209",
+        "P10-S210",
+        "P10-S213"
+      ],
+      "held_evidence": "Individual page explicitly states seminar took place. Paris contribution established at shared-series level, not as sole institutional organiser; spending and Paris attendance unknown.",
+      "editorial_query": "",
+      "notes": "Individual page explicitly states seminar took place. Paris contribution established at shared-series level, not as sole institutional organiser; spending and Paris attendance unknown."
+    },
+    {
+      "item_id": "P10-A015",
+      "start_date": "2025-09-19",
+      "end_date": "2025-09-19",
+      "title": "L'histoire environnementale des océans",
+      "contributors": "Emelyn Rude",
+      "CHEP_relationship": "wider-network news",
+      "scope": "wider_network",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S206",
+        "P10-S207"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "La matière du politique. Series-level retrospective says contributions occurred, but does not confirm delivery of each listed session. EHC links series; no explicit CHEP funding/organisation established."
+    },
+    {
+      "item_id": "P10-A016",
+      "start_date": "2025-10-17",
+      "end_date": "2025-10-17",
+      "title": "De la mer aux corps ouvriers : une écologie de l’usure dans l’industrie du saumon en Patagonie chilienne",
+      "contributors": "Natalia Briceno",
+      "CHEP_relationship": "wider-network news",
+      "scope": "wider_network",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S206",
+        "P10-S207"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "La matière du politique. Series-level retrospective says contributions occurred, but does not confirm delivery of each listed session. EHC links series; no explicit CHEP funding/organisation established."
+    },
+    {
+      "item_id": "P10-A017",
+      "start_date": "2025-11-14",
+      "end_date": "2025-11-14",
+      "title": "Sea Level: A History",
+      "contributors": "Wilko Graf von Hardenberg",
+      "CHEP_relationship": "wider-network news",
+      "scope": "wider_network",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S206",
+        "P10-S207"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "La matière du politique. Series-level retrospective says contributions occurred, but does not confirm delivery of each listed session. EHC links series; no explicit CHEP funding/organisation established."
+    },
+    {
+      "item_id": "P10-A018",
+      "start_date": "2025-12-12",
+      "end_date": "2025-12-12",
+      "title": "Dernière frontière. Une histoire environnementale du fond de la mer",
+      "contributors": "Romain Grancher; Solène Rivoal",
+      "CHEP_relationship": "wider-network news",
+      "scope": "wider_network",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S206",
+        "P10-S207"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "La matière du politique. Series-level retrospective says contributions occurred, but does not confirm delivery of each listed session. EHC links series; no explicit CHEP funding/organisation established."
+    },
+    {
+      "item_id": "P10-A019",
+      "start_date": "2026-02-06",
+      "end_date": "2026-02-06",
+      "title": "Unsafe Harbour: A Political Ecology of Postwar of Marseille",
+      "contributors": "Venus Bivar",
+      "CHEP_relationship": "wider-network news",
+      "scope": "wider_network",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S206",
+        "P10-S207"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "La matière du politique. Series-level retrospective says contributions occurred, but does not confirm delivery of each listed session. EHC links series; no explicit CHEP funding/organisation established."
+    },
+    {
+      "item_id": "P10-A020",
+      "start_date": "2026-03-13",
+      "end_date": "2026-03-13",
+      "title": "The International Hydrological Decade",
+      "contributors": "Etienne Benson",
+      "CHEP_relationship": "wider-network news",
+      "scope": "wider_network",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S206",
+        "P10-S207"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "La matière du politique. Series-level retrospective says contributions occurred, but does not confirm delivery of each listed session. EHC links series; no explicit CHEP funding/organisation established."
+    },
+    {
+      "item_id": "P10-A021",
+      "start_date": "2026-04-10",
+      "end_date": "2026-04-10",
+      "title": "Historicizing the Ocean Plastic Pollution Crisis",
+      "contributors": "Elsa Devienne",
+      "CHEP_relationship": "wider-network news",
+      "scope": "wider_network",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S206",
+        "P10-S207"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "La matière du politique. Series-level retrospective says contributions occurred, but does not confirm delivery of each listed session. EHC links series; no explicit CHEP funding/organisation established."
+    },
+    {
+      "item_id": "P10-A022",
+      "start_date": "2026-05-22",
+      "end_date": "2026-05-22",
+      "title": "Écrire et pluraliser l’histoire environnementale tourmentée d’un territoire côtier depuis ses parts immergées : une expérimentation en baie de Douarnenez",
+      "contributors": "Alix Levain",
+      "CHEP_relationship": "wider-network news",
+      "scope": "wider_network",
+      "listing_status": "verified",
+      "held_status": "unverified",
+      "evidence_status": "verified",
+      "attribution_status": "verified",
+      "source_ids": [
+        "P10-S206",
+        "P10-S207"
+      ],
+      "held_evidence": "not_found_publicly",
+      "editorial_query": "Confirm actual delivery and any cancellation or rescheduling; retain dated documentation.",
+      "notes": "La matière du politique. Series-level retrospective says contributions occurred, but does not confirm delivery of each listed session. EHC links series; no explicit CHEP funding/organisation established."
+    }
+  ],
+  "resources": [
+    {
+      "item_id": "P10-P001",
+      "title": "Economic History, Climate, and the Environment",
+      "relationship": "shared programme",
+      "source_ids": [
+        "P10-S207"
+      ],
+      "period_status": "standing programme; dated 2025–26 outputs require item-level evidence",
+      "evidence_status": "verified"
+    },
+    {
+      "item_id": "P10-P002",
+      "title": "Archives Notariales",
+      "relationship": "centre-hosted resource",
+      "source_ids": [
+        "P10-S214",
+        "P10-S215"
+      ],
+      "period_status": "resource introduction May 2021; no verified 2025–26 changes",
+      "evidence_status": "verified"
+    },
+    {
+      "item_id": "P10-P003",
+      "title": "Climate and Capitalism Reading Workshop",
+      "relationship": "centre-based reading group",
+      "source_ids": [
+        "P10-S208",
+        "P10-S216"
+      ],
+      "period_status": "2024–25; excluded from 2025–26 indicators",
+      "evidence_status": "verified"
+    }
+  ],
+  "counts": {
+    "CHEP_direct_listed": 11,
+    "CHEP_direct_held_explicit": 1,
+    "joint_programme_listed": 3,
+    "joint_programme_held_explicit": 3,
+    "core_plus_joint_listed": 14,
+    "core_plus_joint_held_explicit": 4,
+    "core_plus_joint_held_unverified": 10,
+    "wider_network_listed": 8
+  },
+  "counting_rule": "Unique dated occurrences, one multi-day conference; series not counted again; four held have explicit retrospective language; past dates or archives alone not proof of delivery; no attendance or expenditure inferred."
+}

@@ -1,0 +1,86 @@
+Browser tab: 1, Title: "Centre for History and Economics", URL: "https://histecon.fr/en/index.html".
+1 AXWebArea Centre for History and Economics, URL: histecon.fr/en/index.html
+	2 container container
+		3 container mainContent
+			4 container
+				5 link Description: FR, Value: histecon.fr/fr/index.html
+				6 text  | 
+				7 link Description: EN, Value: histecon.fr/en/index.html#
+			8 container
+				9 link Description: CHE-Harvard, Value: histecon.fas.harvard.edu/
+				10 link Description: CHE-Cambridge, Value: histecon.magd.cam.ac.uk/
+			11 link Description: Centre for History and Economics, Value: histecon.fr/en/index.html, ID: logo
+			12 content list topNav
+				13 link Description: Home, Value: histecon.fr/en/index.html
+				14 link Description: People, Value: histecon.fr/en/people.html
+				15 link Description: Publications, Value: histecon.fr/en/publications.html
+				16 link Description: Projects, Value: histecon.fr/en/projects.html
+				17 link Description: CHEP Events, Value: histecon.fr/en/chep_events.html
+				18 link Description: Grants, Value: histecon.fr/en/research_grants.html
+				19 link Description: Announcements archive, Value: histecon.fr/en/announcements_archive.html
+				20 link Description: Contact Us, Value: histecon.fr/en/contacts.html
+		21 container footer
+			22 container leftCol
+				23 heading EVENTS AND ANNOUNCEMENTS, Value: 4
+					24 text EVENTS AND ANNOUNCEMENTS
+				25 text Call for applications - CHEP studentships
+				26 container
+					27 text The Centre for History and Economics in Paris (CHEP) will be awarding a number of research grants to PhD students at Sciences Po in the year 2027. Application deadline  11 December 2026 .
+				28 link Description: Further information and application portal », Value: histecon.fr/en/research_grants.html
+				29 container
+					30 text Histories of economic life
+					31 text Tuesday 17 November, 12h30-14h00.
+					32 text Le retour des inégalités ? Bilan et perspectives historiographiques , with Nicolas Delalande (Sciences Po,CHSP).
+				33 link Description: Further information and registration », Value: sciencespo.fr/histoire/en/research/seminars/seminars-by-focus-area-and-theme/histories-of-economic-life/
+				34 container
+					35 text The Matter of Politics: Histories of Science, Technology, and Environments
+					36 text Friday 4 December, 12h30-14h30.
+					37 text Le verre rend-il transparente ? Lames de microscope et matérialités du travail scientifique féminin (1850-1950)  with Déborah Dubald (DHPS/SAGE, université de Strasbourg).
+				38 link Description: Further information », Value: sciencespo.fr/histoire/en/research/seminars/seminars-by-focus-area-and-theme/the-matter-of-politics/
+			39 container centerCol
+				40 heading WELCOME, Value: 4
+					41 text WELCOME
+				42 container
+					43 text The Centre for History and Economics in Paris (CHEP) is based at the 
+					44 link Description: Sciences Po Centre for History, Value: sciencespo.fr/histoire/en.html
+					45 text . It was established in 2022, the result of a collaboration between Sciences Po and the Cambridge-Harvard Joint Centre for History and Economics that had begun in 2019. CHEP encourages historical research on all aspects of economic life, from a multidisciplinary and international perspective. It regularly convenes workshops and meetings on fundamental issues, including the dialogue between economic and environmental history, the use of legal and digital sources by historians and economists, and the history of economic ideas and experiences.
+				46 container
+					47 text CHEP is delighted to contribute, along with the Cambridge and Harvard Centres, to the new programme “
+					48 link Description: Economic History, Climate, and the Environment, Value: histecon.fas.harvard.edu/ehc/
+					49 text ”.  
+				50 container
+					51 text If you wish to receive news about forthcoming CHEP events, 
+					52 link Description: please subscribe to our email list here, Value: histecon.fr/en/list.html
+					53 text . You can also follow the Cambridge, Harvard and Paris Centres on 
+					54 link Description: Bluesky, Value: bsky.app/profile/historyecon.bsky.social
+					55 text .
+			56 container rightCol
+				57 heading RECENT CENTRE BOOKS, Value: 4
+					58 text RECENT CENTRE BOOKS
+				59 content list recentNewsList
+					60 container
+						61 image
+						62 link Description: Sous les verrous: Une histoire sociale de la prison (France, premier XXe siècle), Value: editions.ehess.fr/ouvrages/ouvrage/sous-les-verrous/
+						63 text Elsa Génard
+					64 container
+						65 image
+						66 link Description: The Real Economy: History and Theory, Value: press.princeton.edu/books/hardcover/9780691252551/the-real-economy
+						67 text Jonathan Levy
+					68 container
+						69 image
+						70 link Description: De proche en proche: Une famille ordinaire dans l'histoire de France, Value: seuil.com/ouvrage/de-proche-en-proche-emma-rothschild/9782021516791
+						71 text Emma Rothschild
+					72 container
+						73 image
+						74 link Description: Aliénés: Une histoire sociale de la folie au XIXe siècle, Value: cnrseditions.fr/catalogue/histoire/alienes/
+						75 text Anatole Le Bras
+					76 link Description: More Centre Books », Value: histecon.fr/en/publications.html
+			77 container gsc-iw-id1
+				78 text field (settable) Description: search, ID: gsc-i-id1
+	79 container copyright
+		80 container
+			81 text Centre for History and Economics
+			82 text Science Po, Paris
+		83 text © 2026 Centre for History and Economics
+
+The focused UI element is 1 AXWebArea Centre for History and Economics, URL: histecon.fr/en/index.html

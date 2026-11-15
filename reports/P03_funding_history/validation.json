@@ -1,0 +1,12 @@
+{
+  "as_of_date": "2026-11-15",
+  "cohort_records": 53,
+  "ledger_records": 74,
+  "component_records": 2,
+  "lead_records": 40,
+  "source_records": 144,
+  "original_source_ids": 162,
+  "coverage_records": 128,
+  "named_CHEP_doctoral_awards": 10,
+  "validation_errors": []
+}

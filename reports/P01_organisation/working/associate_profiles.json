@@ -1,0 +1,319 @@
+{
+  "as_of_date": "2026-11-15",
+  "people": [
+    {
+      "name": "Roberto Galbiati",
+      "institution": "CNRS; Sciences Po Department of Economics / LIEPP; CEPR",
+      "research_themes": "law and economics; political economy; applied microeconomics; cooperation and compliance; legal and political institutions",
+      "profile_url": "https://www.sciencespo.fr/department-economics/researcher/roberto-galbiati.html",
+      "source_ids": [
+        "P01-AS01",
+        "P01-AS02"
+      ],
+      "external_role_exact": "CNRS Research Professor",
+      "notes": "Profile explicitly describes themes; external current listing verified.",
+      "category": "research associate",
+      "evidence_status": "verified",
+      "current_status": "listed on current CHEP associates page; external role caveats in notes"
+    },
+    {
+      "name": "Joseph la Hausse de Lalouvière",
+      "institution": "University of Edinburgh (CHEP roster and older official profile)",
+      "research_themes": "slavery; citizenship and legal exclusion; French Atlantic and Indian Ocean economic life; Enlightenment thought",
+      "profile_url": "https://www.ed.ac.uk/profile/dr-joseph-la-hausse-de-lalouviere",
+      "source_ids": [
+        "P01-AS01",
+        "P01-AS03"
+      ],
+      "external_role_exact": "British Academy Postdoctoral Fellow",
+      "notes": "Older retrieved official profile published 2025-01-09; current CHEP gives Edinburgh. Newer official profile/staff sources 403; fellowship term 2024–2027 and future lecturer 2027 are unverified leads only. Profile explicitly says co-convened Slavery and French Economic Life through CHEP.",
+      "category": "research associate",
+      "evidence_status": "verified",
+      "current_status": "listed on current CHEP associates page; external role caveats in notes"
+    },
+    {
+      "name": "Mélanie Lamotte",
+      "source_name_variant": "Mélanie Aimée Marie Lamotte",
+      "institution": "Duke University",
+      "research_themes": "early modern race; colonialism and slavery; French colonial world; Atlantic and Indian Ocean histories",
+      "profile_url": "https://scholars.duke.edu/person/melanie.lamotte",
+      "source_ids": [
+        "P01-AS01",
+        "P01-AS04"
+      ],
+      "external_role_exact": "Assistant Professor of History",
+      "external_role_dates": "2024–present",
+      "notes": "Current appointment start year explicit in Duke profile.",
+      "category": "research associate",
+      "evidence_status": "verified",
+      "current_status": "listed on current CHEP associates page; external role caveats in notes"
+    },
+    {
+      "name": "Thomas Lauvaux",
+      "institution": "Reims (CHEP roster); external current title unverified",
+      "research_themes": "urban greenhouse-gas emissions measurement; evaluation of city climate plans (documented CIUDAD research, 2021)",
+      "profile_url": "https://www.cefe.cnrs.fr/fr/recherche/ef/forecast/832-v/3657-lauvaux-thomas",
+      "source_ids": [
+        "P01-AS01",
+        "P01-AS15"
+      ],
+      "external_role_exact": "not_found_publicly_in_retrieved_profile_corpus",
+      "notes": "CHEP-linked CEFE profile failed; Reims official directory and 2025 CNRS press release failed. Do not interpret older LSCE affiliation as current. Search leads say Professeur at Reims but not promoted to verified.",
+      "category": "research associate",
+      "evidence_status": "verified",
+      "current_status": "listed on current CHEP associates page; external role caveats in notes"
+    },
+    {
+      "name": "Mary Lewis",
+      "institution": "Harvard University",
+      "research_themes": "immigrant rights; modern French history; French colonial rule in North Africa and Caribbean; decolonisation; slavery and economic networks",
+      "profile_url": "https://history.fas.harvard.edu/people/mary-lewis",
+      "source_ids": [
+        "P01-AS01",
+        "P01-AS06"
+      ],
+      "external_role_exact": "Robert Walton Goelet Professor of French History",
+      "notes": "Current official profile; research descriptions read, not derived solely from titles.",
+      "category": "research associate",
+      "evidence_status": "verified",
+      "current_status": "listed on current CHEP associates page; external role caveats in notes"
+    },
+    {
+      "name": "Cheyenne Olivier",
+      "institution": "University of Tours (CHEP profile)",
+      "research_themes": "illustration and textile art on social, economic and historical issues; poverty",
+      "profile_url": "https://histecon.fr/en/Cheyenne_Olivier.html",
+      "source_ids": [
+        "P01-AS01",
+        "P01-AS07"
+      ],
+      "external_role_exact": "PhD student",
+      "notes": "CHEP profile explicitly describes Tours status and creative practice; external InTRu link returns bot check. Current degree status independently unverified.",
+      "category": "research associate",
+      "evidence_status": "verified",
+      "current_status": "listed on current CHEP associates page; external role caveats in notes"
+    },
+    {
+      "name": "Kevin O'Rourke",
+      "source_name_variant": "Kevin Hjortshøj O’Rourke",
+      "institution": "CNRS; Sciences Po Department of Economics; CEPR",
+      "research_themes": "international economics; economic history",
+      "profile_url": "https://www.sciencespo.fr/recherche/fr/annuaire/o-rourke-kevin/",
+      "source_ids": [
+        "P01-AS01",
+        "P01-AS08",
+        "P01-AS10"
+      ],
+      "external_role_exact": "Directeur de recherche CNRS",
+      "notes": "Official Sciences Po role and themes verified; personal site corroborates affiliation.",
+      "category": "research associate",
+      "evidence_status": "verified",
+      "current_status": "listed on current CHEP associates page; external role caveats in notes"
+    },
+    {
+      "name": "Gareth Stedman Jones",
+      "institution": "Queen Mary University of London",
+      "research_themes": "British and European political thought from French Revolution to First World War; poverty and social security; utopian socialism; Marx",
+      "profile_url": "https://www.qmul.ac.uk/history/people/emeritus-academic-staff/profiles/stedmanjonesgareth.html",
+      "source_ids": [
+        "P01-AS01",
+        "P01-AS09"
+      ],
+      "external_role_exact": "Professor of the History of Ideas",
+      "notes": "Profile is under emeritus-academic-staff, but heading retains Professor. Historical themes supported; old current book-project wording not treated as current. Cambridge director status not asserted from this source.",
+      "category": "research associate",
+      "evidence_status": "verified",
+      "current_status": "listed on current CHEP associates page; external role caveats in notes"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "P01-AS01",
+      "url": "https://histecon.fr/en/research_associates.html",
+      "title": "Research associates",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "Eight selected associates formal roster membership; source institution labels",
+      "retrieval_status": "retrieved; tool says crawled today"
+    },
+    {
+      "source_id": "P01-AS02",
+      "url": "https://www.sciencespo.fr/department-economics/researcher/roberto-galbiati.html",
+      "title": "Roberto Galbiati",
+      "publisher_or_owner": "Sciences Po Department of Economics",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "CNRS Research Professor; Department Economics, LIEPP, CEPR; law/economics, political economy, applied microeconomics",
+      "retrieval_status": "retrieved; tool says crawled last week"
+    },
+    {
+      "source_id": "P01-AS03",
+      "url": "https://www.ed.ac.uk/profile/dr-joseph-la-hausse-de-lalouviere",
+      "title": "Dr Joseph La Hausse de Lalouvière",
+      "publisher_or_owner": "University of Edinburgh",
+      "source_date": "2025-01-09",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "British Academy Postdoctoral Fellow; slavery/law/economic life in French Atlantic and Indian Ocean; co-convened Slavery and French Economic Life through CHEP",
+      "retrieval_status": "retrieved older indexed profile; tool says crawled 1.7 years ago"
+    },
+    {
+      "source_id": "P01-AS04",
+      "url": "https://scholars.duke.edu/person/melanie.lamotte",
+      "title": "Mélanie Aimée Marie Lamotte",
+      "publisher_or_owner": "Duke University",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "Assistant Professor History 2024–present; early modern race, colonialism, slavery and French colonial world",
+      "retrieval_status": "retrieved; tool says crawled last week"
+    },
+    {
+      "source_id": "P01-AS05",
+      "url": "https://www.cefe.cnrs.fr/fr/recherche/ef/forecast/832-v/3657-lauvaux-thomas",
+      "title": "Thomas Lauvaux linked profile (retrieval attempt)",
+      "publisher_or_owner": "CNRS CEFE",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "no body available",
+      "retrieval_status": "failed fetching"
+    },
+    {
+      "source_id": "P01-AS06",
+      "url": "https://history.fas.harvard.edu/people/mary-lewis",
+      "title": "Mary Lewis",
+      "publisher_or_owner": "Harvard Department of History",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "Robert Walton Goelet Professor of French History; immigrant rights, colonialism North Africa/Caribbean, decolonisation and slave-labour economies",
+      "retrieval_status": "retrieved; tool says crawled last week"
+    },
+    {
+      "source_id": "P01-AS07",
+      "url": "https://histecon.fr/en/Cheyenne_Olivier.html",
+      "title": "Cheyenne Olivier",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "Tours PhD student; textile artist/illustrator; social/economic/historical issues; poverty picturebooks; collaboration with Banerjee",
+      "retrieval_status": "retrieved; tool says crawled last month"
+    },
+    {
+      "source_id": "P01-AS08",
+      "url": "https://kevinhorourke.com/",
+      "title": "Kevin Hjortshøj O’Rourke",
+      "publisher_or_owner": "Kevin O’Rourke personal website linked by CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "CNRS and Sciences Po Paris; CEPR",
+      "retrieval_status": "retrieved; tool says crawled yesterday"
+    },
+    {
+      "source_id": "P01-AS09",
+      "url": "https://www.qmul.ac.uk/history/people/emeritus-academic-staff/profiles/stedmanjonesgareth.html",
+      "title": "Professor Gareth Stedman Jones",
+      "publisher_or_owner": "Queen Mary University of London",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "Professor of History of Ideas; British and European political thought, French Revolution to WWI; directory path is emeritus academic staff; no CHE Cambridge director claim on inspected body",
+      "retrieval_status": "retrieved; tool says crawled yesterday; biography has stale current-project wording so no inference about current projects"
+    },
+    {
+      "source_id": "P01-AS10",
+      "url": "https://www.sciencespo.fr/recherche/fr/annuaire/o-rourke-kevin/",
+      "title": "Kevin Hjortshøj O’Rourke",
+      "publisher_or_owner": "Sciences Po Recherche",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "Directeur de recherche CNRS; economics department; Économie internationale, Histoire économique",
+      "retrieval_status": "retrieved; tool says crawled last month"
+    },
+    {
+      "source_id": "P01-AS11",
+      "url": "https://intru.hypotheses.org/les-chercheurs-2/cheyenne-olivier",
+      "title": "Cheyenne Olivier linked InTRu profile (retrieval attempt)",
+      "publisher_or_owner": "InTRu/OpenEdition",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "no profile content retrieved",
+      "retrieval_status": "Anubis bot-check interstitial; no bypass attempted"
+    },
+    {
+      "source_id": "P01-AS12",
+      "url": "https://edwebprofiles.ed.ac.uk/node/154073",
+      "title": "Dr Joseph La Hausse de Lalouvière alternate profile (retrieval attempt)",
+      "publisher_or_owner": "University of Edinburgh",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "newer search lead says BA fellow and future 2027 lecturer; cannot verify underlying body",
+      "retrieval_status": "403; search snippet only, not used as verified role evidence"
+    },
+    {
+      "source_id": "P01-AS13",
+      "url": "https://hca.ed.ac.uk/about-us/about-our-staff/academic-staff-in-history",
+      "title": "Academic staff in History (retrieval attempt)",
+      "publisher_or_owner": "University of Edinburgh",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "search lead corroborates BA postdoctoral fellow; underlying body unavailable",
+      "retrieval_status": "403; search snippet only"
+    },
+    {
+      "source_id": "P01-AS14",
+      "url": "https://www.univ-reims.fr/trombinoscope-pages-personnelles/trombinoscope-et-pages-personnelles%2C9560%2C34262.html",
+      "title": "Trombinoscope et pages personnelles (retrieval attempt)",
+      "publisher_or_owner": "Université de Reims Champagne-Ardenne, GSMA",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "search lead lists Thomas Lauvaux Professeur; underlying body unavailable",
+      "retrieval_status": "502; minisite_56 alias cache miss; search lead only"
+    },
+    {
+      "source_id": "P01-AS15",
+      "url": "https://www.insu.cnrs.fr/fr/L-INSU-et-les-ODD",
+      "title": "Comment l’INSU contribue aux objectifs de développement durable",
+      "publisher_or_owner": "CNRS Terre & Univers",
+      "source_date": "2021-09-28",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "Named co-researcher on CIUDAD: measurement of urban greenhouse emissions to evaluate climate plans; historical research theme, not current institution",
+      "retrieval_status": "retrieved body; tool says crawled 5 months ago"
+    },
+    {
+      "source_id": "P01-AS16",
+      "url": "https://hca.ed.ac.uk/history/research/research-projects/removal-of-citizens-rights-in-france",
+      "title": "The Removal of Citizens’ Rights in France and the French Empire, 1789–1914 (retrieval attempt)",
+      "publisher_or_owner": "University of Edinburgh",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "BA fellowship 2024–2027 is search lead only",
+      "retrieval_status": "403; not used as verified dates"
+    },
+    {
+      "source_id": "P01-AS17",
+      "url": "https://www.cnrs.fr/sites/default/files/press_info/2025-05/2025_05_28_CP_Climat%20Paris%20OEDI%20vdef%20%28002%29.pdf",
+      "title": "Objectifs climatiques de Paris: une cartographie précise des inégalités et les leviers d’action en région parisienne (retrieval attempt)",
+      "publisher_or_owner": "CNRS",
+      "source_date": "2025-05-28",
+      "accessed_at": "2026-11-15",
+      "source_type": "official profile or research page",
+      "supports": "search lead names Lauvaux professor Reims, climate modelling; underlying PDF unavailable",
+      "retrieval_status": "503; not used as verified current institution"
+    }
+  ],
+  "coverage": "All eight requested associates checked; no added membership claims beyond CHEP roster. External institutions verified where body obtained; older profiles and failed sources expressly labelled."
+}

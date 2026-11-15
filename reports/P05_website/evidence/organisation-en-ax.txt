@@ -1,0 +1,57 @@
+Browser tab: 1, Title: "Joint Centre for History and Economics:: Paris", URL: "https://histecon.fr/en/organisation.html".
+1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/en/organisation.html
+	2 container container
+		3 container mainContent
+			4 container
+				5 link Description: FR, Value: histecon.fr/fr/organisation.html
+				6 text  | 
+				7 link Description: EN, Value: histecon.fr/en/organisation.html#
+			8 container
+				9 link Description: CHE-Harvard, Value: histecon.fas.harvard.edu/
+				10 link Description: CHE-Cambridge, Value: histecon.magd.cam.ac.uk/
+			11 link Description: Centre for History and Economics, Value: histecon.fr/en/index.html, ID: logo
+			12 content list topNav
+				13 container
+					14 link Description: Home, Value: histecon.fr/en/index.html
+				15 container
+					16 link Description: People, Value: histecon.fr/en/people.html
+				17 container
+					18 link Description: Publications, Value: histecon.fr/en/publications.html
+				19 container
+					20 link Description: Projects, Value: histecon.fr/en/projects.html
+				21 container
+					22 link Description: CHEP Events, Value: histecon.fr/en/chep_events.html
+				23 container
+					24 link Description: Grants, Value: histecon.fr/en/research_grants.html
+				25 container
+					26 link Description: Announcements archive, Value: histecon.fr/en/announcements_archive.html
+				27 container
+					28 link Description: Contact Us, Value: histecon.fr/en/contacts.html
+		29 container mainpage
+			30 heading ORGANISATION, Value: 4
+				31 text ORGANISATION
+			32 container
+				33 container Jonathan Levy COORDINATOR Professor at the Sciences Po Centre for History
+					34 container
+						35 link Description: Jonathan Levy, Value: sciencespo.fr/histoire/en/directory/levy-jonathan/
+						36 text COORDINATOR
+						37 text Professor at the
+						38 text Sciences Po Centre for History
+				39 container Mary-Rose Cheadle Coordination with CHE-Cambridge and CHE-Harvard kmrc2@cam.ac.uk
+					40 container
+						41 text Mary-Rose Cheadle
+						42 text Coordination with CHE-Cambridge
+						43 text and CHE-Harvard
+						44 link Description: kmrc2@cam.ac.uk, Value: mailto:kmrc2@cam.ac.uk
+				45 container Amy Price Web architect amp32@cam.ac.uk
+					46 container
+						47 text Amy Price
+						48 text Web architect
+						49 link Description: amp32@cam.ac.uk, Value: mailto:amp32@cam.ac.uk
+	50 container copyright
+		51 container
+			52 text Centre for History and Economics
+			53 text Science Po, Paris
+		54 text © 2026 Centre for History and Economics
+
+The focused UI element is 1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/en/organisation.html

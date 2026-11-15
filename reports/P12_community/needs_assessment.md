@@ -1,0 +1,67 @@
+# P12 — Needs assessment and pilot learning plan
+
+**as_of_date: 2026-11-15 · Draft for later institutional review; not distributed.**
+
+This instrument tests whether the proposed twelve-week programme would help people enter existing scholarly activities and exchange useful feedback. It does not presume a lack of community, dissatisfaction with CHEP, or demand for more events. All questions, measures, thresholds, retention periods and workload figures below are **proposed design choices**, not research findings or established CHEP policies. No responses have been collected; demand, attendance, participant satisfaction and available staff capacity remain `unverified`.
+
+The three connected activities under consideration are: a welcome and entry guide; three sixty-minute peer sessions linked to existing seminar or reading provision; and bounded, optional follow-up connections with a short resource note. Existing activities should absorb the peer format wherever the relevant convenor considers it useful.
+
+## Six neutral questions
+
+Introductory text for a future form: “We are considering a small trial to help researchers and students find relevant activities and exchange practical feedback. We would like to understand what already works and whether anything further would be useful. The trial may be changed or not run. Participation in this form is optional, every question can be skipped, and answers will not affect access to activities or funding. Please avoid naming other people or sharing confidential research.” Target completion time: three to four minutes; answer in French or English.
+
+1. **Which opportunities for discussing research or getting practical help do you currently use, if any?** Select all that apply: CHEP activities; other Sciences Po activities; another institution or scholarly network; informal exchanges; none at present; prefer not to say. Optional short text: what works well about those opportunities. Names of individuals are unnecessary.
+
+2. **During the next three months, which forms of support, if any, would be useful to you?** Select up to two: finding an existing seminar or group; feedback on a short research question or draft; discussing a source or method; finding someone interested in a related topic; understanding a funding call or research resource; none; unsure. Optional short text for something not listed. “None” is a valid outcome, not a failed response.
+
+3. **How easy or difficult is it to work out how to join activities relevant to your research?** Very easy; somewhat easy; neither easy nor difficult; somewhat difficult; very difficult; I have not tried; not applicable. Optional short text for helpful information or something unclear, without identifying individuals.
+
+4. **Which arrangement, if any, would fit your circumstances?** A short discussion attached to an existing activity; a separate sixty-minute session; a written exchange without a meeting; none of these; unsure. Optional short text for available days or time windows. These preferences do not constitute a registration or an attendance commitment.
+
+5. **What would make participation workable for you, if you wished to take part?** Select any: French discussion; English discussion; either language; a short advance summary; accessible digital materials; in-person participation; online participation; an optional private conversation about access arrangements; no particular change; unsure. Do not request diagnoses, nationality, or explanations of personal circumstances. An access preference is not a promise that every format can be provided.
+
+6. **What would make a small trial worthwhile for you, and what, if anything, would you prefer it to avoid?** Optional short text. Examples may include a concrete research step, a useful source, or keeping existing activities sufficient; do not imply that a new activity is the desired answer.
+
+## Optional conversation guide
+
+Offer a ten-minute conversation as an alternative to the form, not an additional obligation. Use the same six topics, beginning with existing helpful provision, then one concrete recent research task, the information needed to enter an activity, and practical preferences. Leave time for the participant to correct the summary. Record only an agreed, non-identifying summary of the need or of the view that no change is needed. Do not record audio or ask a supervisor to identify supposedly disengaged students. Stop after three conversations in the pilot preparation period unless the student workload allocation is explicitly revised.
+
+If later authorised, invite voluntary responses through the relevant existing institutional route and make clear that newcomers and non-participants may reply. Do not scrape mailing lists, infer affiliations from public names, or treat silence as consent or lack of interest. The coordinator should note which routes were used so the final interpretation can acknowledge whose views may be missing. This document authorises no invitation or distribution.
+
+## Minimal information, useful measures
+
+Use a simple institution-approved form or paper slips. Avoid collecting names, email addresses, demographic attributes, exact degree stage, IP analytics, or persistent respondent codes in the assessment dataset. Disable automatic collection of sign-in information where the chosen platform permits it. If the institution requires identified forms, offer a non-identifying alternative and explain the difference before launch. Optional contact or access requests belong in a separate institutional channel, outside the assessment table; introductions occur only after both people agree.
+
+Store only aggregate counts and a few paraphrased themes in the pilot record. The proposed steward is the designated academic or administrative counterpart, with the student handling only the minimum needed for coordination. Keep raw free text only until the week-twelve review plus thirty days, then delete it; retain the aggregate decision note. Check this proposed retention arrangement against the host's actual practice before collection. Remove material about third parties and do not publish quotations without separate permission. Avoid subgroup breakdowns for this small pilot, even if participants volunteer their roles.
+
+| Measure ID | Definition and collection | Interpretation and limit |
+|---|---|---|
+| P12-M01 | Count responses to each of the six questions separately; report each item's denominator and skipped responses. | A convenience sample describes respondents, not the whole CHEP community. Do not invent a response rate without a known invitation denominator. |
+| P12-M02 | Facilitator records a session headcount, excluding organisers. At sessions two and three, participants may anonymously mark “attended an earlier pilot session / first pilot session / prefer not to say”. | Report returning marks divided by answers to this item for each session. This measures repeat attendance without a named longitudinal register. Do not add session headcounts to claim unique participants. |
+| P12-M03 | An optional exit slip marks “received an actionable suggestion / offered one / neither / prefer not to say”; multiple selections allowed. | Report counts and the number of slips returned. A received suggestion must apply to the respondent’s own research question or next step; listening alone does not count. It may arise in a paired exchange or from discussion of another draft. Facilitator may tally completed feedback exchanges but should not rate people or keep draft contents. |
+| P12-M04 | At sessions two and three, an optional anonymous mark records whether a research conversation from an earlier session continued: yes / no / no earlier session / prefer not to say. | Report yes among yes/no answers, with the denominator. This is self-report, not proof of a collaboration or research output. |
+| P12-M05 | Student logs weekly task time by activity; counterpart records support time separately. Record unplanned expenditure as unknown until evidenced. | Compare with the five-hour weekly planning envelope. Participation and academic labour are not free merely because the cash scenario is EUR 0. |
+| P12-M06 | Student records the number of welcome-page corrections resolved and unresolved; week-twelve note summarises access issues voluntarily raised. | No click tracking or individual “engagement” score. A corrected route is a service improvement, not evidence of satisfaction. |
+
+## How responses change the trial
+
+| Finding from assessment | Proposed response |
+|---|---|
+| Existing groups already provide the requested feedback. | Offer the welcome guide and, if wanted by the convenor, a newcomer introduction or rotating discussant within that group. Drop the separate session proposal. |
+| Entry information is unclear but another meeting is unwanted. | Prioritise access instructions and a small set of maintained links; do not use survey interest in information to justify events. |
+| Respondents prefer written feedback or lack a common time. | Replace a planned meeting with one bounded written exchange, rather than add a fourth activity. Check that the presenter wants this and that the academic counterpart can support it. |
+| Language or access preferences cannot be met within available support. | Change timing, language arrangements, materials or format before inviting participants; defer the affected session if the required support remains unavailable. |
+| Funding help is requested. | Point to verified eligibility and responsible institutional support; do not promise access to a grant or create an unstaffed advisory service. |
+| Few responses arrive, or responses conflict. | Describe the evidence as insufficient; use up to three optional conversations and test one limited change. Do not interpret nonresponse as satisfaction or rejection. |
+
+## Proposed decision rules
+
+These thresholds are modest **planning judgments**, not validated benchmarks. Review them with the academic counterpart before launch, then keep the agreed version fixed for the trial.
+
+- **Week two: support gate, before outreach.** Confirm an academic sponsor, a usable room or approved platform, and a route to establish clear audience access rules. If no sponsor accepts the scope, stop after handing over the drafts. Prepare the instrument and welcome note; do not collect interest yet.
+- **Week three: launch gate.** After sponsor authorisation, collect voluntary needs responses and expressions of interest. Proceed with the first peer session only when the academic convenor, venue/platform and access rules are confirmed, at least four people express interest, and at least one participant is willing to share a short question, source or draft. Before each session, reconfirm at least four participants including a contributor, as specified in the pilot plan. Otherwise retain the welcome guide, make one bounded attempt to understand preferences, and defer sessions. An expression of interest or confirmation is not actual attendance.
+- **After the first session: adapt gate.** If fewer than four non-organisers attend, fewer than three exit slips are returned, or fewer than two respondents report receiving an actionable suggestion, treat the result as a reason to review format, timing and recruitment—not proof that the idea failed. Permit one adaptation within the existing hours. If the next session still lacks four participants or reports of receiving actionable feedback from at least two respondents, stop further sessions and preserve only any useful entry information.
+- **At week twelve: continuation gate.** Recommend continuation only if academic support remains available, actual student time averages at most five hours per week, at least two answers in **each** of sessions two and three indicate attendance at an earlier pilot session, and at least two respondents in **each** of those sessions report receiving an actionable suggestion. The returning answers are session-level observations: the same two people may contribute both times, so do not report them as four unique returning participants. Continued conversations strengthen the case but are not mandatory. Report all denominators and any nonresponse; if these minimum observations are unavailable, recommend a smaller retest or pause rather than claim success.
+- **Immediate support gate.** Pause session delivery if the convenor or suitable venue/platform becomes unavailable. If time repeatedly exceeds five hours, remove an activity or reduce frequency before continuing; do not transfer hidden labour to the student. Do not incur cash costs without a confirmed budget decision.
+
+**Workload allocation:** reserve an estimated four student hours within activity P12-A03 of the overall pilot, not in addition to it: **one setup hour** to configure and review the instrument, plus **three recurring hours** comprising one hour for up to three short conversations and aggregate intake coding, one hour across session tallies and exit slips, and one hour for the final decision note. These are included within A03’s three setup hours and eleven recurring hours; the rest covers the bounded follow-up process. Existing institutional channels and a simple form are assumed; cash estimate EUR 0 only if those resources are available. Academic review and any accessibility support are separate dependencies. The companion pilot plan incorporates this allocation within its existing weekly totals; the assessment creates no extra activity or hours.

@@ -1,0 +1,145 @@
+Browser tab: 1, Title: "Joint Centre for History and Economics:: Paris", URL: "https://histecon.fr/en/events_recent.html".
+1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/en/events_recent.html
+	2 container container
+		3 container mainContent
+			4 container
+				5 link Description: FR, Value: histecon.fr/fr/evenement_recents.html
+				6 text  | 
+				7 link Description: EN, Value: histecon.fr/en/events_recent.html#
+			8 container
+				9 link Description: CHE-Harvard, Value: histecon.fas.harvard.edu/
+				10 link Description: CHE-Cambridge, Value: histecon.magd.cam.ac.uk/
+			11 link Description: Centre for History and Economics, Value: histecon.fr/en/index.html, ID: logo
+			12 content list topNav
+				13 container
+					14 link Description: Home, Value: histecon.fr/en/index.html
+				15 container
+					16 link Description: People, Value: histecon.fr/en/people.html
+				17 container
+					18 link Description: Publications, Value: histecon.fr/en/publications.html
+				19 container
+					20 link Description: Projects, Value: histecon.fr/en/projects.html
+				21 container
+					22 link Description: CHEP Events, Value: histecon.fr/en/chep_events.html
+				23 container
+					24 link Description: Grants, Value: histecon.fr/en/research_grants.html
+				25 container
+					26 link Description: Announcements archive, Value: histecon.fr/en/announcements_archive.html
+				27 container
+					28 link Description: Contact Us, Value: histecon.fr/en/contacts.html
+		29 container mainpage
+			30 heading RECENT CENTRE EVENTS, Value: 4
+				31 text RECENT CENTRE EVENTS
+			32 container
+				33 text State and Capital: Old Problems, New Trajectories
+				34 text 6-7 July 2026
+				35 text The relationship between the state and capital is neither fixed nor neutral, but has been continuously renegotiated through historical conflict, crisis, and compromise. From the mercantilist era's direct fusion of sovereign power and commercial interest, through the putative liberal separation of the state from market forces, to the Keynesian welfare state's active management of aggregate demand, each epoch has produced a distinct institutional settlement between political authority and capital accumulation. Central to this evolution is the contested terrain of monetary policy: decisions over interest rates, currency regimes, and credit allocation are never merely technical, but encode distributional choices between creditors and debtors, finance capital and productive industry. The post-2008 turn toward quantitative easing, and more recently the "derisking" paradigm - in which states strategically mobilize public finance to crowd in private investment in priority sectors - marks a further mutation, blurring the public-private boundary while raising renewed questions about statecraft in the service of accumulation. These transformations often reflect the underlying imperative of maintaining conditions for capital valorization: the state absorbs systemic risk, disciplines labor, and underwrites investment, yet remains a contested terrain in which class forces contest its orientation and priorities. The aim of the conference was to address these and other aspects of the relation between state and capital from an historical, economic and philosophical perspective.
+				36 text Organised by the Center for History and Economics in Paris, and the Centre for History and Centre for Political Research at Sciences Po.
+				37 link Description: JCHE / CHEP Workshop, Value: histecon.magd.cam.ac.uk/JCHE_CHEP_Workshop/index.html
+				38 text 26 June 2026
+				39 text A one-day workshop, convened by Giacomo Parrinello, Pedro Ramos Pinto and Paul Warde, brought together members of the Joint Centre for History and Economics at Cambridge and Paris and associated scholars at Sciences Po. Participants presented their research, and future collaborations were discussed. This was the second in a series of workshops, the first was held in 
+				40 link Description: Paris in June 2025, Value: histecon.magd.cam.ac.uk/new_paths/
+				41 text .
+				42 text Roundtable on Visualizing Economic Life
+				43 text 13 June 2026
+				44 text Organised by Abhijit Banerjee, Emma Rothschild and David Todd
+				45 link Description: Climate and Capitalism Reading Workshop, Value: histecon.fr/climate_capitalism/index.html
+				46 text Through discussions of readings, this group cultivated dialogues that interrogated past and present links between energy governance, capitalist development, and political power (including the birth of democratic nation-states, the rise and fall of empires, and global governance). The group was anchored in a historical approach to these questions, but it aimed to foster interdisciplinary exchanges. To that end, we welcomed graduate students, postdoctoral researchers, early-career scholars, and professors who work across historical sub-disciplines, the social sciences, law, and policy. We read a balance of classic primary texts as well as new pathbreaking works of scholarship. The reading list evolved collaboratively, according to members' interests.
+				47 link Description: New Paths in Environmental History, Value: histecon.magd.cam.ac.uk/new_paths/
+				48 text 26 June 2025
+				49 text A one-day workshop, convened by Paul Warde and David Todd, brought together members of the Joint Centre for History and Economics at Cambridge and Paris and associated scholars at Sciences Po. Participants discussed their research and future collaborations. This was the first in a series of workshops, the next one will be held in Cambridge in the Summer of 2026.
+				50 container
+					51 link Description: Book Presentation, Value: sciencespo.fr/histoire/en/events/book-presentation-jonathan-levy/
+				52 text 11 April 2025
+				53 link Description: The Real Economy: History & Theory, Value: press.princeton.edu/books/hardcover/9780691252551/the-real-economy
+				54 text  (Princeton University Press, 2025)
+				55 text The author, 
+				56 link Description: Jonathan Levy,, Value: sciencespo.fr/histoire/en/researcher/Jonathan%20Levy/89581.html
+				57 text  was in discussion with 
+				58 link Description: Éric Monnet, Value: parisschoolofeconomics.eu/en/people/eric-monnet/
+				59 text .
+				60 link Description: Belonging, membership, affiliation: new perspectives in social history, Value: histecon.fr/belonging/index.html
+				61 container
+					62 text 18 - 19 September 2023
+					63 text Sciences Po, Campus de Paris
+				64 text This international workshop was the second part of a project initiated in September 2023 at the Center for History and Economics at the University of Cambridge on 
+				65 link Description: new perspectives and current challenges in social history, Value: histecon.magd.cam.ac.uk/social_history/index.html
+				66 text . This first event helped to bring to the fore an issue that is now central to much social history work: the study of 'belonging.' Rogers Brubaker's and Frederick Cooper's proposal ('Beyond Identity', 2000) to disentangle the notion of 'identity,' by distinguishing the logic of identification and forms of belonging, or categories of analysis and categories of practice, is still relevant today. But it has to be said that identification practices - particularly those of states - have been more widely studied than forms of belonging. Returning to this notion seemed to us to be all the more relevant from a scientific point of view, given that political debates remain saturated with questions of identity. Promoting dialogue between national historiographies, this meeting aimed to bring together contributions that propose to reflect on the tools, approaches, and methods used by historians to study the question of belonging in local, national, colonial, or imperial contexts, as diverse as Peru under Spanish domination, Franco's Spain, French prisons in the 20th century, the persecution of Jews in Poland, apprentices in the 19th century, or informal towns in Brazil. What did it mean to 'belong' to a place, a neighborhood, a people, a family, a religion, or a 'race?' How did individuals prove, display, demonstrate, experience, and sometimes conceal or dissimulate their 'belongings' or 'memberships?' How should we observe, measure, interpret, and address these aspects as historians? What theoretical frameworks can historians usefully apply to these issues? What are the contributions and limits of the various methodologies used by social historians (quantitative methods, biographical studies, family history, oral history, etc.)? And what contributions can social historians bring to these debates on identities? This event was supported by the 
+				67 link Description: Joint Centre for History and Economics, Value: histecon.magd.cam.ac.uk/
+				68 text  at Paris, Harvard and Cambridge, and the 
+				69 link Description: ERC Lubartworld, Value: lubartworld.cnrs.fr/en/
+				70 text  (IHMC-CNRS/EHESS) and organized by 
+				71 link Description: Elsa Génard, Value: histecon.fas.harvard.edu/ehppf/Elsa_Genard.html
+				72 text  (Harvard University), 
+				73 link Description: Renaud Morieux, Value: hist.cam.ac.uk/people/prof-renaud-morieux
+				74 text  (University of Cambridge), and 
+				75 link Description: Claire Zalc, Value: ihmc.ens.psl.eu/-ZALC-Claire-.html?lang=fr
+				76 text  (CNRS-EHESS).
+				77 link Description: Emotions, climate, and the environment. Historical perspectives (18th - 21st centuries), Value: histecon.fr/emotions_climate_environment/index.html
+				78 text 24 May 2024
+				79 text 'Solastalgia', 'eco-anxiety', 'eco-grief': in the past two decades, neologisms have flourished to describe how climate change and human-induced environmental damages are giving birth to new emotional states. But the idea that climate can drive us mad or sad is not entirely new. By bringing together environmental history, medical history and the history of emotions, this workshop seeks to historicise our emotional relation to climate and the natural environment. Bringing together scholars from Australia, France, Switzerland, the UK and the US, the workshop tried to map how our emotional perceptions of climate(s), weather and the environment evolved from the 18th to the 21st century, and how climatic and natural elements were related to emotions such as fear, anxiety, or pleasure in specific historical, social, and political contexts. It offered the opportunity to study how emotions are shaped by personal experiences, collective representations, medical and lay knowledges. It also identified potential sources for an emotional history of the environment, such as private diaries, weather almanacs, medical treatises, and psychiatric archives. This workshop was organised by 
+				80 link Description: Anatole Le Bras, Value: histecon.fr/emotions_climate_environment/lebras.html
+				81 text . It was funded by the Centre for History and Economics in Paris and hosted by the 
+				82 link Description: Centre d'histoire de Sciences Po, Value: sciencespo.fr/histoire/en.html
+				83 text .
+				84 text Book launch
+				85 container
+					86 text 22 January 2024
+				87 text Introduction of 
+				88 link Description: Anatole Le Bras, Value: sciencespo.fr/histoire/en/researcher/Anatole%20Le%20Bras/76185.html
+				89 text , 
+				90 container
+					91 text Aliénés. Une histoire sociale de la folie au XIX e  siècle
+				92 text  (Paris: CNRS, 2024) by 
+				93 link Description: Arnaud Houte, Value: centrehistoire19esiecle.pantheonsorbonne.fr/arnaud-houte
+				94 text  (Paris 1).
+				95 container
+					96 text 12 December 2023 
+					97 text Historical Mapping of Carbon Emissions in Paris
+				98 text Roundtable discussion organised by 
+				99 link Description: Thomas Lauvaux, Value: cefe.cnrs.fr/fr/recherche/ef/forecast/832-v/3657-lauvaux-thomas
+				100 text  (CNRS / Reims) and 
+				101 link Description: David Todd, Value: sciencespo.fr/histoire/en/researcher/David%20Todd/86025.html
+				102 text  (Sciences Po)
+				103 text 30 June 2023
+				104 text 14h
+				105 text A conversation on economic history, climate and the environment, with 
+				106 link Description: Jacob Moscona, Value: histecon.fas.harvard.edu/ehppf/Jacob_Moscona.html
+				107 text  and 
+				108 link Description: Emma Rothschild, Value: history.fas.harvard.edu/people/emma-rothschild
+				109 text 28 June 2023
+				110 link Description: Inappropriate Technology: Evidence from Global Agriculture, Value: sciencespo.fr/department-economics/en/content/paris-empirical-political-economy-seminar-pepes.html
+				111 link Description: Jacob Moscona, Value: histecon.fas.harvard.edu/ehppf/Jacob_Moscona.html
+				112 text  (Harvard)
+				113 text Seminar, organised jointly with PEPES (Sciences Po /PSE)
+				114 text 27-28 June 2023
+				115 link Description: Histories of Economic Life in and Around the Ottoman World, Value: histecon.fr/ottoman/index.html
+				116 text Workshop organized by Joan Chaker, Salmaan Mirza and David Todd
+				117 container
+					118 text Roundtable on Economic history, climate and the environment
+					119 text 11 July 2022
+				120 text The Centre hosted a discussion around two papers by Emma Rothschild and Paul Warde on the emerging dialogue between the history of economic life and environmental history. The themes addressed included scales of analysis, (ir-)reversibility and the environment of the workplace.
+				121 text 24 February 2021
+				122 text The Centre celebrated the publication of Pierre François and Claire Lemercier’s book, 
+				123 link Description: Sociologie historique du capitalisme, Value: editionsladecouverte.fr/sociologie_historique_du_capitalisme-9782707177841
+				124 text , with comments by Mary O’Sullivan (Geneva).
+				125 text 28 January 2021
+				126 text The Centre celebrated the publication of Emma Rothschild’s book, 
+				127 link Description: An Infinite History : the Story of a Family in France over Three Centuries,, Value: infinitehistory.org/en/index.html
+				128 text  with comments by Claire Lemercier (CSO, Sciences Po) and Paul-André Rosental (CHSP, Sciences Po).
+				129 text 9 December 2020
+				130 text The Centre celebrated the publication of 
+				131 link Description: A World of Public Debts : A Political History,, Value: histecon.magd.cam.ac.uk/public_debts/index.html
+				132 text  edited by Nicolas Barreyre ad Nicolas Delalande, with comments by Jeremy Adelman (Princeton) and Odette Lienau (Cornell).
+				133 text A Spatial Turn in Economic History?
+				134 text 5 June 2019
+				135 text This CHEP workshop considered the growing interest in spatial approaches to the history of economic life. For more information, see the 
+				136 link Description: workshop report, Value: histecon.fr/en/spatial.html
+				137 text .
+	138 container copyright
+		139 container
+			140 text Centre for History and Economics
+			141 text Science Po, Paris
+		142 text © 2026 Centre for History and Economics
+
+The focused UI element is 1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/en/events_recent.html

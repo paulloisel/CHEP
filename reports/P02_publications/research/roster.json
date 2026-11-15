@@ -1,0 +1,564 @@
+{
+  "as_of_date": "2026-11-15",
+  "cohort": [
+    {
+      "name": "Anatole Le Bras",
+      "inclusion_category": "core: former fellow; research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "conflicting: past fellows says 2021–2023; home says since 2023; associate dates unknown",
+      "evidence_status": "conflicting",
+      "source_ids": "P02-SR001;P02-SR002;P02-SR004;P02-SR012;P02-SR013",
+      "person_id": "P02-PR001"
+    },
+    {
+      "name": "Nicolas Delalande",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR002"
+    },
+    {
+      "name": "Guillaume Daudin",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR003"
+    },
+    {
+      "name": "Marion Fontaine",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR004"
+    },
+    {
+      "name": "Roberto Galbiati",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR005"
+    },
+    {
+      "name": "Elsa Génard",
+      "inclusion_category": "core: former fellow; research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "fellow 2021–2022; associate dates unknown",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002;P02-SR004",
+      "person_id": "P02-PR006"
+    },
+    {
+      "name": "Joseph la Hausse de Lalouvière",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR007"
+    },
+    {
+      "name": "Claire Lemercier",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR008"
+    },
+    {
+      "name": "Mélanie Lamotte",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR009"
+    },
+    {
+      "name": "Thomas Lauvaux",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR010"
+    },
+    {
+      "name": "Jonathan Levy",
+      "inclusion_category": "core: coordinator; research associate",
+      "Paris_connection": "Coordinator; also research associate",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002;P02-SR008;P02-SR010",
+      "person_id": "P02-PR011"
+    },
+    {
+      "name": "Mary Lewis",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR012"
+    },
+    {
+      "name": "Eric Monnet",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR013"
+    },
+    {
+      "name": "Cheyenne Olivier",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR014"
+    },
+    {
+      "name": "Kevin O’Rourke",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR015"
+    },
+    {
+      "name": "M’hamed Oualdi",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR016"
+    },
+    {
+      "name": "Giacomo Parrinello",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR017"
+    },
+    {
+      "name": "Gareth Stedman Jones",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR018"
+    },
+    {
+      "name": "Francesca Trivellato",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR019"
+    },
+    {
+      "name": "Alexia Yates",
+      "inclusion_category": "core: research associate",
+      "Paris_connection": "Listed as Research Associate / Chercheur associé on CHEP directories",
+      "connection_dates": "date_unknown; listed in retrieved current-directory state",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR001;P02-SR002",
+      "person_id": "P02-PR020"
+    },
+    {
+      "name": "Jessica Balguy",
+      "inclusion_category": "core: research fellow",
+      "Paris_connection": "CHEP fellow; host postdoctoral researcher",
+      "connection_dates": "date_unknown; current in retrieved page",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR003;P02-SR010",
+      "person_id": "P02-PR021"
+    },
+    {
+      "name": "Liane Hewitt",
+      "inclusion_category": "core: former research fellow",
+      "Paris_connection": "CHEP past fellow",
+      "connection_dates": "2024–2025",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR004",
+      "person_id": "P02-PR022"
+    },
+    {
+      "name": "Joan Chaker",
+      "inclusion_category": "core: postdoctoral researcher",
+      "Paris_connection": "Listed in host CHEP research community; not on retrieved CHEP current fellows page",
+      "connection_dates": "date_unknown",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR010",
+      "person_id": "P02-PR023"
+    },
+    {
+      "name": "Francesco Giosuè",
+      "inclusion_category": "core: research student / scholarship holder",
+      "Paris_connection": "CHEP research student; host PhD CHEP scholarship holder",
+      "connection_dates": "2026",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR005;P02-SR010",
+      "person_id": "P02-PR024"
+    },
+    {
+      "name": "Rébecca Mathiot",
+      "inclusion_category": "core: research student / scholarship holder",
+      "Paris_connection": "CHEP research student; host PhD CHEP scholarship holder",
+      "connection_dates": "2026",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR005;P02-SR010",
+      "person_id": "P02-PR025"
+    },
+    {
+      "name": "Giulio Piumelli",
+      "inclusion_category": "core: research student / scholarship holder",
+      "Paris_connection": "CHEP research student; host PhD CHEP scholarship holder",
+      "connection_dates": "2026",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR005;P02-SR010",
+      "person_id": "P02-PR026"
+    },
+    {
+      "name": "Aesa Virely",
+      "inclusion_category": "core: research student / scholarship holder",
+      "Paris_connection": "CHEP research student; host PhD CHEP scholarship holder",
+      "connection_dates": "2026",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR005;P02-SR010",
+      "person_id": "P02-PR027"
+    },
+    {
+      "name": "Dev Patel",
+      "inclusion_category": "core: historical visiting graduate student",
+      "Paris_connection": "CHEP visiting graduate student",
+      "connection_dates": "2021–2022",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR006",
+      "person_id": "P02-PR028"
+    },
+    {
+      "name": "Emma Prevignano",
+      "inclusion_category": "core: historical visiting graduate student",
+      "Paris_connection": "CHEP visiting graduate student",
+      "connection_dates": "2021–2022",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR006",
+      "person_id": "P02-PR029"
+    },
+    {
+      "name": "Chiara Cordelli",
+      "inclusion_category": "core: senior research fellow / visitor",
+      "Paris_connection": "CHEP visitor page specifies Senior Research Fellow",
+      "connection_dates": "2025–2027",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR007",
+      "person_id": "P02-PR030"
+    },
+    {
+      "name": "Jingyi Huang",
+      "inclusion_category": "core: EHP-CHEP fellow",
+      "Paris_connection": "CHEP archive identifies EHP-CHEP fellow; precise Paris residence not documented",
+      "connection_dates": "date_unknown",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR011",
+      "person_id": "P02-PR031"
+    },
+    {
+      "name": "Ivanna Cherchovych",
+      "inclusion_category": "core: CHEP-supported non-residential fellow",
+      "Paris_connection": "Recipient of CHEP-funded scholars-at-risk fellowship at Center for Urban History in Lviv; no Paris residence inferred",
+      "connection_dates": "date_unknown",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR011",
+      "person_id": "P02-PR032"
+    },
+    {
+      "name": "Emma Rothschild",
+      "inclusion_category": "wider: featured participant",
+      "Paris_connection": "Author/editor of CHEP-featured publication; no core affiliation established in accessible roster branches",
+      "connection_dates": "date_unknown",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR009",
+      "person_id": "P02-PR033"
+    },
+    {
+      "name": "David Todd",
+      "inclusion_category": "wider: featured participant",
+      "Paris_connection": "Author/editor of CHEP-featured publication; no core affiliation established in accessible roster branches",
+      "connection_dates": "date_unknown",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR009",
+      "person_id": "P02-PR034"
+    },
+    {
+      "name": "Pierre François",
+      "inclusion_category": "wider: featured participant",
+      "Paris_connection": "Author/editor of CHEP-featured publication; no core affiliation established in accessible roster branches",
+      "connection_dates": "date_unknown",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR009",
+      "person_id": "P02-PR035"
+    },
+    {
+      "name": "Nicolas Barreyre",
+      "inclusion_category": "wider: featured participant",
+      "Paris_connection": "Author/editor of CHEP-featured publication; no core affiliation established in accessible roster branches",
+      "connection_dates": "date_unknown",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR009",
+      "person_id": "P02-PR036"
+    },
+    {
+      "name": "Claire Zalc",
+      "inclusion_category": "wider: featured participant",
+      "Paris_connection": "Author/editor of CHEP-featured publication; no core affiliation established in accessible roster branches",
+      "connection_dates": "date_unknown",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR009",
+      "person_id": "P02-PR037"
+    },
+    {
+      "name": "Paul-André Rosental",
+      "inclusion_category": "wider: featured participant",
+      "Paris_connection": "Author/editor of CHEP-featured publication; no core affiliation established in accessible roster branches",
+      "connection_dates": "date_unknown",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR009",
+      "person_id": "P02-PR038"
+    },
+    {
+      "name": "Sunil Amrith",
+      "inclusion_category": "wider: featured participant",
+      "Paris_connection": "Author/editor of CHEP-featured publication; no core affiliation established in accessible roster branches",
+      "connection_dates": "date_unknown",
+      "evidence_status": "verified",
+      "source_ids": "P02-SR009",
+      "person_id": "P02-PR039"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "P02-SR001",
+      "url": "https://histecon.fr/en/research_associates.html",
+      "title": "Research associates",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "retrieved via web tool; indexed/cached response; live state not independently established"
+    },
+    {
+      "source_id": "P02-SR002",
+      "url": "https://histecon.fr/fr/chercheurs_associes.html",
+      "title": "Chercheurs associés",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "retrieved via web tool; indexed/cached response; live state not independently established"
+    },
+    {
+      "source_id": "P02-SR003",
+      "url": "https://histecon.fr/en/research_fellows.html",
+      "title": "Research fellows",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "retrieved via web tool; indexed/cached response; live state not independently established"
+    },
+    {
+      "source_id": "P02-SR004",
+      "url": "https://histecon.fr/en/research_fellows_past.html",
+      "title": "Past research fellows",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "retrieved via web tool; indexed/cached response; live state not independently established"
+    },
+    {
+      "source_id": "P02-SR005",
+      "url": "https://histecon.fr/en/research_students.html",
+      "title": "Research students 2026",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "retrieved via web tool; indexed/cached response; live state not independently established"
+    },
+    {
+      "source_id": "P02-SR006",
+      "url": "https://histecon.fr/en/visiting_graduate_students.html",
+      "title": "Visiting graduate students",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "retrieved via web tool; indexed/cached response; live state not independently established"
+    },
+    {
+      "source_id": "P02-SR007",
+      "url": "https://histecon.fr/en/research_visitors.html",
+      "title": "Research visitors",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "retrieved via web tool; indexed/cached response; live state not independently established"
+    },
+    {
+      "source_id": "P02-SR008",
+      "url": "https://histecon.fr/en/organisation.html",
+      "title": "Organisation",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "retrieved via web tool; indexed/cached response; live state not independently established"
+    },
+    {
+      "source_id": "P02-SR009",
+      "url": "https://histecon.fr/en/publications.html",
+      "title": "Recent publications by CHEP participants",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "retrieved via web tool; indexed/cached response; live state not independently established"
+    },
+    {
+      "source_id": "P02-SR010",
+      "url": "https://www.sciencespo.fr/histoire/en/research/centre-for-history-and-economics-in-paris-chep/",
+      "title": "Centre for History and Economics in Paris (CHEP)",
+      "publisher_or_owner": "Sciences Po",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "retrieved via web tool; indexed/cached response; live state not independently established"
+    },
+    {
+      "source_id": "P02-SR011",
+      "url": "https://histecon.fr/en/announcements_archive.html",
+      "title": "Announcements archive",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "retrieved via web tool; indexed/cached response; live state not independently established"
+    },
+    {
+      "source_id": "P02-SR012",
+      "url": "https://www.histecon.fr/en/",
+      "title": "CHEP home",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "retrieved via web tool; indexed/cached response; live state not independently established"
+    },
+    {
+      "source_id": "P02-SR013",
+      "url": "https://histecon.fr/fr/Anatole_LeBras.html",
+      "title": "Anatole Le Bras",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "retrieved via web tool; indexed/cached response; live state not independently established"
+    },
+    {
+      "source_id": "P02-SR014",
+      "url": "https://histecon.fr/en/executive_committee.html",
+      "title": "Executive committee",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "retrieval failed: inaccessible/cache miss; EN www alias also failed"
+    },
+    {
+      "source_id": "P02-SR015",
+      "url": "https://histecon.fr/fr/comite_exeutif.html",
+      "title": "Comité exécutif",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "linked FR target; retrieval failed 406"
+    },
+    {
+      "source_id": "P02-SR016",
+      "url": "https://histecon.fr/en/research_students_previous.html",
+      "title": "Previous research students",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "linked target; retrieval failed/cache miss"
+    },
+    {
+      "source_id": "P02-SR017",
+      "url": "https://histecon.fr/fr/doctorantes.html",
+      "title": "Doctorant·e·s",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "linked target; retrieval failed 406"
+    },
+    {
+      "source_id": "P02-SR018",
+      "url": "https://histecon.fr/fr/participants.html",
+      "title": "Participants",
+      "publisher_or_owner": "CHEP",
+      "source_date": "date_unknown",
+      "accessed_at": "2026-11-15",
+      "source_type": "institutional webpage",
+      "supports": "roster and bibliography",
+      "retrieval_status": "retrieved indexed response crawled 2.6 years ago; historical navigation only"
+    }
+  ],
+  "excluded_functions": [
+    "Mary-Rose Cheadle (coordination)",
+    "Amy Price (web architect)"
+  ],
+  "unresolved_branches": [
+    "Executive committee EN and FR",
+    "Previous research students"
+  ]
+}

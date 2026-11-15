@@ -1,0 +1,140 @@
+Browser tab: 1, Title: "Centre for History and Economics in Paris (CHEP) | Sciences Po Centre for History", URL: "https://www.sciencespo.fr/histoire/en/research/centre-for-history-and-economics-in-paris-chep/".
+1 AXWebArea Centre for History and Economics in Paris (CHEP) | Sciences Po Centre for History, URL: sciencespo.fr/histoire/en/research/centre-for-history-and-economics-in-paris-chep/
+	2 container
+		3 container gatsby-focus-wrapper
+			4 container Menu for accessibility
+				5 content list
+					6 container
+						7 link Description: Go to content, Value: sciencespo.fr/histoire/en/research/centre-for-history-and-economics-in-paris-chep/#content
+						8 text /
+					9 container
+						10 link Description: Corporate navigation, Value: sciencespo.fr/histoire/en/research/centre-for-history-and-economics-in-paris-chep/#surHeader
+						11 text  /
+					12 container
+						13 link Description: Main navigation, Value: sciencespo.fr/histoire/en/research/centre-for-history-and-economics-in-paris-chep/#navigation
+						14 text /
+					15 container
+						16 link Description: Search form, Value: sciencespo.fr/histoire/en/research/centre-for-history-and-economics-in-paris-chep/#searchForm
+						17 text /
+					18 link Description: Footer, Value: sciencespo.fr/histoire/en/research/centre-for-history-and-economics-in-paris-chep/#footer
+			19 container Description: Transversal menu, ID: surHeader
+				20 container
+					21 content list
+						22 container
+							23 button YOU ARE A..., ID: NestedItem0
+							24 button RESOURCES, ID: NestedItem1
+							25 button SUPPORT US, ID: NestedItem2
+								26 link Description: SUPPORT US, Help: SUPPORT US - open in a new window, Value: sciencespo.fr/nous-soutenir/en/, ID: sub-menu-item-2}
+							27 button SCIENCESPO.FR, ID: NestedItem3
+								28 link Description: SCIENCESPO.FR, Help: SCIENCESPO.FR - open in a new window, Value: sciencespo.fr/en/, ID: sub-menu-item-3}
+					29 button Description: Open the search window, Help: SEARCH..., ID: searchForm
+					30 link Description: Version française du site internet, Value: sciencespo.fr/histoire/fr/
+			31 container
+				32 link Description: Go to Sciences Po, Value: sciencespo.fr/histoire/en/
+				33 text CENTRE FOR HISTORY
+			34 content list
+				35 button THE CENTRE THE CENTRE, ID: li11
+					36 container
+						37 text THE CENTRE
+						38 text THE CENTRE
+				39 button THE RESEARCH THE RESEARCH, ID: li12
+					40 container
+						41 text THE RESEARCH
+						42 text THE RESEARCH
+				43 button THE STUDIES THE STUDIES, ID: li13
+					44 container
+						45 text THE STUDIES
+						46 text THE STUDIES
+				47 button OUR PRODUCTIONS OUR PRODUCTIONS, ID: li14
+					48 container
+						49 text OUR PRODUCTIONS
+						50 text OUR PRODUCTIONS
+				51 button News News, ID: li15
+					52 container
+						53 link Description: News, Value: sciencespo.fr/histoire/en/news/
+						54 link Description: News, Value: sciencespo.fr/histoire/en/news/
+				55 button Events Events, ID: li16
+					56 container
+						57 link Description: Events, Value: sciencespo.fr/histoire/en/events/
+						58 link Description: Events, Value: sciencespo.fr/histoire/en/events/
+			59 container content
+				60 container main-content-page
+					61 link Description: Home, Value: sciencespo.fr/histoire/en/
+					62 text > The Research > Centre for History and Economics in Paris (CHEP)
+					63 container
+						64 heading CENTRE FOR HISTORY AND ECONOMICS IN PARIS (CHEP), Value: 1
+							65 text CENTRE FOR HISTORY AND ECONOMICS IN PARIS (CHEP)
+						66 text The Centre for History and Economics in Paris (CHEP) is based at the Sciences Po Centre for History. It was established in 2022 as the result of a collaboration between Sciences Po and the 
+						67 link Description: Cambridge , Help: Cambridge - open in a new window, Value: histecon.magd.cam.ac.uk/
+						68 text –
+						69 link Description: Harvard , Help: Harvard - open in a new window, Value: histecon.fas.harvard.edu/organization.htm
+						70 text Joint Centre for History and Economics that began in 2019. CHEP supports historical research on all aspects of economic life from a multidisciplinary and international perspective. It regularly convenes events on fundamental issues, including the relationship between history and economics, the dialogue between economic and environmental history, the use of sources (including digital and visual sources) by historians and economists, and the history of economic ideas and experiences. CHEP is devoted to encouraging work on the history of economic life—broadly construed—by doctoral students using a wide variety of research perspectives and methods. CHEP awards research grants each year to PhD students at Sciences Po. CHEP also regularly hosts research fellows and visitors, including postdoctoral scholars and visiting faculty members. CHEP regularly hosts the 
+						71 link Description: Histories of Economic Life, Value: sciencespo.fr/histoire/en/research/seminars/seminars-by-focus-area-and-theme/histories-of-economic-life/
+						72 text  seminar, in addition to other conferences, meetings, and workshops.
+						73 link Description: Read more , Help: Read more - open in a new window, Value: histecon.fr/en/index.html
+						74 text .
+						75 heading THE CHEP RESEARCH COMMUNITY, Value: 2
+							76 text THE CHEP RESEARCH COMMUNITY
+						77 content list
+							78 container
+								79 AXListMarker • 
+								80 text Jonathan Levy , professor at the Sciences Po Centre for History (CHSP),  CHEP coordinator
+							81 container
+								82 AXListMarker • 
+								83 text Jessica Balguy , postdoctoral researcher
+							84 container
+								85 AXListMarker • 
+								86 text Joan Chaker , postdoctoral researcher
+						87 text PhD candidates CHEP scholarship holders 
+						88 content list
+							89 container
+								90 AXListMarker • 
+								91 text Francesco Giosuè
+							92 container
+								93 AXListMarker • 
+								94 text Rébecca Mathiot
+							95 container
+								96 AXListMarker • 
+								97 text Giulio Piumelli
+							98 container
+								99 AXListMarker • 
+								100 text Aesa Virely
+						101 button Newsletter
+							102 text Newsletter
+						103 button Upcoming events
+							104 text Upcoming events
+			105 container footer
+				106 link Description: Go to Sciences Po, Value: sciencespo.fr/histoire/en/
+				107 text ADDRESS / PHONE
+				108 text 27, rue Saint Guillaume - 75337 Paris Cedex 07
+				109 container
+					110 text Phone: +33 (0)1 45 49 50 50 | +33 (0)1 42 22 31 26
+				111 text FOLLOW US
+				112 content list
+					113 link Description: Sciences Po on Instagram, Value: instagram.com/sciencespo/
+					114 link Description: Sciences Po on LinkedIn, Value: linkedin.com/school/sciences-po/posts/?feedView=all
+					115 link Description: Sciences Po on TikTok, Value: tiktok.com/@sciencespo
+					116 link Description: Sciences Po on Facebook, Value: facebook.com/SciencesPo
+					117 link Description: Sciences Po on Youtube, Value: youtube.com/sciencespo
+				118 text SUBSCRIBE TO OUR NEWSLETTERS
+				119 button Subscribe
+					120 container
+						121 text SUBSCRIBE 
+				122 text MORE
+				123 content list
+					124 link Description: Contact, Value: sciencespo.fr/en/contact-map/
+					125 link Description: A to Z Index, Value: sciencespo.fr/en/a-z-index/
+					126 link Description: Newsroom, Value: newsroom.sciencespo.fr/en?lang=eng
+					127 link Description: Legal terms, Value: sciencespo.fr/en/legal-terms/
+					128 link Description: Accessibility: partially compliant, Value: sciencespo.fr/en/accessibility/
+				129 text QUICK LINKS
+				130 content list
+					131 link Description: Student account, Value: scolarite-en.sciences-po.fr/PROD_EN/twbkwbis.P_WWWLogin
+					132 link Description: Faculty account, Value: scolarite-en.sciences-po.fr/PROD_EN/twbkwbis.P_WWWLogin
+					133 link Description: Intranet, Value: intranet.sciencespo.fr/bienvenue/
+					134 link Description: Manage my password, Value: scpoaccount.sciences-po.fr/choixModifGnl?lang=en
+					135 link Description: Sciences Po App, Value: sciencespo.fr/en/sciencespo-app/
+				136 container
+					137 text © 2026 SCIENCES PO
+
+The focused UI element is 1 AXWebArea Centre for History and Economics in Paris (CHEP) | Sciences Po Centre for History, URL: sciencespo.fr/histoire/en/research/centre-for-history-and-economics-in-paris-chep/

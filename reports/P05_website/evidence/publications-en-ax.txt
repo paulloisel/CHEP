@@ -1,0 +1,102 @@
+Browser tab: 1, Title: "Joint Centre for History and Economics:: Paris", URL: "https://histecon.fr/en/publications.html".
+1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/en/publications.html
+	2 container container
+		3 container mainContent
+			4 container
+				5 link Description: FR, Value: histecon.fr/fr/publications.html
+				6 text  | 
+				7 link Description: EN, Value: histecon.fr/en/publications.html#
+			8 container
+				9 link Description: CHE-Harvard, Value: histecon.fas.harvard.edu/
+				10 link Description: CHE-Cambridge, Value: histecon.magd.cam.ac.uk/
+			11 link Description: Centre for History and Economics, Value: histecon.fr/en/index.html, ID: logo
+			12 content list topNav
+				13 container
+					14 link Description: Home, Value: histecon.fr/en/index.html
+				15 container
+					16 link Description: People, Value: histecon.fr/en/people.html
+				17 container
+					18 link Description: Publications, Value: histecon.fr/en/publications.html
+				19 container
+					20 link Description: Projects, Value: histecon.fr/en/projects.html
+				21 container
+					22 link Description: CHEP Events, Value: histecon.fr/en/chep_events.html
+				23 container
+					24 link Description: Grants, Value: histecon.fr/en/research_grants.html
+				25 container
+					26 link Description: Announcements archive, Value: histecon.fr/en/announcements_archive.html
+				27 container
+					28 link Description: Contact Us, Value: histecon.fr/en/contacts.html
+		29 container mainpage
+			30 heading RECENT PUBLICATIONS BY CHEP PARTICIPANTS, Value: 4
+				31 text RECENT PUBLICATIONS BY CHEP PARTICIPANTS
+			32 container
+				33 container Sous les verrous: Une histoire sociale de la prison (France, premier XXe siècle) Elsa Génard
+					34 container
+						35 link Description: Sous les verrous: Une histoire sociale de la prison (France, premier XXe siècle), Value: editions.ehess.fr/ouvrages/ouvrage/sous-les-verrous/
+						36 text Elsa Génard
+				37 container The Real Economy: History and Theory Jonathan Levy
+					38 container
+						39 link Description: The Real Economy: History and Theory, Value: press.princeton.edu/books/hardcover/9780691252551/the-real-economy
+						40 text Jonathan Levy
+				41 container De proche en proche: Une famille ordinaire dans l'histoire de France Emma Rothschild
+					42 container
+						43 link Description: De proche en proche: Une famille ordinaire dans l'histoire de France, Value: seuil.com/ouvrage/de-proche-en-proche-emma-rothschild/9782021516791
+						44 text Emma Rothschild
+				45 container Aliénés: Une histoire sociale de la folie au XIXe siècle Anatole Le Bras
+					46 link Description: Aliénés: Une histoire sociale de la folie au XIXe siècle, Value: cnrseditions.fr/catalogue/histoire/alienes/
+					47 text Anatole Le Bras
+				48 container Juifs et capitalisme: Aux origines d'une légende Francesca Trivellato
+					49 link Description: Juifs et capitalisme: Aux origines d'une légende, Value: seuil.com/ouvrage/juifs-et-capitalisme-francesca-trivellato/9782021457889
+					50 text Francesca Trivellato
+				51 container Un esclave entre deux empires: Une histoire transimpériale du Maghreb M'hamed Oualdi
+					52 link Description: Un esclave entre deux empires: Une histoire transimpériale du Maghreb, Value: seuil.com/ouvrage/un-esclave-entre-deux-empires-m-hamed-oualdi/9782021515930
+					53 text M'hamed Oualdi
+				54 container Struggle and Mutual Aid: The Age of Worker Solidarity Nicolas Delalande
+					55 link Description: Struggle and Mutual Aid: The Age of Worker Solidarity, Value: otherpress.com/product/struggle-and-mutual-aid-9781635420104/
+					56 text Nicolas Delalande
+				57 container Un empire de velours L'impérialisme informel français au XIXe siècle David Todd
+					58 link Description: Un empire de velours L'impérialisme informel français au XIXe siècle, Value: editionsladecouverte.fr/un_empire_de_velours-9782348073359
+					59 text David Todd
+				60 container Real Estate and Global Urban History Alexia Yates
+					61 link Description: Real Estate and Global Urban History, Value: cambridge.org/core/elements/real-estate-and-global-urban-history/B5E3F63C7A1433E1DE4297BBEEAFF1B3
+					62 text Alexia Yates
+				63 container An Infinite History: The Story of a Family in France over Three Centuries Book Website Emma Rothschild
+					64 link Description: An Infinite History: The Story of a Family in France over Three Centuries, Value: press.princeton.edu/books/hardcover/9780691200309/an-infinite-history
+					65 link Description: Book Website, Value: infinitehistory.org/en/
+					66 text Emma Rothschild
+				67 container Sociologie historique du capitalisme Book Launch Pierre François and Claire Lemercier
+					68 link Description: Sociologie historique du capitalisme, Value: collectionreperes.com/sociologie_historique_du_capitalisme-9782348059834
+					69 link Description: Book Launch, Value: histecon.magd.cam.ac.uk/sociologie/index.html
+					70 text Pierre François and Claire Lemercier
+				71 container A Velvet Empire: French Informal Imperialism in the Nineteenth Century Book Launch David Todd
+					72 link Description: A Velvet Empire: French Informal Imperialism in the Nineteenth Century, Value: press.princeton.edu/books/hardcover/9780691171838/a-velvet-empire
+					73 link Description: Book Launch, Value: histecon.magd.cam.ac.uk/velvet_empire/index.html
+					74 text David Todd
+				75 container A World of Public Debts: A Political History Nicolas Barreyre and Nicolas Delalande (eds.)
+					76 link Description: A World of Public Debts: A Political History, Value: palgrave.com/gb/book/9783030487935#aboutBook
+					77 text Nicolas Barreyre and Nicolas Delalande (eds.)
+				78 container Quantitative Methods in the Humanities Book website Claire Lemercier and Claire Zalc
+					79 link Description: Quantitative Methods in the Humanities, Value: upress.virginia.edu/title/5168
+					80 link Description: Book website, Value: quanthum.hypotheses.org/
+					81 text Claire Lemercier and Claire Zalc
+				82 container La Lutte et l'entraide Nicolas Delalande
+					83 link Description: La Lutte et l'entraide, Value: seuil.com/ouvrage/la-lutte-et-l-entraide-nicolas-delalande/9782021389524
+					84 text Nicolas Delalande
+				85 container Population, the state, and national grandeur Paul-André Rosental
+					86 container
+						87 link Description: Population, the state, and national grandeur, Value: peterlang.com/abstract/title/65325?rskey=EDRwDC&result=1
+						88 text Paul-André Rosental
+				89 container Unruly Waters Sunil Amrith
+					90 link Description: Unruly Waters, Value: penguin.co.uk/authors/125168/sunil-amrith.html
+					91 text Sunil Amrith
+				92 container The Promise and Peril of Credit Francesca Trivellato
+					93 link Description: The Promise and Peril of Credit, Value: press.princeton.edu/titles/13333.html
+					94 text Francesca Trivellato
+	95 container copyright
+		96 container
+			97 text Centre for History and Economics
+			98 text Science Po, Paris
+		99 text © 2026 Centre for History and Economics
+
+The focused UI element is 1 AXWebArea Joint Centre for History and Economics:: Paris, URL: histecon.fr/en/publications.html
